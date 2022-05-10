@@ -64,6 +64,7 @@
 <section id="ListCollections--{{ section.id }}" class="list-collections-section list-collections-section--{{ layout }}" data-section-type="list-collections" data-section-id="{{ section.id }}">
 	<div class="wrapper">
 		{%- if section.settings.title != blank -%}
+			<h2 class="list-collections__title section__heading">{{ section.settings.title | escape }}</h2>
 
 			{%- if settings.show_spacer_lines -%}
 				<hr>

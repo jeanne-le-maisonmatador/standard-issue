@@ -1,12 +1,12 @@
-# Akram NYC Theme 1.5
+# Standard Issue Tees Theme
 
 
 ## Development Setup
 
-Akram NYC Custom Shopify Theme is built using Shopify's CLI and using their starter theme Dawn. For development reference, visit: https://github.com/Shopify/dawn
+Standard Issue Tees Shopify Theme is built using Shopify's CLI and using the Palo Alto 4.0.1 Shopify 2.0 theme. 
 
-To view live site, visit: https://akramnyc.com/
+To view live site, visit: https://standardissuetees.com/
 
 ## License
 
-Copyright (c) 2022-present Akram
+Copyright (c) 2022-present Standard Issue Tees
