@@ -5,6 +5,7 @@
 .color-options {
     display: flex;
     margin-left: -5px;
+    margin-bottom: 0;
 }
 
 .color-options * {

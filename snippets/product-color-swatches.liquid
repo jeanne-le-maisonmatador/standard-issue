@@ -2,47 +2,55 @@
 {%- comment -%} /snippets/product-color-swatches.liquid {%- endcomment -%}
 
 <div>
-    <div class="color-options">
+    <div >
 
-      {%for collection in product.collections%}
-          {%assign activeProduct = product %}
+        <span>
+            Color
+        </span>
 
-          {%assign collectionTitle =  collection.title | downcase%}
-          {%assign productTitle =  product.title | downcase%}
+        <ul class="color-options"  aria-label="Color Swatches">
+        
+        {%for collection in product.collections%}
+            {%assign activeProduct = product %}
 
-          {%if productTitle contains collectionTitle%}
+            {%assign collectionTitle =  collection.title | downcase%}
+            {%assign productTitle =  product.title | downcase%}
 
-              {%assign masterCollection = collection%}
-              {%for product in masterCollection.products%}
-                {%if product.metafields.color_swatch.name %}
-                    <li>
-                        <a   class="variant-wrapper  color-options__variant"   title="Go to {{product.metafields.color_swatch.name}} {{collectionTitle}}"
-                                {%if product.handle == activeProduct.handle%}aria-label='Active Color'{%endif%} 
-                                 href="{{product.url  | within: masterCollection}}" 
-                            data-swatch>
+            {%if productTitle contains collectionTitle%}
 
-                            <div class="variant-input-wrap">
-                                <div class="swatch__element"  data-value="{{product.metafields.color_swatch.name}}">
-                                    <div class="swatch__label {%if product.handle == activeProduct.handle%}is-selected{%endif%}"> 
-                                        <div  class="swatch__color" >
-                                            <img loading="lazy" width="60" height="60" src="{{ product.metafields.color_swatch.image | file_url }}" alt="Color  {{product.metafields.color_swatch.name}}">
-                                         </div>
-                                        <span class="visually-hidden">{{product.metafields.color_swatch.name}}</span>
+                {%assign masterCollection = collection%}
+                {%for product in masterCollection.products%}
+                    {%if product.metafields.color_swatch.name %}
+                        <li>
+                            <a   class="variant-wrapper  color-options__variant"   title="Go to {{product.metafields.color_swatch.name}} {{collectionTitle}}"
+                                     
+                                    href="{{product.url  | within: masterCollection}}" 
+                                data-swatch>
+
+                                <div class="variant-input-wrap">
+                                    <div class="swatch__element"  data-value="{{product.metafields.color_swatch.name}}">
+                                        <div class="swatch__label {%if product.handle == activeProduct.handle%}is-selected{%endif%}"> 
+                                            <div  class="swatch__color" >
+                                                <img loading="lazy" width="60" height="60" src="{{ product.metafields.color_swatch.image | file_url }}" alt="{%if product.handle == activeProduct.handle%}Active{%endif%} Color {{product.metafields.color_swatch.name}}">
+                                            </div>
+                                            <span class="visually-hidden" aria-hidden="true">{{product.metafields.color_swatch.name}}</span>
+                                        </div>
+
                                     </div>
-
                                 </div>
-                            </div>
-                       
-                            <div class="variant-label" aria-hidden="true">
-                                <span class="visually-hidden">Color</span>
-                                <span class="variant-label__value" data-color-label=""> {{product.metafields.color_swatch.name}}</span>
-                            </div>
-                        </a>
-                </li>
-                {%endif%}
-            {%endfor%}
-          {%endif%}
-      {%endfor%}
+                        
+                                <div class="variant-label" aria-hidden="true">
+                                    <span class="visually-hidden">Color</span>
+                                    <span class="variant-label__value" data-color-label=""> {{product.metafields.color_swatch.name}}</span>
+                                </div>
+                            </a>
+                    </li>
+                    {%endif%}
+                {%endfor%}
+            {%endif%}
+        {%endfor%}
+        </li>
+
     </div>
     
   </div>

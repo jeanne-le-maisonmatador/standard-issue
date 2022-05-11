@@ -784,7 +784,19 @@ var ajaxCart = (function(module, $) {
   }
 
   observeAdditionalCheckoutButtons = function() {
- 
+      // identify an element to observe
+      const additionalCheckoutButtons = document.querySelector('.additional-checkout-buttons');
+
+      // create a new instance of `MutationObserver` named `observer`,
+      // passing it a callback function
+      const observer = new MutationObserver(function() {
+        trapFocus();
+        observer.disconnect();
+      });
+
+      // call `observe()` on that MutationObserver instance,
+      // passing it the element to observe, and the options object
+      observer.observe(additionalCheckoutButtons, {subtree: true, childList: true});
   }
 
   module = {
