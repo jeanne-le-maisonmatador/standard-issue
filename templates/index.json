@@ -1,1 +1,442 @@
-{"sections":{"slideshow":{"type":"section-slideshow","blocks":{"slideshow-0":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/HP-Template.jpg","bg_position":"center-center","overlay_opacity":0,"text_color":"text-light","title":"","slide_subheading":"","slide_btn_text":"","slide_btn_link":"","slide_btn_style":"primary","slide_btn_text_2":"","slide_btn_link_2":"","slide_btn_style_2":"secondary","video_btn_text":"Watch the Video","video_btn_link":""}},"slideshow-1":{"type":"image","disabled":true,"settings":{"bg_position":"center-center","overlay_opacity":20,"text_color":"text-light","title":"Welcome to Palo Alto","slide_subheading":"This subheading helps you provide some more detail to the title above.","slide_btn_text":"Welcome","slide_btn_link":"","slide_btn_style":"primary","slide_btn_text_2":"","slide_btn_link_2":"","slide_btn_style_2":"secondary","video_btn_text":"Watch the Video","video_btn_link":"https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"}}},"block_order":["slideshow-0","slideshow-1"],"settings":{"slide_height":"one-hundred-height-hero","content_alignment":"center","show_nav_dots":true,"show_nav_arrows":true,"show_arrow_down":false,"autoplay":false,"duration":4,"transition":"slide"}},"featured-collection":{"type":"section-collection","settings":{"collection":"mar-2022","products_rows":5,"products_layout":"grid","show_title":true,"show_collection_button":true,"button_style":"primary","bg_color":"","enable_slider":true}},"collection-list":{"type":"section-list-collection","blocks":{"collection-list-0":{"type":"collection","settings":{"collection":""}},"collection-list-1":{"type":"collection","settings":{"collection":""}},"collection-list-2":{"type":"collection","settings":{"collection":""}},"collection-list-3":{"type":"collection","settings":{"collection":""}},"collection-list-4":{"type":"collection","settings":{"collection":""}}},"block_order":["collection-list-0","collection-list-1","collection-list-2","collection-list-3","collection-list-4"],"settings":{"layout":"carousel","columns":3,"title":"Collection list","button_text":"Shop all","button_style":"secondary","overlay_opacity":20,"bg_color":"","text_color":"light","enable_slider":true}},"product-feature":{"type":"section-product-feature","disabled":true,"settings":{"image_layout":"square","image_position":"inline","text_position":"right","text_alignment":"left","image_link_1":"","image_link_2":"","hide_image_2":false,"heading":"This is a heading for a Product feature block.","description":"<p>Use this text to share information about the point put forth above. Describe a product, your brand, or what makes you special.<\/p>","button_text":"Learn more","button_link":"","button_style":"primary","video_url":"","bg_color":""}},"image-with-text":{"type":"section-image-with-text","disabled":true,"settings":{"section_height":"sixty-fifty-height-hero","text_position":"left","image_background":true,"bg_position":"center-center","subheading":"Subheading","heading":"Our Story","text":"<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>","button_text":"Learn More","button_url":"","button_style":"secondary","video_url":"","bg_color":""}},"tabbed-collections":{"type":"section-tabbed-collections","disabled":true,"blocks":{"collection-0":{"type":"collection","settings":{"collection":"","title":"","product":""}},"collection-1":{"type":"collection","settings":{"collection":"","title":"","product":""}},"collection-2":{"type":"collection","settings":{"collection":"","title":"","product":""}}},"block_order":["collection-0","collection-1","collection-2"],"settings":{"title":"Featured collections","button_style":"primary","bg_color":""}},"icons-row":{"type":"section-icons-row","blocks":{"icons-row-0":{"type":"text","settings":{"icon_name":"shop","title":"Made In Los Angeles","content":"Vertical manufacturing. Sweatshop free. Proudly made in Vernon, Los Angeles in California."}},"icons-row-1":{"type":"text","settings":{"icon_name":"sync","title":"Refer A Friend, Receive $5","content":"Receive $5 towards your next purchase when you refer a friend."}},"icons-row-2":{"type":"text","settings":{"icon_name":"wallet","title":"Enjoy Now, Pay Later","content":"Use our financing payment option when you check out to enjoy now and pay later."}}},"block_order":["icons-row-0","icons-row-1","icons-row-2"],"settings":{"alignment":"left","icons_width":45,"bg_color":"#fafafa","text_color":"#333333"}},"press":{"type":"section-press","disabled":true,"blocks":{"press-0":{"type":"press","settings":{"text":"<p>Provide some information about what the company below thinks about your brand.<\/p>","link":"","logo_width":120}},"press-1":{"type":"press","settings":{"text":"<p>Provide some information about what the company below thinks about your brand.<\/p>","link":"","logo_width":120}},"press-2":{"type":"press","settings":{"text":"<p>Provide some information about what the company below thinks about your brand.<\/p>","link":"","logo_width":120}},"press-3":{"type":"press","settings":{"text":"<p>Provide some information about what the company below thinks about your brand.<\/p>","link":"","logo_width":120}}},"block_order":["press-0","press-1","press-2","press-3"],"settings":{"title":"Press","bg_color":""}},"video":{"type":"section-video","disabled":true,"settings":{"video_height":"sixty-fifty-height-hero","text_position":"center-center","hero_video_link":"https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc","video_enable_sound":false,"overlay_opacity":20,"text_color":"text-light","title":"Welcome to Palo Alto","main_subheading":"This subheading helps you provide some more detail to the title above.","button_text":"Welcome","button_link":"","button_style":"secondary"}},"logo-list":{"type":"section-logo-list","blocks":{"logo-list-0":{"type":"item_logo","settings":{"image":"shopify:\/\/shop_images\/New_York_Magazine_Logo.svg_e96f3f84-1dda-454f-9562-2ab1e1fc8b82.png","logos_width":120,"url":""}},"logo-list-1":{"type":"item_logo","settings":{"image":"shopify:\/\/shop_images\/Esquire_logo.png","logos_width":120,"url":""}},"logo-list-2":{"type":"item_logo","settings":{"image":"shopify:\/\/shop_images\/1942px-COMPLEX_Magazine_Logo.svg_51dc0c00-2746-495c-a63d-0f4cb178065a.png","logos_width":120,"url":""}},"logo-list-3":{"type":"item_logo","settings":{"image":"shopify:\/\/shop_images\/Hypebeast_Logo_2.png","logos_width":150,"url":""}},"logo-list-4":{"type":"item_logo","settings":{"image":"shopify:\/\/shop_images\/2560px-GQ_logo.svg_7f776473-7a05-4f39-87d5-03e7916a2ef9.png","logos_width":120,"url":""}}},"block_order":["logo-list-0","logo-list-1","logo-list-2","logo-list-3","logo-list-4"],"settings":{"bg_color":""}},"featured-blog":{"type":"section-blog","blocks":{"featured-blog-0":{"type":"article","settings":{"article":"news\/introducing-the-nba-ready-to-wear-cardigan-collection","product1":"nba-standard-issue-sweatpant-lakers","product2":"","product3":""}},"featured-blog-1":{"type":"article","settings":{"article":"news\/jay-z-sighting-in-standard-issue-tees-for-the-brooklyn-museum","product1":"","product2":"","product3":""}},"featured-blog-2":{"type":"article","settings":{"article":"news\/new-york-magazine-features-standard-issue-tees-standard-sweatpants-in-suede-in-what-s-the-best-men-s-loungewear","product1":"mid-weight-organic-fleece-sweatpants-moonscape","product2":"","product3":""}},"featured-blog-3":{"type":"article","settings":{"article":"news\/esquire-features-cotton-shearling-mock-neck-pullover-in-best-menswear-releases","product1":"full-zip-jacket-cotton-shearling-olive","product2":"","product3":""}},"featured-blog-4":{"type":"article","settings":{"article":"news\/ny-mag-features-the-standard-hoody-on-the-10-hoodies-i-recommend-to-most-everyone-i-know","product1":"standard-hoody-concrete","product2":"","product3":""}}},"block_order":["featured-blog-0","featured-blog-1","featured-blog-2","featured-blog-3","featured-blog-4"],"settings":{"title":"","bg_color":""}}},"order":["slideshow","featured-collection","collection-list","product-feature","image-with-text","tabbed-collections","icons-row","press","video","logo-list","featured-blog"]}
+{
+  "sections": {
+    "slideshow": {
+      "type": "section-slideshow",
+      "blocks": {
+        "slideshow-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/HP-Template.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/HP-Template-Mobile.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "text_color": "text-light",
+            "title": "",
+            "slide_subheading": "",
+            "slide_btn_text": "",
+            "slide_btn_link": "",
+            "slide_btn_style": "primary",
+            "slide_btn_text_2": "",
+            "slide_btn_link_2": "",
+            "slide_btn_style_2": "secondary",
+            "video_btn_text": "Watch the Video",
+            "video_btn_link": ""
+          }
+        },
+        "slideshow-1": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "bg_position": "center-center",
+            "overlay_opacity": 20,
+            "text_color": "text-light",
+            "title": "Welcome to Palo Alto",
+            "slide_subheading": "This subheading helps you provide some more detail to the title above.",
+            "slide_btn_text": "Welcome",
+            "slide_btn_link": "",
+            "slide_btn_style": "primary",
+            "slide_btn_text_2": "",
+            "slide_btn_link_2": "",
+            "slide_btn_style_2": "secondary",
+            "video_btn_text": "Watch the Video",
+            "video_btn_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
+          }
+        }
+      },
+      "block_order": [
+        "slideshow-0",
+        "slideshow-1"
+      ],
+      "settings": {
+        "slide_height": "one-hundred-height-hero",
+        "content_alignment": "center",
+        "show_nav_dots": true,
+        "show_nav_arrows": true,
+        "show_arrow_down": false,
+        "autoplay": false,
+        "duration": 4,
+        "transition": "slide"
+      }
+    },
+    "featured-collection": {
+      "type": "section-collection",
+      "settings": {
+        "collection": "mar-2022",
+        "products_rows": 5,
+        "products_layout": "grid",
+        "show_title": true,
+        "show_collection_button": true,
+        "button_style": "primary",
+        "bg_color": "",
+        "enable_slider": true
+      }
+    },
+    "collection-list": {
+      "type": "section-list-collection",
+      "blocks": {
+        "collection-list-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "tees",
+            "custom_collection_image": "shopify:\/\/shop_images\/Tees_9f652209-34e4-445c-8245-00ddfec4edfa.jpg"
+          }
+        },
+        "collection-list-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "sweat-set",
+            "custom_collection_image": "shopify:\/\/shop_images\/Sweats.jpg"
+          }
+        },
+        "collection-list-2": {
+          "type": "collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "collection-list-3": {
+          "type": "collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "collection-list-4": {
+          "type": "collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "collection-list-0",
+        "collection-list-1",
+        "collection-list-2",
+        "collection-list-3",
+        "collection-list-4"
+      ],
+      "settings": {
+        "layout": "carousel",
+        "columns": 3,
+        "title": "Collection list",
+        "button_text": "Shop Now",
+        "button_style": "secondary",
+        "overlay_opacity": 0,
+        "bg_color": "#ffffff",
+        "text_color": "light",
+        "enable_slider": true
+      }
+    },
+    "product-feature": {
+      "type": "section-product-feature",
+      "disabled": true,
+      "settings": {
+        "image_layout": "square",
+        "image_position": "inline",
+        "text_position": "right",
+        "text_alignment": "left",
+        "image_link_1": "",
+        "image_link_2": "",
+        "hide_image_2": false,
+        "heading": "This is a heading for a Product feature block.",
+        "description": "<p>Use this text to share information about the point put forth above. Describe a product, your brand, or what makes you special.<\/p>",
+        "button_text": "Learn more",
+        "button_link": "",
+        "button_style": "primary",
+        "video_url": "",
+        "bg_color": ""
+      }
+    },
+    "image-with-text": {
+      "type": "section-image-with-text",
+      "disabled": true,
+      "settings": {
+        "section_height": "sixty-fifty-height-hero",
+        "text_position": "left",
+        "image_background": true,
+        "bg_position": "center-center",
+        "subheading": "Subheading",
+        "heading": "Our Story",
+        "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
+        "button_text": "Learn More",
+        "button_url": "",
+        "button_style": "secondary",
+        "video_url": "",
+        "bg_color": ""
+      }
+    },
+    "tabbed-collections": {
+      "type": "section-tabbed-collections",
+      "disabled": true,
+      "blocks": {
+        "collection-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "title": "",
+            "product": ""
+          }
+        },
+        "collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "title": "",
+            "product": ""
+          }
+        },
+        "collection-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "title": "",
+            "product": ""
+          }
+        }
+      },
+      "block_order": [
+        "collection-0",
+        "collection-1",
+        "collection-2"
+      ],
+      "settings": {
+        "title": "Featured collections",
+        "button_style": "primary",
+        "bg_color": ""
+      }
+    },
+    "icons-row": {
+      "type": "section-icons-row",
+      "blocks": {
+        "icons-row-0": {
+          "type": "text",
+          "settings": {
+            "icon_name": "shop",
+            "title": "Made In Los Angeles",
+            "content": "Vertical manufacturing. Sweatshop free. Proudly made in Vernon, Los Angeles in California."
+          }
+        },
+        "icons-row-1": {
+          "type": "text",
+          "settings": {
+            "icon_name": "sync",
+            "title": "Refer A Friend, Receive $5",
+            "content": "Receive $5 towards your next purchase when you refer a friend."
+          }
+        },
+        "icons-row-2": {
+          "type": "text",
+          "settings": {
+            "icon_name": "wallet",
+            "title": "Enjoy Now, Pay Later",
+            "content": "Use our financing payment option when you check out to enjoy now and pay later."
+          }
+        }
+      },
+      "block_order": [
+        "icons-row-0",
+        "icons-row-1",
+        "icons-row-2"
+      ],
+      "settings": {
+        "alignment": "left",
+        "icons_width": 45,
+        "bg_color": "#fafafa",
+        "text_color": "#333333"
+      }
+    },
+    "press": {
+      "type": "section-press",
+      "disabled": true,
+      "blocks": {
+        "press-0": {
+          "type": "press",
+          "settings": {
+            "text": "<p>Provide some information about what the company below thinks about your brand.<\/p>",
+            "link": "",
+            "logo_width": 120
+          }
+        },
+        "press-1": {
+          "type": "press",
+          "settings": {
+            "text": "<p>Provide some information about what the company below thinks about your brand.<\/p>",
+            "link": "",
+            "logo_width": 120
+          }
+        },
+        "press-2": {
+          "type": "press",
+          "settings": {
+            "text": "<p>Provide some information about what the company below thinks about your brand.<\/p>",
+            "link": "",
+            "logo_width": 120
+          }
+        },
+        "press-3": {
+          "type": "press",
+          "settings": {
+            "text": "<p>Provide some information about what the company below thinks about your brand.<\/p>",
+            "link": "",
+            "logo_width": 120
+          }
+        }
+      },
+      "block_order": [
+        "press-0",
+        "press-1",
+        "press-2",
+        "press-3"
+      ],
+      "settings": {
+        "title": "Press",
+        "bg_color": ""
+      }
+    },
+    "video": {
+      "type": "section-video",
+      "disabled": true,
+      "settings": {
+        "video_height": "sixty-fifty-height-hero",
+        "text_position": "center-center",
+        "hero_video_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "video_enable_sound": false,
+        "overlay_opacity": 20,
+        "text_color": "text-light",
+        "title": "Welcome to Palo Alto",
+        "main_subheading": "This subheading helps you provide some more detail to the title above.",
+        "button_text": "Welcome",
+        "button_link": "",
+        "button_style": "secondary"
+      }
+    },
+    "logo-list": {
+      "type": "section-logo-list",
+      "blocks": {
+        "logo-list-0": {
+          "type": "item_logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/New_York_Magazine_Logo.svg_e96f3f84-1dda-454f-9562-2ab1e1fc8b82.png",
+            "logos_width": 120,
+            "url": ""
+          }
+        },
+        "logo-list-1": {
+          "type": "item_logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Esquire_logo.png",
+            "logos_width": 120,
+            "url": ""
+          }
+        },
+        "logo-list-2": {
+          "type": "item_logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1942px-COMPLEX_Magazine_Logo.svg_51dc0c00-2746-495c-a63d-0f4cb178065a.png",
+            "logos_width": 120,
+            "url": ""
+          }
+        },
+        "logo-list-3": {
+          "type": "item_logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Hypebeast_Logo_2.png",
+            "logos_width": 150,
+            "url": ""
+          }
+        },
+        "logo-list-4": {
+          "type": "item_logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2560px-GQ_logo.svg_7f776473-7a05-4f39-87d5-03e7916a2ef9.png",
+            "logos_width": 120,
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo-list-0",
+        "logo-list-1",
+        "logo-list-2",
+        "logo-list-3",
+        "logo-list-4"
+      ],
+      "settings": {
+        "bg_color": ""
+      }
+    },
+    "featured-blog": {
+      "type": "section-blog",
+      "blocks": {
+        "featured-blog-0": {
+          "type": "article",
+          "settings": {
+            "article": "news\/introducing-the-nba-ready-to-wear-cardigan-collection",
+            "product1": "nba-standard-issue-sweatpant-lakers",
+            "product2": "",
+            "product3": ""
+          }
+        },
+        "featured-blog-1": {
+          "type": "article",
+          "settings": {
+            "article": "news\/jay-z-sighting-in-standard-issue-tees-for-the-brooklyn-museum",
+            "product1": "",
+            "product2": "",
+            "product3": ""
+          }
+        },
+        "featured-blog-2": {
+          "type": "article",
+          "settings": {
+            "article": "news\/new-york-magazine-features-standard-issue-tees-standard-sweatpants-in-suede-in-what-s-the-best-men-s-loungewear",
+            "product1": "mid-weight-organic-fleece-sweatpants-moonscape",
+            "product2": "",
+            "product3": ""
+          }
+        },
+        "featured-blog-3": {
+          "type": "article",
+          "settings": {
+            "article": "news\/esquire-features-cotton-shearling-mock-neck-pullover-in-best-menswear-releases",
+            "product1": "full-zip-jacket-cotton-shearling-olive",
+            "product2": "",
+            "product3": ""
+          }
+        },
+        "featured-blog-4": {
+          "type": "article",
+          "settings": {
+            "article": "news\/ny-mag-features-the-standard-hoody-on-the-10-hoodies-i-recommend-to-most-everyone-i-know",
+            "product1": "standard-hoody-concrete",
+            "product2": "",
+            "product3": ""
+          }
+        }
+      },
+      "block_order": [
+        "featured-blog-0",
+        "featured-blog-1",
+        "featured-blog-2",
+        "featured-blog-3",
+        "featured-blog-4"
+      ],
+      "settings": {
+        "title": "",
+        "bg_color": ""
+      }
+    }
+  },
+  "order": [
+    "slideshow",
+    "featured-collection",
+    "collection-list",
+    "product-feature",
+    "image-with-text",
+    "tabbed-collections",
+    "icons-row",
+    "press",
+    "video",
+    "logo-list",
+    "featured-blog"
+  ]
+}
