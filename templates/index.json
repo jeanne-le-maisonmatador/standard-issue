@@ -78,26 +78,28 @@
           "type": "collection",
           "settings": {
             "collection": "tees",
-            "custom_collection_image": "shopify:\/\/shop_images\/Tees_9f652209-34e4-445c-8245-00ddfec4edfa.jpg"
+            "custom_collection_image": "shopify:\/\/shop_images\/Website_Launch_New_AssetsTees.jpg"
           }
         },
         "collection-list-1": {
           "type": "collection",
           "settings": {
             "collection": "sweat-set",
-            "custom_collection_image": "shopify:\/\/shop_images\/Sweats.jpg"
+            "custom_collection_image": "shopify:\/\/shop_images\/Website_Launch_New_AssetsSweats.jpg"
           }
         },
         "collection-list-2": {
           "type": "collection",
           "settings": {
-            "collection": ""
+            "collection": "hoody",
+            "custom_collection_image": "shopify:\/\/shop_images\/Website_Launch_New_AssetsHoddys.jpg"
           }
         },
         "collection-list-3": {
           "type": "collection",
           "settings": {
-            "collection": ""
+            "collection": "crewneck-sweater",
+            "custom_collection_image": "shopify:\/\/shop_images\/Website_Launch_New_AssetsCrewnecks.jpg"
           }
         },
         "collection-list-4": {
