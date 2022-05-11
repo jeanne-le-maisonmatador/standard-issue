@@ -88,15 +88,15 @@
           "footer-block-0": {
             "type": "link",
             "settings": {
-              "menu": "footer",
+              "menu": "faq",
               "show_title": true
             }
           },
           "footer-block-1": {
             "type": "text",
             "settings": {
-              "title": "About us",
-              "footer_text": "<p>Leave your customers with a final message about your brand in this rich text block.<\/p>"
+              "title": "ABOUT US",
+              "footer_text": "<p>VERTICAL MANUFACTURING. SWEATSHOP FREE. PROUDLY MADE IN VERNON, CALIFORNIA.<\/p>"
             }
           },
           "footer-block-2": {
