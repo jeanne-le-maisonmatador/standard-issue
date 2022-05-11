@@ -96,7 +96,7 @@
             "type": "text",
             "settings": {
               "title": "ABOUT US",
-              "footer_text": "<p>Vertical manufacturing. Sweatshop free. Proudly made in Vernon, Los Angeles in California.<\/p>"
+              "footer_text": "<p>Vertical manufacturing. Sweatshop free.  <\/p><p>Proudly made in Vernon, Los Angeles in California.<\/p>"
             }
           },
           "footer-block-2": {
