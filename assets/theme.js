@@ -80,6 +80,8 @@ ShopifyAPI.onError = function(XMLHttpRequest, textStatus) {
   - Allow custom error callback
 ==============================================================================*/
 ShopifyAPI.addItemFromForm = function(form, callback, errorCallback) {
+  console.log('add');
+  console.log(form); 
   var params = {
     type: 'POST',
     url: theme.routes.cart_url + '/add.js',
@@ -87,9 +89,11 @@ ShopifyAPI.addItemFromForm = function(form, callback, errorCallback) {
     dataType: 'json',
     success: function(line_item) {
       if ((typeof callback) === 'function') {
+              console.log(line_item)
         callback(line_item, form);
       }
       else {
+        console.log(line_item)
         ShopifyAPI.onItemAdded(line_item, form);
       }
     },
@@ -109,14 +113,28 @@ ShopifyAPI.addItemFromForm = function(form, callback, errorCallback) {
 
 // Get from cart.js returns the cart in JSON
 ShopifyAPI.getCart = function(callback) {
-  jQuery.getJSON( theme.routes.shop_url + '/cart.js', function (cart, textStatus) {
-    if ((typeof callback) === 'function') {
-      callback(cart);
-    }
-    else {
-      ShopifyAPI.onCartUpdate(cart);
-    }
-  });
+  console.log('get cart!');
+
+  fetch(`${routes.cart_get_url}`)
+  .then((response) => {
+    return response.text();
+  })
+  .then((state) => {
+    const cart = JSON.parse(state);
+    callback(cart);
+  })
+  .catch((err) => {
+    console.log(err);
+  }); 
+
+  // jQuery.getJSON( theme.routes.shop_url + '/cart.json?callback=getCartData', function (cart, textStatus) {
+  //   if ((typeof callback) === 'function') {
+  //     console.log(cart); 
+  //   }
+  //   else {
+  //     console.log(cart); 
+  //   }
+  // });
 };
 
 // POST to cart/change.js returns the cart in JSON
@@ -125,7 +143,7 @@ ShopifyAPI.changeItem = function(line, quantity, callback) {
   var $cartErrors = $( '[data-cart-errors]');
   var oldCartItemCount = 0;
 
-  jQuery.getJSON( theme.routes.shop_url + '/cart.js', function (cart, textStatus) {
+  jQuery.getJSON( theme.routes.shop_url + '/cart.json?callback=?', function (cart, textStatus) {
     oldCartItemCount = cart.item_count;
 
     var params = {
@@ -766,19 +784,7 @@ var ajaxCart = (function(module, $) {
   }
 
   observeAdditionalCheckoutButtons = function() {
-    // identify an element to observe
-    const additionalCheckoutButtons = document.querySelector('.additional-checkout-buttons');
-
-    // create a new instance of `MutationObserver` named `observer`,
-    // passing it a callback function
-    const observer = new MutationObserver(function() {
-      trapFocus();
-      observer.disconnect();
-    });
-
-    // call `observe()` on that MutationObserver instance,
-    // passing it the element to observe, and the options object
-    observer.observe(additionalCheckoutButtons, {subtree: true, childList: true});
+ 
   }
 
   module = {
@@ -1943,8 +1949,11 @@ PaloAlto.initCart = function() {
       .slideDown();
   }
 
+  // *MARKER* 
+
   var getCart = function() {
-    fetch('/cart.js')
+    console.log('get cart!');
+    fetch('/cart.json?callback=?')
       .then((response) => response.json())
       .then((response) => {
         return fetch('/cart?section_id=api-cart-items');

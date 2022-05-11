@@ -1,0 +1,182 @@
+/**
+* Color Swatches Styles
+*/
+
+.color-options {
+    display: flex;
+    margin-left: -5px;
+}
+
+.color-options * {
+    list-style: none;
+}
+
+.color-options__variant .variant-label {
+    position: absolute;
+    opacity: 0;
+}
+
+.swatch {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    margin: -5px;
+}
+
+@media only screen and (min-width: 1024px) {
+    .text-center .swatch {
+        justify-content: center;
+    }
+}
+
+.swatch__element {
+    position: relative;
+    display: block;
+    z-index: auto;
+    margin: 5px;
+    width: var(--swatch-size);
+    height: var(--swatch-size);
+}
+
+.swatch__element::after {
+    content: attr(data-value);
+    position: absolute;
+    left: 0;
+    top: 100%;
+    margin-top: 8px;
+    background: var(--bg);
+    color: var(--text);
+    padding: 2px 5px;
+    border-radius: var(---radius);
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.15);
+    border: 1px solid var(--border);
+    white-space: nowrap;
+    opacity: 0;
+    visibility: hidden;
+    transition: transform 0.15s ease, opacity 0.15s ease, visibility 0s linear 0.15s;
+    font-size: calc(0.6875rem * var(---font-adjust-body));
+    transform: translateY(50%);
+    text-transform: uppercase;
+}
+
+.collection__filter-tag--swatch .swatch__element::after {
+    content: none;
+}
+
+.swatch__element:hover {
+    z-index: 5;
+}
+
+.swatch__element:hover::after {
+    opacity: 1;
+    visibility: visible;
+    transition: transform 0.3s ease, opacity 0.3s ease, visibility 0s linear 0s;
+    transform: translateY(0);
+}
+
+.swatch__input {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-width: 100%;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    border-radius: 50%;
+    z-index: 2;
+    cursor: pointer;
+}
+
+.swatch__label.is-selected .swatch__color {
+    width: calc(100% - 4px);
+    height: calc(100% - 4px);
+    margin: 3px;
+
+}
+
+.swatch__label.is-selected .swatch__color::after {
+    opacity: 1;
+    visibility: visible;
+    transition: opacity 0.2s ease, visibility 0s linear 0s;
+}
+
+.swatch__input:checked+.swatch__label .swatch__color {
+    width: calc(100% - 6px);
+    height: calc(100% - 6px);
+    margin: 3px;
+}
+
+.swatch__input:checked+.swatch__label .swatch__color::after {
+    opacity: 1;
+    visibility: visible;
+    transition: opacity 0.2s ease, visibility 0s linear 0s;
+}
+
+
+.swatch__label {
+    display: block;
+    width: 100%;
+    height: 100%;
+    cursor: pointer;
+}
+
+.soldout .swatch__label {
+    opacity: 0.6;
+}
+
+.swatch__color {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    color: #DDD;
+    background-color: #DDD;
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    transition: width 0.2s ease, height 0.2s ease, margin 0.2s ease;
+}
+
+.swatch__color img {
+    border-radius: 100%;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+.swatch__color::after {
+    content: "";
+    position: absolute;
+    top: -3px;
+    left: -3px;
+    right: -3px;
+    bottom: -3px;
+    border: 1px solid #00000059;
+    border-radius: 50%;
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.2s ease, visibility 0s linear 0.2s;
+}
+
+.swatch__color[class*=white] {
+    box-shadow: inset 0 0 0 1px rgba(0, 0, 0, 0.35);
+}
+
+.swatch__color[class*=white]::after {
+    border-color: rgba(0, 0, 0, 0.35);
+}
+
+.swatch__link {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    font-size: 0;
+    font-style: normal;
+    line-height: 0;
+    text-indent: -100%;
+    overflow: hidden;
+}

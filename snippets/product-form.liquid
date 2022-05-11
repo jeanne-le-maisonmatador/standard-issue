@@ -1,3 +1,7 @@
+
+
+
+
 <!-- /snippets/product-form.liquid -->
 
 {%- liquid
@@ -47,6 +51,12 @@
   {%- comment -%}
     Variants
   {%- endcomment -%}
+
+{%if enable_color_swatches %}
+  {%render 'product-color-swatches', product: product %}
+{%endif%}
+
+  
   <div class="variants-wrapper{% unless enable_variant_boxes %} variants-wrapper--grid{% endunless %}">
     {%- liquid
       unless product.has_only_default_variant
@@ -194,3 +204,5 @@
     {%- endif -%}
   </div>
 {%- endform -%}
+
+

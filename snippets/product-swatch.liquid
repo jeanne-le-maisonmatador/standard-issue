@@ -1,7 +1,7 @@
 {%- comment -%} /snippets/product-swatch.liquid {%- endcomment -%}
 {%- assign assign file_extension = 'png' -%}
 
-<div class="variant-wrapper variant-wrapper--color" data-option="option{{ option.position }}">
+<div class="variant-wrapper variant-wrapper--color" style="position: absolute; opacity: 0;" aria-hidden="true"  data-option="option{{ option.position }}">
   <label class="variant-label--color visually-hidden" for="SingleOptionSelector-{{ index }}-{{ section.id }}">
 		{{- option.name -}}
 	</label>

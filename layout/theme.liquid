@@ -144,6 +144,13 @@
     window.isHeaderTransparent = false;
     window.initialHeaderHeight = 0;
     window.lastWindowWidth = window.innerWidth || document.documentElement.clientWidth;
+    window.routes = {
+      cart_add_url: '/cart/add.js',
+      cart_change_url: '/cart/change.js',
+      cart_update_url: '/cart/update.js',
+      cart_get_url: '/cart.js',
+    };
+
   </script>
   <script src="{{ 'lazysizes.min.js' | asset_url }}" async="async"></script>
 
