@@ -12,6 +12,7 @@
     "color_button_secondary": "#ffffff",
     "type_heading_font": "oswald_n4",
     "type_base_font": "sans-serif",
+    "button_caps": true,
     "product_grid_hover_image": false,
     "product_grid_slideshow": false,
     "product_grid_slideshow_arrows": "black",
