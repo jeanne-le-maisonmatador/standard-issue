@@ -117,7 +117,7 @@
       "settings": {
         "layout": "carousel",
         "columns": 3,
-        "title": "Collection list",
+        "title": "Shop By Collection",
         "button_text": "Shop Now",
         "button_style": "secondary",
         "overlay_opacity": 0,
