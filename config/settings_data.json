@@ -12,6 +12,7 @@
     "color_button_secondary": "#ffffff",
     "type_heading_font": "oswald_n4",
     "type_base_font": "sans-serif",
+    "button_caps": false,
     "product_grid_hover_image": false,
     "product_grid_slideshow": false,
     "product_grid_slideshow_arrows": "black",
@@ -88,21 +89,21 @@
           "footer-block-0": {
             "type": "link",
             "settings": {
-              "menu": "footer",
+              "menu": "faq",
               "show_title": true
             }
           },
           "footer-block-1": {
             "type": "text",
             "settings": {
-              "title": "About us",
-              "footer_text": "<p>Leave your customers with a final message about your brand in this rich text block.<\/p>"
+              "title": "ABOUT US",
+              "footer_text": "<p>Vertical manufacturing. Sweatshop free.  <\/p><p>Proudly made in Vernon, Los Angeles in California.<\/p>"
             }
           },
           "footer-block-2": {
             "type": "newsletter",
             "settings": {
-              "title": "<p>Newsletter<\/p>"
+              "title": "<p>NEWSLETTER<\/p>"
             }
           }
         },
@@ -161,7 +162,15 @@
     },
     "content_for_index": [
 
-    ]
+    ],
+    "blocks": {
+      "855628211100114053": {
+        "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/klaviyo-onsite-embed\/2632fe16-c075-4321-a88b-50b567f42507",
+        "disabled": false,
+        "settings": {
+        }
+      }
+    }
   },
   "presets": {
     "Palo Alto": {

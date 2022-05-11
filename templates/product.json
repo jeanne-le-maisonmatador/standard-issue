@@ -20,7 +20,7 @@
         "description": {
           "type": "description",
           "settings": {
-            "tabs_style": "accordions",
+            "tabs_style": "tabs_disabled",
             "tab_title_1": "Tab",
             "tab_content_1": "<p>This content type will accept <strong>rich text<\/strong> to help with adding styles and links to additional pages or content. Use this to add supplementary information to help your buyers.<\/p>",
             "tab_title_2": "Info",
