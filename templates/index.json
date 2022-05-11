@@ -77,7 +77,8 @@
         "collection-list-0": {
           "type": "collection",
           "settings": {
-            "collection": ""
+            "collection": "tees",
+            "custom_collection_image": "shopify:\/\/shop_images\/Tees_9f652209-34e4-445c-8245-00ddfec4edfa.jpg"
           }
         },
         "collection-list-1": {
@@ -116,10 +117,10 @@
         "layout": "carousel",
         "columns": 3,
         "title": "Collection list",
-        "button_text": "Shop all",
+        "button_text": "Shop Now",
         "button_style": "secondary",
-        "overlay_opacity": 20,
-        "bg_color": "",
+        "overlay_opacity": 0,
+        "bg_color": "#ffffff",
         "text_color": "light",
         "enable_slider": true
       }
