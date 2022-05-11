@@ -123,7 +123,7 @@
         "title": "SHOP BY COLLECTION",
         "button_text": "Shop Now",
         "button_style": "secondary",
-        "overlay_opacity": 0,
+        "overlay_opacity": 20,
         "bg_color": "#ffffff",
         "text_color": "light",
         "enable_slider": true
