@@ -11603,6 +11603,10 @@ button.collection__filters__toggle {
     }
 }
 
+.variant-wrapper {
+    margin-bottom: 25px;
+}
+
 .variant-wrapper--color {
     width: 100%;
     margin-bottom: 5px;
@@ -11653,11 +11657,16 @@ input[type=radio].variant-input {
     height: 32px;
     margin: 0;
     clip: unset;
-    cursor: pointer
+    cursor: pointer;
 }
 
 .variant-input:checked+.variant__button-label {
     box-shadow: inset 0 0 0 1px var(--border-lighten-darken)
+}
+
+input[type=radio].variant-input:hover+label,
+input[type=radio].variant-input:focus+label {
+    background-color: #aaaaaa;
 }
 
 .variant__button-label {
@@ -11666,13 +11675,20 @@ input[type=radio].variant-input {
     position: relative;
     display: inline-block;
     font-weight: 400;
-    padding: 7px 15px;
     background-color: #fff;
     box-shadow: inset 0 0 0 1px var(--border);
     border-radius: var(---radius);
     margin: 0 4px 8px;
     cursor: pointer;
-    transition: box-shadow .25s ease
+    transition: box-shadow .25s ease;
+    width: var(--swatch-size);
+    height: var(--swatch-size);
+    transition: box-shadow .25s ease, background-color .25s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 100%;
+    font-size: calc(.75rem*var(---font-adjust-button));
 }
 
 .variant__button-label.disabled {
@@ -11750,6 +11766,15 @@ input[type=radio].variant-input {
     display: grid;
     grid-template-columns: minmax(0, 1fr);
     gap: var(--grid-gutter)
+}
+
+@media only screen and (min-width:500px) {
+    .buttons-grid {
+        width: 48%;
+        position: absolute;
+        bottom: 0;
+        right: 0;
+    }
 }
 
 @media only screen and (min-width:1320px) {
