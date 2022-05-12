@@ -19,7 +19,7 @@
     "product_badge_style": "circle",
     "enable_variant_boxes": true,
     "enable_color_swatches": true,
-    "show_payment_button": true,
+    "show_payment_button": false,
     "quick_button": "view",
     "cart_type": "drawer",
     "enable_cart_notes": false,
