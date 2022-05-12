@@ -11648,6 +11648,31 @@ button.collection__filters__toggle {
     display: inline-block
 }
 
+.variant-field.is-sold-out {
+    position: relative;
+}
+
+.variant-field.is-sold-out .variant__button-label::after {
+    content: "";
+    position: absolute;
+    height: 1px;
+    width: 100%;
+    background-color: var(--border);
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    left: 0;
+    right: 0;
+    transform: rotate(45deg);
+}
+
+
+.variant-field.is-sold-out .variant__button-label {
+    background-color: var(---color-secondary) !important;
+}
+
+.variant-field.is-sold-out .variant-input {}
+
 input[type=radio].variant-input {
     top: 0;
     left: 0;
@@ -11660,8 +11685,10 @@ input[type=radio].variant-input {
     cursor: pointer;
 }
 
+
 .variant-input:checked+.variant__button-label {
-    box-shadow: inset 0 0 0 1px var(--border-lighten-darken)
+    /* box-shadow: inset 0 0 0 1px var(--border-lighten-darken) */
+    background-color: #aaaaaa;
 }
 
 input[type=radio].variant-input:hover+label,
@@ -11676,7 +11703,7 @@ input[type=radio].variant-input:focus+label {
     display: inline-block;
     font-weight: 400;
     background-color: #fff;
-    box-shadow: inset 0 0 0 1px var(--border);
+    border: 1px solid var(--border);
     border-radius: var(---radius);
     margin: 0 4px 8px;
     cursor: pointer;

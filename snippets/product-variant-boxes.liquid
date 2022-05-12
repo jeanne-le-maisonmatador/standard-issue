@@ -1,6 +1,8 @@
 {%- assign enable_color_swatches = settings.enable_color_swatches -%}
+{%- assign variants = product.variants -%}
 
 {%- for option in product.options_with_values -%}
+
   {%- assign downcased_option = option.name | downcase -%}
   {%- assign is_color = false -%}
   
@@ -60,8 +62,20 @@
           id="SingleOptionSelector-{{ forloop.index0 }}-{{product.id}}"
           class="variant-input-wrap variant-input-wrap--boxes"
           data-index="option{{ option.position }}">
+
           {%- for value in option.values -%}
-            <div class="variant-field">
+            {% assign option_unavailable = false %}
+
+            {%- for variant in variants -%}
+              {%- if variant.available == false -%}
+                {% assign options = variant.options %}
+                  {%- if options contains value -%}
+                    {% assign option_unavailable = true %}
+                  {%- endif -%}
+              {%- endif -%}
+            {%- endfor -%}
+
+            <div class="variant-field  {% if option_unavailable %}is-sold-out{% endif %} ">
               <input
                 id="option{{ option.position }}-{{ value }}-{{ forloop.index0 }}"
                 class="visually-hidden variant-input"
@@ -85,3 +99,7 @@
 
 {{- color_variants -}}
 {{- non_color_variants -}}
+
+<script type="application/json">
+  {{ product.variants | json }}
+</script>
