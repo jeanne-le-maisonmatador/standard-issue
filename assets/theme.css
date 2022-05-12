@@ -11847,6 +11847,11 @@ input[type=radio].variant-input:focus+label {
     padding: 0
 }
 
+.popup-quick-view .product-color-swatches {
+    display: none;
+}
+
+
 .popup-quick-view .product-single.is-loading {
     opacity: 0;
     visibility: hidden
