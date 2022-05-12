@@ -1,23 +1,24 @@
 
 {%- comment -%} /snippets/product-color-swatches.liquid {%- endcomment -%}
 
-<div>
+
     <div >
+      
 
-        <span>
-            Color
-        </span>
-
-        <ul class="color-options"  aria-label="Color Swatches">
-        
         {%for collection in product.collections%}
+     
             {%assign activeProduct = product %}
 
             {%assign collectionTitle =  collection.title | downcase%}
             {%assign productTitle =  product.title | downcase%}
 
             {%if productTitle contains collectionTitle%}
+                <span>
+                    Color
+                </span>
 
+                <ul class="color-options"  aria-label="Color Swatches">
+        
                 {%assign masterCollection = collection%}
                 {%for product in masterCollection.products%}
                     {%if product.metafields.color_swatch.name %}
@@ -47,10 +48,10 @@
                     </li>
                     {%endif%}
                 {%endfor%}
+            </ul>
             {%endif%}
         {%endfor%}
         </li>
 
     </div>
     
-  </div>
