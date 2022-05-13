@@ -61,7 +61,7 @@
     "featured-collection": {
       "type": "section-collection",
       "settings": {
-        "collection": "mar-2022",
+        "collection": "new-arrivals",
         "products_rows": 5,
         "products_layout": "grid",
         "show_title": true,
