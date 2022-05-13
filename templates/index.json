@@ -6,7 +6,7 @@
         "slideshow-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/HP-Template_f6e29daf-833c-4046-acdc-c9f1e6187897.jpg",
+            "image": "shopify:\/\/shop_images\/HP-Template_6689f292-440b-4a11-915b-594e7f786fac.jpg",
             "image_mobile": "shopify:\/\/shop_images\/HP-Template-Mobile_9f3f6294-3734-4364-81d6-f0a96c85bc69.jpg",
             "bg_position": "center-center",
             "overlay_opacity": 0,
@@ -49,7 +49,7 @@
       ],
       "settings": {
         "slide_height": "original-height",
-        "content_alignment": "bottom-right",
+        "content_alignment": "center",
         "show_nav_dots": true,
         "show_nav_arrows": true,
         "show_arrow_down": false,
