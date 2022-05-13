@@ -351,7 +351,23 @@
           "type": "item_logo",
           "settings": {
             "image": "shopify:\/\/shop_images\/2560px-GQ_logo.svg_7f776473-7a05-4f39-87d5-03e7916a2ef9.png",
-            "logos_width": 120,
+            "logos_width": 110,
+            "url": ""
+          }
+        },
+        "46283a10-09f2-4d2c-ba7f-99bb28f81c77": {
+          "type": "item_logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Cov-Portfolio-1_33eab6da-6f11-4233-9879-8d0afa13e889.png",
+            "logos_width": 140,
+            "url": ""
+          }
+        },
+        "74284525-9859-43e6-b7ae-aa42e6338065": {
+          "type": "item_logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/download_865e8132-bc24-4de8-8846-8e9122a662f7.png",
+            "logos_width": 140,
             "url": ""
           }
         }
@@ -361,7 +377,9 @@
         "logo-list-1",
         "logo-list-2",
         "logo-list-3",
-        "logo-list-4"
+        "logo-list-4",
+        "46283a10-09f2-4d2c-ba7f-99bb28f81c77",
+        "74284525-9859-43e6-b7ae-aa42e6338065"
       ],
       "settings": {
         "bg_color": ""
