@@ -48,7 +48,7 @@
         "slideshow-1"
       ],
       "settings": {
-        "slide_height": "one-hundred-height-hero",
+        "slide_height": "original-height",
         "content_alignment": "bottom-right",
         "show_nav_dots": true,
         "show_nav_arrows": true,
