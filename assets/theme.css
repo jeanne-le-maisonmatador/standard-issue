@@ -11300,6 +11300,10 @@ button.collection__filters__toggle {
     justify-content: center;
 }
 
+.variants-wrapper {
+    position: relative;
+}
+
 .variants-wrapper--grid .variant-label__value {
     padding-bottom: 0
 }
@@ -11792,7 +11796,8 @@ input[type=radio].variant-input:focus+label {
 .buttons-grid {
     display: grid;
     grid-template-columns: minmax(0, 1fr);
-    gap: var(--grid-gutter)
+    gap: var(--grid-gutter);
+    margin-top: 25px;
 }
 
 @media only screen and (min-width:500px) {
@@ -11801,6 +11806,7 @@ input[type=radio].variant-input:focus+label {
         position: absolute;
         bottom: 0;
         right: 0;
+        margin-top: 0;
     }
 }
 

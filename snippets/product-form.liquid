@@ -175,34 +175,41 @@
         </noscript>
       </div>
 
+      <div class="buttons-grid buttons-grid--half">
+      
+      <button type="submit" name="add" id="AddToCart--{{ unique }}" class="btn btn--submit"{% if sold_out %} disabled{% endif %} data-add-to-cart>
+        <span id="AddToCartText" data-add-to-cart-text>
+          {%- if sold_out -%}
+            {{- 'products.product.sold_out' | t -}}
+          {%- elsif preorder -%}
+            {{- 'products.product.preorder' | t -}}
+          {%- else -%}
+            {{- 'products.product.add_to_cart' | t -}}
+          {%- endif -%}
+        </span>
+        {%- render 'icon-loading' -%}
+      </button>
+    </div>
+  
     {%- else -%}
       <input type="hidden" name="quantity" value="1">
     {%- endif -%}
+    
   </div>
 
   {%- comment -%}
     Buttons
   {%- endcomment -%}
-  <div class="buttons-grid{% if show_payment_button %} buttons-grid--half{% endif %}">
-    <button type="submit" name="add" id="AddToCart--{{ unique }}" class="btn btn--submit"{% if sold_out %} disabled{% endif %} data-add-to-cart>
-      <span id="AddToCartText" data-add-to-cart-text>
-        {%- if sold_out -%}
-          {{- 'products.product.sold_out' | t -}}
-        {%- elsif preorder -%}
-          {{- 'products.product.preorder' | t -}}
-        {%- else -%}
-          {{- 'products.product.add_to_cart' | t -}}
-        {%- endif -%}
-      </span>
-      {%- render 'icon-loading' -%}
-    </button>
-
+  {% if show_payment_button %}
+  <div class="buttons-grid ">
+   
     {%- if show_payment_button -%}
       <div data-payment-button="{{ section.settings.show_payment_button }}" data-quickview-payment-button="{{ settings.show_payment_button }}">
         {{- form | payment_button -}}
       </div>
     {%- endif -%}
   </div>
+{% endif %}
 {%- endform -%}
 
 
