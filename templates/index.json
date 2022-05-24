@@ -71,6 +71,25 @@
         "enable_slider": true
       }
     },
+    "product-feature": {
+      "type": "section-product-feature",
+      "settings": {
+        "image_layout": "square",
+        "image_position": "inline",
+        "text_position": "right",
+        "text_alignment": "left",
+        "image_link_1": "shopify:\/\/products\/three-pack-white-tees",
+        "image_link_2": "",
+        "hide_image_2": false,
+        "heading": "THREE-PACK ESSENTIAL TEE",
+        "description": "<p>Our Standard Tees are created from fabric styles that are locally developed in Los Angeles for ultimate comfort. <\/p><p><\/p><p>This three pack of shirts is packaged in our reusable zip pouch for easy storage or packing for travel. Standard Issue Tees are pre-shrunk to retain their shape leaving you with an everlasting classic fit. <\/p><p><\/p><p>Forever made with integrity in Vernon, CA.<br\/><\/p>",
+        "button_text": "SHOP NOW",
+        "button_link": "shopify:\/\/products\/three-pack-black-tees",
+        "button_style": "primary",
+        "video_url": "",
+        "bg_color": ""
+      }
+    },
     "collection-list": {
       "type": "section-list-collection",
       "blocks": {
@@ -127,26 +146,6 @@
         "bg_color": "#ffffff",
         "text_color": "light",
         "enable_slider": true
-      }
-    },
-    "product-feature": {
-      "type": "section-product-feature",
-      "disabled": true,
-      "settings": {
-        "image_layout": "square",
-        "image_position": "inline",
-        "text_position": "right",
-        "text_alignment": "left",
-        "image_link_1": "",
-        "image_link_2": "",
-        "hide_image_2": false,
-        "heading": "This is a heading for a Product feature block.",
-        "description": "<p>Use this text to share information about the point put forth above. Describe a product, your brand, or what makes you special.<\/p>",
-        "button_text": "Learn more",
-        "button_link": "",
-        "button_style": "primary",
-        "video_url": "",
-        "bg_color": ""
       }
     },
     "image-with-text": {
@@ -450,8 +449,8 @@
   "order": [
     "slideshow",
     "featured-collection",
-    "collection-list",
     "product-feature",
+    "collection-list",
     "image-with-text",
     "tabbed-collections",
     "icons-row",
