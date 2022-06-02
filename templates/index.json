@@ -98,35 +98,35 @@
           "type": "collection",
           "settings": {
             "collection": "tees",
-            "custom_collection_image": "shopify:\/\/shop_images\/Website_Launch_New_AssetsTees.jpg"
+            "custom_collection_image": "shopify:\/\/shop_images\/tee.jpg"
           }
         },
         "collection-list-1": {
           "type": "collection",
           "settings": {
             "collection": "sweat-set",
-            "custom_collection_image": "shopify:\/\/shop_images\/Website_Launch_New_AssetsSweats.jpg"
+            "custom_collection_image": "shopify:\/\/shop_images\/sweatset.jpg"
           }
         },
         "collection-list-2": {
           "type": "collection",
           "settings": {
             "collection": "sweatpant",
-            "custom_collection_image": "shopify:\/\/shop_images\/Website_Launch_New_AssetsHoddys.jpg"
+            "custom_collection_image": "shopify:\/\/shop_images\/sweatpant.jpg"
           }
         },
         "collection-list-3": {
           "type": "collection",
           "settings": {
             "collection": "crewneck-sweater",
-            "custom_collection_image": "shopify:\/\/shop_images\/Website_Launch_New_AssetsCrewnecks.jpg"
+            "custom_collection_image": "shopify:\/\/shop_images\/crewneck.jpg"
           }
         },
         "collection-list-4": {
           "type": "collection",
           "settings": {
             "collection": "cardigan",
-            "custom_collection_image": "shopify:\/\/shop_images\/Website_Launch_New_AssetsCardigans.jpg"
+            "custom_collection_image": "shopify:\/\/shop_images\/cardigan.jpg"
           }
         }
       },
