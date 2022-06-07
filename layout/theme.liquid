@@ -190,5 +190,7 @@ template-{{ template | replace: '.', ' ' | truncatewords: 1, '' | handle }}
 	{%- render 'ajax-cart-template' -%}
 
 	{%- section 'popup' -%}
+ {% include 'smile-initializer' %}
+
 </body>
 </html>
