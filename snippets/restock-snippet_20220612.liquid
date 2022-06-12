@@ -7,15 +7,10 @@
     var _ReStockConfig = window._ReStockConfig || {};
     {{  }}
     {%- if product -%}
-        _ReStockConfig.preorder_variant_ids=[];
-        {{  }}
-        {%- for variant in product.variants -%}
-            {%- if variant.inventory_policy == 'continue' and variant.inventory_quantity <= 0 -%}
-                _ReStockConfig.preorder_variant_ids.push({{ variant.id }})
-                {{  }}
-            {%- endif -%}
-        {%- endfor -%}
+        {%- assign preorder_variant_ids = product.variants | where: 'inventory_policy', 'continue' | where: 'inventory_quantity', 0 | map: 'id' -%}
         _ReStockConfig.product = {{ product | json }};
+        {{  }}
+        _ReStockConfig.preorder_variant_ids = {{ preorder_variant_ids | json }}
         {{  }}
     {%- elsif collection.products -%}
         _ReStockConfig.products_count = {{ shop.products_count }}
@@ -25,12 +20,11 @@
         {% endpaginate %}
         {{  }}
         {%- for product in collection.products -%}
-            {%- for variant in product.variants -%}
-                {%- if variant.inventory_policy == 'continue' and variant.inventory_quantity <= 0 -%}
-                    _ReStockConfig.preorder_variant_ids.push({{ variant.id }})
-                    {{  }}
-                {%- endif -%}
-            {%- endfor -%}
+            {%- assign preorder_variants = product.variants | where: 'inventory_policy', 'continue' | where: 'inventory_quantity', 0 | map: 'id' -%}
+            {%- unless preorder_variants == empty -%}
+                _ReStockConfig.preorder_variant_ids.push(...{{ preorder_variants | json }})
+                {{  }}
+            {%- endunless -%}
         {%- endfor -%}
     {%- endif -%}
   </script>
