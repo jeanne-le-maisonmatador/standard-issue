@@ -241,14 +241,6 @@
             "content": "Vertical manufacturing. Sweatshop free. Proudly made in Vernon, Los Angeles in California."
           }
         },
-        "icons-row-1": {
-          "type": "text",
-          "settings": {
-            "icon_name": "sync",
-            "title": "Refer A Friend, Receive $5",
-            "content": "Receive $5 towards your next purchase when you refer a friend."
-          }
-        },
         "icons-row-2": {
           "type": "text",
           "settings": {
@@ -256,12 +248,20 @@
             "title": "Enjoy Now, Pay Later",
             "content": "Use our financing payment option when you check out to enjoy now and pay later."
           }
+        },
+        "icons-row-1": {
+          "type": "text",
+          "settings": {
+            "icon_name": "sync",
+            "title": "Refer A Friend, Receive $5",
+            "content": "Receive $5 towards your next purchase when you refer a friend."
+          }
         }
       },
       "block_order": [
         "icons-row-0",
-        "icons-row-1",
-        "icons-row-2"
+        "icons-row-2",
+        "icons-row-1"
       ],
       "settings": {
         "alignment": "left",
