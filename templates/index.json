@@ -11,9 +11,9 @@
             "image_mobile": "shopify:\/\/shop_images\/42D3D545-572A-4E27-9553-CC325BAD2E1F.jpg",
             "bg_position": "center-center",
             "overlay_opacity": 20,
-            "text_color": "text-dark",
-            "title": "",
-            "slide_subheading": "",
+            "text_color": "text-light",
+            "title": "IT'S A HOT TANK SUMMER!",
+            "slide_subheading": "Same quality you know from our tees. With a tank top cut so your chest and shoulders can catch a summer time breeze.",
             "slide_btn_text": "Shop now",
             "slide_btn_link": "shopify:\/\/collections\/tank-top",
             "slide_btn_style": "secondary",
@@ -26,23 +26,22 @@
         },
         "16554811627ab7d656-1": {
           "type": "image",
-          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/z8477LY.jpg",
             "image_mobile": "shopify:\/\/shop_images\/z8477LY_edd9730d-daaf-4703-bf64-fcdf4068925a.jpg",
             "bg_position": "center-center",
             "overlay_opacity": 20,
-            "text_color": "text-dark",
-            "title": "Welcome to Standard Issue",
-            "slide_subheading": "blah blah blah",
-            "slide_btn_text": "welcome",
+            "text_color": "text-light",
+            "title": "MADE IN VERNON, CA WITH LOVE",
+            "slide_subheading": "Our garments go directly from our sewing line in Vernon, California delivered right to your front door. We take pride in the level of TLC our tight knit sewing team puts into every article  ensuring a reliable, and comfortable fit.",
+            "slide_btn_text": "",
             "slide_btn_link": "",
             "slide_btn_style": "primary",
             "slide_btn_text_2": "",
             "slide_btn_link_2": "",
             "slide_btn_style_2": "secondary",
-            "video_btn_text": "Watch the Video",
-            "video_btn_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
+            "video_btn_text": "",
+            "video_btn_link": ""
           }
         }
       },
