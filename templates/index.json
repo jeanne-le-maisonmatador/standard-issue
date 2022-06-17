@@ -2,7 +2,6 @@
   "sections": {
     "16554811631c81f434": {
       "type": "section-slideshow",
-      "disabled": true,
       "blocks": {
         "16554811627ab7d656-0": {
           "type": "image",
@@ -62,6 +61,7 @@
     },
     "slideshow": {
       "type": "section-slideshow",
+      "disabled": true,
       "blocks": {
         "slideshow-0": {
           "type": "image",
