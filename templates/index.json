@@ -26,13 +26,13 @@
         "16554811627ab7d656-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/z8477LY.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/z8477LY_edd9730d-daaf-4703-bf64-fcdf4068925a.jpg",
+            "image": "shopify:\/\/shop_images\/MADE_IN_VERNON_Desktop.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/MADE_IN_VERNON_Mobile.jpg",
             "bg_position": "center-center",
             "overlay_opacity": 20,
             "text_color": "text-light",
-            "title": "MADE IN VERNON, CA WITH LOVE",
-            "slide_subheading": "Our garments go directly from our sewing line in Vernon, California delivered right to your front door. We take pride in the level of TLC our tight knit sewing team puts into every article  ensuring a reliable, and comfortable fit.",
+            "title": "",
+            "slide_subheading": "",
             "slide_btn_text": "",
             "slide_btn_link": "",
             "slide_btn_style": "primary",
