@@ -29,7 +29,7 @@
             "image": "shopify:\/\/shop_images\/MADE_IN_VERNON_Desktop.jpg",
             "image_mobile": "shopify:\/\/shop_images\/MADE_IN_VERNON_Mobile.jpg",
             "bg_position": "center-center",
-            "overlay_opacity": 20,
+            "overlay_opacity": 0,
             "text_color": "text-light",
             "title": "",
             "slide_subheading": "",
