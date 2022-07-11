@@ -10,6 +10,7 @@
     {%assign collectionTitle =  collection.title | downcase%}
     {%assign productTitle =  product.title | downcase%}
     {%assign checkArray = productTitle | split:collectionTitle %}
+
     {%if checkArray[0] == blank and  product.metafields.color_swatch.name %}
 
      <div class="product-color-swatches" >
