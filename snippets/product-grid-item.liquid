@@ -279,7 +279,7 @@
 						{%- for variant in product.variants -%}
 							{%- if variant.options[option_index] == value -%}
 								{%- unless link_found -%}
-									<a href="{{ variant.url }}" class="swatch__link">{{ value }}</a>
+<!-- 									<a href="{{ variant.url }}" class="swatch__link">{{ value }}</a> -->
 									{%- assign link_found = true -%}
 								{%- endunless -%}
 							{%- endif -%}
