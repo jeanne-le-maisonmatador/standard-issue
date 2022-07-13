@@ -6,15 +6,15 @@
         "16554811627ab7d656-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/ITS_A_HOT_TANK_SUMMER_Desktop.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/ITS_A_HOT_TANK_SUMMER_Mobile.jpg",
+            "image": "shopify:\/\/shop_images\/PT_Shorts_Desktop.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/PT_Shorts_Mobile.jpg",
             "bg_position": "center-center",
             "overlay_opacity": 0,
             "text_color": "text-light",
             "title": "",
             "slide_subheading": "",
             "slide_btn_text": "Shop now",
-            "slide_btn_link": "shopify:\/\/collections\/tank-top",
+            "slide_btn_link": "shopify:\/\/collections\/pt-shorts",
             "slide_btn_style": "secondary",
             "slide_btn_text_2": "",
             "slide_btn_link_2": "",
