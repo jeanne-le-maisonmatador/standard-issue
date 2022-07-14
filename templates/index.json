@@ -5,7 +5,6 @@
       "blocks": {
         "1dc2d062-b704-4275-af0f-b42d08ab57a1": {
           "type": "image",
-          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/Lightweight_Thermals_Desktop.jpg",
             "image_mobile": "shopify:\/\/shop_images\/Lightweight_Thermaps_Mobile.jpg",
