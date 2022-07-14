@@ -197,6 +197,79 @@
         "enable_slider": true
       }
     },
+    "logo-list": {
+      "type": "section-logo-list",
+      "blocks": {
+        "logo-list-0": {
+          "type": "item_logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/New_York_Magazine_Logo.svg_e96f3f84-1dda-454f-9562-2ab1e1fc8b82.png",
+            "logos_width": 120,
+            "url": ""
+          }
+        },
+        "logo-list-1": {
+          "type": "item_logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Esquire_logo.png",
+            "logos_width": 120,
+            "url": ""
+          }
+        },
+        "logo-list-2": {
+          "type": "item_logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1942px-COMPLEX_Magazine_Logo.svg_51dc0c00-2746-495c-a63d-0f4cb178065a.png",
+            "logos_width": 120,
+            "url": ""
+          }
+        },
+        "logo-list-3": {
+          "type": "item_logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Hypebeast_Logo_2.png",
+            "logos_width": 150,
+            "url": ""
+          }
+        },
+        "logo-list-4": {
+          "type": "item_logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2560px-GQ_logo.svg_7f776473-7a05-4f39-87d5-03e7916a2ef9.png",
+            "logos_width": 110,
+            "url": ""
+          }
+        },
+        "46283a10-09f2-4d2c-ba7f-99bb28f81c77": {
+          "type": "item_logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Cov-Portfolio-1_33eab6da-6f11-4233-9879-8d0afa13e889.png",
+            "logos_width": 140,
+            "url": ""
+          }
+        },
+        "74284525-9859-43e6-b7ae-aa42e6338065": {
+          "type": "item_logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/download_865e8132-bc24-4de8-8846-8e9122a662f7.png",
+            "logos_width": 140,
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo-list-0",
+        "logo-list-1",
+        "logo-list-2",
+        "logo-list-3",
+        "logo-list-4",
+        "46283a10-09f2-4d2c-ba7f-99bb28f81c77",
+        "74284525-9859-43e6-b7ae-aa42e6338065"
+      ],
+      "settings": {
+        "bg_color": ""
+      }
+    },
     "collection-list": {
       "type": "section-list-collection",
       "blocks": {
@@ -418,79 +491,6 @@
         "button_style": "secondary"
       }
     },
-    "logo-list": {
-      "type": "section-logo-list",
-      "blocks": {
-        "logo-list-0": {
-          "type": "item_logo",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/New_York_Magazine_Logo.svg_e96f3f84-1dda-454f-9562-2ab1e1fc8b82.png",
-            "logos_width": 120,
-            "url": ""
-          }
-        },
-        "logo-list-1": {
-          "type": "item_logo",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Esquire_logo.png",
-            "logos_width": 120,
-            "url": ""
-          }
-        },
-        "logo-list-2": {
-          "type": "item_logo",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/1942px-COMPLEX_Magazine_Logo.svg_51dc0c00-2746-495c-a63d-0f4cb178065a.png",
-            "logos_width": 120,
-            "url": ""
-          }
-        },
-        "logo-list-3": {
-          "type": "item_logo",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Hypebeast_Logo_2.png",
-            "logos_width": 150,
-            "url": ""
-          }
-        },
-        "logo-list-4": {
-          "type": "item_logo",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/2560px-GQ_logo.svg_7f776473-7a05-4f39-87d5-03e7916a2ef9.png",
-            "logos_width": 110,
-            "url": ""
-          }
-        },
-        "46283a10-09f2-4d2c-ba7f-99bb28f81c77": {
-          "type": "item_logo",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Cov-Portfolio-1_33eab6da-6f11-4233-9879-8d0afa13e889.png",
-            "logos_width": 140,
-            "url": ""
-          }
-        },
-        "74284525-9859-43e6-b7ae-aa42e6338065": {
-          "type": "item_logo",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/download_865e8132-bc24-4de8-8846-8e9122a662f7.png",
-            "logos_width": 140,
-            "url": ""
-          }
-        }
-      },
-      "block_order": [
-        "logo-list-0",
-        "logo-list-1",
-        "logo-list-2",
-        "logo-list-3",
-        "logo-list-4",
-        "46283a10-09f2-4d2c-ba7f-99bb28f81c77",
-        "74284525-9859-43e6-b7ae-aa42e6338065"
-      ],
-      "settings": {
-        "bg_color": ""
-      }
-    },
     "featured-blog": {
       "type": "section-blog",
       "blocks": {
@@ -558,13 +558,13 @@
     "slideshow",
     "product-feature",
     "featured-collection",
+    "logo-list",
     "collection-list",
     "image-with-text",
     "tabbed-collections",
     "icons-row",
     "press",
     "video",
-    "logo-list",
     "featured-blog"
   ]
 }
