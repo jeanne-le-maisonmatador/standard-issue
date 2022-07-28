@@ -450,6 +450,7 @@
         },
         "icons-row-1": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "icon_name": "sync",
             "title": "Refer A Friend, Receive $5",
