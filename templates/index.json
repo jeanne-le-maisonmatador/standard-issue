@@ -1,11 +1,94 @@
 {
   "sections": {
+    "slideshow": {
+      "type": "section-slideshow",
+      "disabled": true,
+      "blocks": {
+        "slideshow-0": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/HP-Template_6689f292-440b-4a11-915b-594e7f786fac.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/HP-Template-Mobile_9f3f6294-3734-4364-81d6-f0a96c85bc69.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "text_color": "text-light",
+            "title": "",
+            "slide_subheading": "",
+            "slide_btn_text": "SHOP NOW",
+            "slide_btn_link": "shopify:\/\/collections\/new-arrivals",
+            "slide_btn_style": "secondary",
+            "slide_btn_text_2": "",
+            "slide_btn_link_2": "",
+            "slide_btn_style_2": "secondary",
+            "video_btn_text": "Watch the Video",
+            "video_btn_link": ""
+          }
+        },
+        "slideshow-1": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/HP-Template_80bdcc6d-3aec-4e78-bae2-49a7dd4ae1a1.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/HP-Template-Mobile_ec78bd10-7892-46a3-869b-09e8b23215f2.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "text_color": "text-dark",
+            "title": "",
+            "slide_subheading": "",
+            "slide_btn_text": "Shop Now",
+            "slide_btn_link": "shopify:\/\/collections\/heather-grey-collection",
+            "slide_btn_style": "secondary",
+            "slide_btn_text_2": "",
+            "slide_btn_link_2": "",
+            "slide_btn_style_2": "secondary",
+            "video_btn_text": "",
+            "video_btn_link": ""
+          }
+        },
+        "8a0fe5ec-a580-41a2-af48-9d6e17fa994b": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/HP-Template_2a62ac95-d518-4086-9531-e31572c38eb9.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/HP-Template-Mobile_e73e29cd-0605-43a4-8dd5-a92dac3f71c6.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "text_color": "text-dark",
+            "title": "",
+            "slide_subheading": "",
+            "slide_btn_text": "Shop Now",
+            "slide_btn_link": "shopify:\/\/collections\/tees",
+            "slide_btn_style": "secondary",
+            "slide_btn_text_2": "",
+            "slide_btn_link_2": "",
+            "slide_btn_style_2": "secondary",
+            "video_btn_text": "",
+            "video_btn_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "slideshow-0",
+        "slideshow-1",
+        "8a0fe5ec-a580-41a2-af48-9d6e17fa994b"
+      ],
+      "settings": {
+        "slide_height": "original-height",
+        "content_alignment": "center",
+        "show_nav_dots": true,
+        "show_nav_arrows": true,
+        "show_arrow_down": false,
+        "autoplay": false,
+        "duration": 4,
+        "transition": "slide"
+      }
+    },
     "16554811631c81f434": {
       "type": "section-slideshow",
       "blocks": {
         "05b21da6-548f-464f-92cd-b004a7544651": {
           "type": "image",
-          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/22.7.29_JSP_Amoroso_Desktop.jpg",
             "image_mobile": "shopify:\/\/shop_images\/22.7.29_JSP_Amoroso_Mobile.jpg",
@@ -117,88 +200,6 @@
       ],
       "settings": {
         "slide_height": "one-hundred-height-hero",
-        "content_alignment": "center",
-        "show_nav_dots": true,
-        "show_nav_arrows": true,
-        "show_arrow_down": false,
-        "autoplay": false,
-        "duration": 4,
-        "transition": "slide"
-      }
-    },
-    "slideshow": {
-      "type": "section-slideshow",
-      "disabled": true,
-      "blocks": {
-        "slideshow-0": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "image": "shopify:\/\/shop_images\/HP-Template_6689f292-440b-4a11-915b-594e7f786fac.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/HP-Template-Mobile_9f3f6294-3734-4364-81d6-f0a96c85bc69.jpg",
-            "bg_position": "center-center",
-            "overlay_opacity": 0,
-            "text_color": "text-light",
-            "title": "",
-            "slide_subheading": "",
-            "slide_btn_text": "SHOP NOW",
-            "slide_btn_link": "shopify:\/\/collections\/new-arrivals",
-            "slide_btn_style": "secondary",
-            "slide_btn_text_2": "",
-            "slide_btn_link_2": "",
-            "slide_btn_style_2": "secondary",
-            "video_btn_text": "Watch the Video",
-            "video_btn_link": ""
-          }
-        },
-        "slideshow-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/HP-Template_80bdcc6d-3aec-4e78-bae2-49a7dd4ae1a1.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/HP-Template-Mobile_ec78bd10-7892-46a3-869b-09e8b23215f2.jpg",
-            "bg_position": "center-center",
-            "overlay_opacity": 0,
-            "text_color": "text-dark",
-            "title": "",
-            "slide_subheading": "",
-            "slide_btn_text": "Shop Now",
-            "slide_btn_link": "shopify:\/\/collections\/heather-grey-collection",
-            "slide_btn_style": "secondary",
-            "slide_btn_text_2": "",
-            "slide_btn_link_2": "",
-            "slide_btn_style_2": "secondary",
-            "video_btn_text": "",
-            "video_btn_link": ""
-          }
-        },
-        "8a0fe5ec-a580-41a2-af48-9d6e17fa994b": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/HP-Template_2a62ac95-d518-4086-9531-e31572c38eb9.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/HP-Template-Mobile_e73e29cd-0605-43a4-8dd5-a92dac3f71c6.jpg",
-            "bg_position": "center-center",
-            "overlay_opacity": 0,
-            "text_color": "text-dark",
-            "title": "",
-            "slide_subheading": "",
-            "slide_btn_text": "Shop Now",
-            "slide_btn_link": "shopify:\/\/collections\/tees",
-            "slide_btn_style": "secondary",
-            "slide_btn_text_2": "",
-            "slide_btn_link_2": "",
-            "slide_btn_style_2": "secondary",
-            "video_btn_text": "",
-            "video_btn_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "slideshow-0",
-        "slideshow-1",
-        "8a0fe5ec-a580-41a2-af48-9d6e17fa994b"
-      ],
-      "settings": {
-        "slide_height": "original-height",
         "content_alignment": "center",
         "show_nav_dots": true,
         "show_nav_arrows": true,
@@ -599,8 +600,8 @@
     }
   },
   "order": [
-    "16554811631c81f434",
     "slideshow",
+    "16554811631c81f434",
     "product-feature",
     "featured-collection",
     "logo-list",
