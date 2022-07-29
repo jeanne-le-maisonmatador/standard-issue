@@ -46,6 +46,7 @@
         },
         "75497ab7-4051-4924-88a8-a19a02fd7cab": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/22.7.19_401SS_Desktop.jpg",
             "image_mobile": "shopify:\/\/shop_images\/22.7.19_401SS_Mobile.jpg",
