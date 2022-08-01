@@ -51,6 +51,22 @@
         "bg_color": ""
       }
     },
+    "16593853077e2640f2": {
+      "type": "apps",
+      "blocks": {
+        "2e17a98e-add1-4c99-ab9f-aafb536ceb1e": {
+          "type": "shopify:\/\/apps\/product-reviews\/blocks\/reviews\/bae150af-8da8-48b2-9867-398188115e5f",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "2e17a98e-add1-4c99-ab9f-aafb536ceb1e"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
     "faq": {
       "type": "section-faq",
       "disabled": true,
@@ -101,6 +117,7 @@
   },
   "order": [
     "main",
+    "16593853077e2640f2",
     "faq",
     "related"
   ]
