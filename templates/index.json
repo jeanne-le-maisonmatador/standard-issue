@@ -84,6 +84,26 @@
     "16554811631c81f434": {
       "type": "section-slideshow",
       "blocks": {
+        "05b21da6-548f-464f-92cd-b004a7544651": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/22.8.9_Pigment_Black_Desktop.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/22.8.9_Pigment_Black_Mobile.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "text_color": "text-light",
+            "title": "",
+            "slide_subheading": "",
+            "slide_btn_text": "VIEW COLLECTION HERE",
+            "slide_btn_link": "shopify:\/\/collections\/new-arrivals",
+            "slide_btn_style": "secondary",
+            "slide_btn_text_2": "",
+            "slide_btn_link_2": "",
+            "slide_btn_style_2": "secondary",
+            "video_btn_text": "",
+            "video_btn_link": ""
+          }
+        },
         "b6bec518-162b-4e51-8154-1de743776b5e": {
           "type": "image",
           "settings": {
@@ -96,26 +116,6 @@
             "slide_subheading": "",
             "slide_btn_text": "Shop now",
             "slide_btn_link": "shopify:\/\/collections\/towel-terry",
-            "slide_btn_style": "secondary",
-            "slide_btn_text_2": "",
-            "slide_btn_link_2": "",
-            "slide_btn_style_2": "secondary",
-            "video_btn_text": "",
-            "video_btn_link": ""
-          }
-        },
-        "05b21da6-548f-464f-92cd-b004a7544651": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/22.7.29_JSP_Amoroso_Desktop.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/22.7.29_JSP_Amoroso_Mobile.jpg",
-            "bg_position": "center-center",
-            "overlay_opacity": 0,
-            "text_color": "text-light",
-            "title": "",
-            "slide_subheading": "",
-            "slide_btn_text": "VIEW COLLECTION HERE",
-            "slide_btn_link": "shopify:\/\/collections\/jsp-amoroso-extra-collection",
             "slide_btn_style": "secondary",
             "slide_btn_text_2": "",
             "slide_btn_link_2": "",
@@ -209,8 +209,8 @@
         }
       },
       "block_order": [
-        "b6bec518-162b-4e51-8154-1de743776b5e",
         "05b21da6-548f-464f-92cd-b004a7544651",
+        "b6bec518-162b-4e51-8154-1de743776b5e",
         "16554811627ab7d656-0",
         "75497ab7-4051-4924-88a8-a19a02fd7cab",
         "1dc2d062-b704-4275-af0f-b42d08ab57a1",
