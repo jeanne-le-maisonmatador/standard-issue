@@ -86,6 +86,7 @@
       "blocks": {
         "05b21da6-548f-464f-92cd-b004a7544651": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/22.8.9_Pigment_Black_Desktop.jpg",
             "image_mobile": "shopify:\/\/shop_images\/22.8.9_Pigment_Black_Mobile.jpg",
