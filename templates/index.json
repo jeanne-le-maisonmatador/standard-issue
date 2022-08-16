@@ -86,7 +86,6 @@
       "blocks": {
         "e1ed9e59-73ff-4b21-b24f-2da2209a0e14": {
           "type": "image",
-          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/22.16.8_Heavy_Thermal_Desktop.jpg",
             "image_mobile": "shopify:\/\/shop_images\/22.16.8_Heavy_Thermal_Mobile.jpg",
