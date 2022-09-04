@@ -196,7 +196,13 @@ template-{{ template | replace: '.', ' ' | truncatewords: 1, '' | handle }}
 	{%- section 'popup' -%}
  {% include 'smile-initializer' %}
 
+<!-- ReStock Snippet Start -->
+{% if content_for_header contains 'https:\/\/cdn.hengam.io\/restock-alerts-sdk.js' %} 
 
+{% render 'restock-snippet' %}
+
+{% endif %}
+<!-- ReStock Snippet End -->
 
 </body>
 </html>
