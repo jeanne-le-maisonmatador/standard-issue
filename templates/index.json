@@ -86,7 +86,6 @@
       "blocks": {
         "1223f70b-ad9f-4e21-a4a0-b77ee9e6bff7": {
           "type": "image",
-          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/22.9.6_Sweat_Suit_Restock_Desktop.jpg",
             "image_mobile": "shopify:\/\/shop_images\/22.9.6_Sweat_Suit_Restock_Mobile.jpg",
