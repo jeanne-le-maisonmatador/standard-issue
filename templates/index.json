@@ -316,59 +316,6 @@
         "transition": "slide"
       }
     },
-    "featured-collection": {
-      "type": "section-collection",
-      "settings": {
-        "collection": "new-arrivals",
-        "products_rows": 5,
-        "products_layout": "grid",
-        "show_title": true,
-        "show_collection_button": true,
-        "button_style": "primary",
-        "bg_color": "",
-        "enable_slider": true
-      }
-    },
-    "16630869551bcc1acb": {
-      "type": "section-product-feature",
-      "disabled": true,
-      "settings": {
-        "image_layout": "portrait",
-        "image_position": "inline",
-        "text_position": "left",
-        "text_alignment": "center",
-        "image_1": "shopify:\/\/shop_images\/3pack-tees-02.jpg",
-        "image_link_1": "",
-        "image_link_2": "",
-        "hide_image_2": true,
-        "heading": "The ultimate multi color 3 pack",
-        "description": "<p>Extremely limited time offering. Saving your wallet and supporting your closet.<\/p>",
-        "button_text": "Shop Now",
-        "button_link": "",
-        "button_style": "secondary",
-        "bg_color": ""
-      }
-    },
-    "product-feature": {
-      "type": "section-product-feature",
-      "settings": {
-        "image_layout": "square",
-        "image_position": "inline",
-        "text_position": "right",
-        "text_alignment": "left",
-        "image_1": "shopify:\/\/shop_images\/Untitled-1.jpg",
-        "image_link_1": "shopify:\/\/collections\/three-pack-tees",
-        "image_link_2": "",
-        "hide_image_2": false,
-        "heading": "THREE-PACK ESSENTIAL TEE",
-        "description": "<p>Our Standard Tees are created from fabric styles that are locally developed in Los Angeles for ultimate comfort. <\/p><p><\/p><p>This three pack of shirts is packaged in our reusable zip pouch for easy storage or packing for travel. Standard Issue Tees are pre-shrunk to retain their shape leaving you with an everlasting classic fit. <\/p><p><\/p><p>Forever made with integrity in Vernon, CA.<br\/><\/p>",
-        "button_text": "SHOP NOW",
-        "button_link": "shopify:\/\/collections\/three-pack-tees",
-        "button_style": "primary",
-        "video_url": "",
-        "bg_color": ""
-      }
-    },
     "logo-list": {
       "type": "section-logo-list",
       "blocks": {
@@ -440,6 +387,58 @@
       ],
       "settings": {
         "bg_color": ""
+      }
+    },
+    "16630869551bcc1acb": {
+      "type": "section-product-feature",
+      "settings": {
+        "image_layout": "portrait",
+        "image_position": "inline",
+        "text_position": "left",
+        "text_alignment": "center",
+        "image_1": "shopify:\/\/shop_images\/3pack-tees-02.jpg",
+        "image_link_1": "",
+        "image_link_2": "",
+        "hide_image_2": true,
+        "heading": "The ultimate multi color 3 pack",
+        "description": "<p>Extremely limited time offering. Saving your wallet and supporting your closet.<\/p>",
+        "button_text": "Shop Now",
+        "button_link": "shopify:\/\/products\/black-white-heather-grey-three-pack",
+        "button_style": "secondary",
+        "bg_color": ""
+      }
+    },
+    "product-feature": {
+      "type": "section-product-feature",
+      "settings": {
+        "image_layout": "square",
+        "image_position": "inline",
+        "text_position": "right",
+        "text_alignment": "left",
+        "image_1": "shopify:\/\/shop_images\/Untitled-1.jpg",
+        "image_link_1": "shopify:\/\/collections\/three-pack-tees",
+        "image_link_2": "",
+        "hide_image_2": false,
+        "heading": "THREE-PACK ESSENTIAL TEE",
+        "description": "<p>Our Standard Tees are created from fabric styles that are locally developed in Los Angeles for ultimate comfort. <\/p><p><\/p><p>This three pack of shirts is packaged in our reusable zip pouch for easy storage or packing for travel. Standard Issue Tees are pre-shrunk to retain their shape leaving you with an everlasting classic fit. <\/p><p><\/p><p>Forever made with integrity in Vernon, CA.<br\/><\/p>",
+        "button_text": "SHOP NOW",
+        "button_link": "shopify:\/\/collections\/three-pack-tees",
+        "button_style": "primary",
+        "video_url": "",
+        "bg_color": ""
+      }
+    },
+    "featured-collection": {
+      "type": "section-collection",
+      "settings": {
+        "collection": "new-arrivals",
+        "products_rows": 5,
+        "products_layout": "grid",
+        "show_title": true,
+        "show_collection_button": true,
+        "button_style": "primary",
+        "bg_color": "",
+        "enable_slider": true
       }
     },
     "collection-list": {
@@ -729,10 +728,10 @@
   "order": [
     "slideshow",
     "16554811631c81f434",
-    "featured-collection",
+    "logo-list",
     "16630869551bcc1acb",
     "product-feature",
-    "logo-list",
+    "featured-collection",
     "collection-list",
     "image-with-text",
     "tabbed-collections",
