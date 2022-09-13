@@ -329,6 +329,26 @@
         "enable_slider": true
       }
     },
+    "16630869551bcc1acb": {
+      "type": "section-product-feature",
+      "disabled": true,
+      "settings": {
+        "image_layout": "portrait",
+        "image_position": "inline",
+        "text_position": "left",
+        "text_alignment": "center",
+        "image_1": "shopify:\/\/shop_images\/3pack-tees-02.jpg",
+        "image_link_1": "",
+        "image_link_2": "",
+        "hide_image_2": true,
+        "heading": "The ultimate multi color 3 pack",
+        "description": "<p>Extremely limited time offering. Saving your wallet and supporting your closet.<\/p>",
+        "button_text": "Shop Now",
+        "button_link": "",
+        "button_style": "secondary",
+        "bg_color": ""
+      }
+    },
     "product-feature": {
       "type": "section-product-feature",
       "settings": {
@@ -710,6 +730,7 @@
     "slideshow",
     "16554811631c81f434",
     "featured-collection",
+    "16630869551bcc1acb",
     "product-feature",
     "logo-list",
     "collection-list",
