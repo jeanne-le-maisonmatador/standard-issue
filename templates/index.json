@@ -86,7 +86,6 @@
       "blocks": {
         "92ad9fa1-a57f-4e57-bef4-eeeac4869be0": {
           "type": "image",
-          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/22.9.20_Pigment_Hydro_Desktop.jpg",
             "image_mobile": "shopify:\/\/shop_images\/22.9.20_Pigment_Hydro_Mobile.jpg",
@@ -127,7 +126,6 @@
         },
         "1223f70b-ad9f-4e21-a4a0-b77ee9e6bff7": {
           "type": "image",
-          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/22.9.6_Sweat_Suit_Restock_Desktop.jpg",
             "image_mobile": "shopify:\/\/shop_images\/22.9.6_Sweat_Suit_Restock_Mobile.jpg",
@@ -148,6 +146,7 @@
         },
         "16554811627ab7d656-0": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/PT_Shorts_Desktop.jpg",
             "image_mobile": "shopify:\/\/shop_images\/PT_Shorts_Mobile.jpg",
