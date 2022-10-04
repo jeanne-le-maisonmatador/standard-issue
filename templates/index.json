@@ -87,7 +87,6 @@
       "blocks": {
         "e1ed9e59-73ff-4b21-b24f-2da2209a0e14": {
           "type": "image",
-          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/10.4_Sweatsuit_New_Restock_Desktop.jpg",
             "image_mobile": "shopify:\/\/shop_images\/10.4_Sweatsuit_New_Restock_Mobile.jpg",
@@ -126,26 +125,6 @@
             "video_btn_link": ""
           }
         },
-        "92ad9fa1-a57f-4e57-bef4-eeeac4869be0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/22.9.27_Towel_Terry_Drop_3_Desktop.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/22.9.27_Towel_Terry_Drop_3_Mobile.jpg",
-            "bg_position": "center-center",
-            "overlay_opacity": 0,
-            "text_color": "text-light",
-            "title": "",
-            "slide_subheading": "",
-            "slide_btn_text": "SHOP NOW",
-            "slide_btn_link": "shopify:\/\/collections\/new-arrivals",
-            "slide_btn_style": "secondary",
-            "slide_btn_text_2": "",
-            "slide_btn_link_2": "",
-            "slide_btn_style_2": "secondary",
-            "video_btn_text": "",
-            "video_btn_link": ""
-          }
-        },
         "b6bec518-162b-4e51-8154-1de743776b5e": {
           "type": "image",
           "settings": {
@@ -158,6 +137,27 @@
             "slide_subheading": "",
             "slide_btn_text": "Shop now",
             "slide_btn_link": "shopify:\/\/collections\/nba-collection",
+            "slide_btn_style": "secondary",
+            "slide_btn_text_2": "",
+            "slide_btn_link_2": "",
+            "slide_btn_style_2": "secondary",
+            "video_btn_text": "",
+            "video_btn_link": ""
+          }
+        },
+        "92ad9fa1-a57f-4e57-bef4-eeeac4869be0": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/22.9.27_Towel_Terry_Drop_3_Desktop.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/22.9.27_Towel_Terry_Drop_3_Mobile.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "text_color": "text-light",
+            "title": "",
+            "slide_subheading": "",
+            "slide_btn_text": "SHOP NOW",
+            "slide_btn_link": "shopify:\/\/collections\/new-arrivals",
             "slide_btn_style": "secondary",
             "slide_btn_text_2": "",
             "slide_btn_link_2": "",
@@ -296,8 +296,8 @@
       "block_order": [
         "e1ed9e59-73ff-4b21-b24f-2da2209a0e14",
         "1223f70b-ad9f-4e21-a4a0-b77ee9e6bff7",
-        "92ad9fa1-a57f-4e57-bef4-eeeac4869be0",
         "b6bec518-162b-4e51-8154-1de743776b5e",
+        "92ad9fa1-a57f-4e57-bef4-eeeac4869be0",
         "271880ea-f12a-4f0f-80f7-0770b7059677",
         "16554811627ab7d656-0",
         "05b21da6-548f-464f-92cd-b004a7544651",
