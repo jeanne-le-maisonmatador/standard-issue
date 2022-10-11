@@ -88,15 +88,15 @@
         "92ad9fa1-a57f-4e57-bef4-eeeac4869be0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/10.6_Standard_Tee_Restock_Desktop.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/10.6_Standard_Tee_Restock_Mobile.jpg",
+            "image": "shopify:\/\/shop_images\/10.11_3_Pack_Tees_Desktop.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/10.11_3_Pack_Tees_Mobile.jpg",
             "bg_position": "center-center",
             "overlay_opacity": 0,
             "text_color": "text-light",
             "title": "",
             "slide_subheading": "",
             "slide_btn_text": "SHOP NOW",
-            "slide_btn_link": "shopify:\/\/collections\/new-arrivals",
+            "slide_btn_link": "shopify:\/\/collections\/three-pack-tees",
             "slide_btn_style": "secondary",
             "slide_btn_text_2": "",
             "slide_btn_link_2": "",
