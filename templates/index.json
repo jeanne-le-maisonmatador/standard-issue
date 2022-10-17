@@ -87,7 +87,6 @@
       "blocks": {
         "75497ab7-4051-4924-88a8-a19a02fd7cab": {
           "type": "image",
-          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/10.17_Wallaby_Remaining_Sizes_Desktop.jpg",
             "image_mobile": "shopify:\/\/shop_images\/10.17_Wallaby_Remaining_Sizes_Mobile.jpg",
