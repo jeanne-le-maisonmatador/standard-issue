@@ -679,6 +679,15 @@
     "featured-blog": {
       "type": "section-blog",
       "blocks": {
+        "62fe2579-4836-4a5c-bca6-db5595700668": {
+          "type": "article",
+          "settings": {
+            "article": "news\/holiday-22-collection-preview",
+            "product1": "",
+            "product2": "",
+            "product3": ""
+          }
+        },
         "featured-blog-0": {
           "type": "article",
           "settings": {
@@ -726,6 +735,7 @@
         }
       },
       "block_order": [
+        "62fe2579-4836-4a5c-bca6-db5595700668",
         "featured-blog-0",
         "featured-blog-1",
         "featured-blog-2",
