@@ -1,5 +1,21 @@
 {
   "sections": {
+    "video": {
+      "type": "section-video",
+      "settings": {
+        "video_height": "sixty-fifty-height-hero",
+        "text_position": "center-center",
+        "hero_video_link": "https:\/\/www.youtube.com\/watch?v=FDUBmmE6Ecs",
+        "video_enable_sound": false,
+        "overlay_opacity": 0,
+        "text_color": "text-light",
+        "title": "HOLIDAY 22 Collection",
+        "main_subheading": "",
+        "button_text": "View Here",
+        "button_link": "shopify:\/\/collections\/holiday-22-collection",
+        "button_style": "secondary"
+      }
+    },
     "slideshow": {
       "type": "section-slideshow",
       "disabled": true,
@@ -87,7 +103,6 @@
       "blocks": {
         "05b21da6-548f-464f-92cd-b004a7544651": {
           "type": "image",
-          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/11.2_Holiday_Collection_Desktop.jpg",
             "image_mobile": "shopify:\/\/shop_images\/11.2_Holiday_Collection_Mobile.jpg",
@@ -661,23 +676,6 @@
         "bg_color": ""
       }
     },
-    "video": {
-      "type": "section-video",
-      "disabled": true,
-      "settings": {
-        "video_height": "sixty-fifty-height-hero",
-        "text_position": "center-center",
-        "hero_video_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "video_enable_sound": false,
-        "overlay_opacity": 20,
-        "text_color": "text-light",
-        "title": "Welcome to Palo Alto",
-        "main_subheading": "This subheading helps you provide some more detail to the title above.",
-        "button_text": "Welcome",
-        "button_link": "",
-        "button_style": "secondary"
-      }
-    },
     "featured-blog": {
       "type": "section-blog",
       "blocks": {
@@ -751,6 +749,7 @@
     }
   },
   "order": [
+    "video",
     "slideshow",
     "16554811631c81f434",
     "featured-collection",
@@ -763,7 +762,6 @@
     "tabbed-collections",
     "icons-row",
     "press",
-    "video",
     "featured-blog"
   ]
 }
