@@ -185,6 +185,7 @@
         },
         "b6bec518-162b-4e51-8154-1de743776b5e": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/22.9.22_NBA_SALE_Desktop.jpg",
             "image_mobile": "shopify:\/\/shop_images\/22.9.22_NBA_SALE_Mobile.jpg",
@@ -367,6 +368,7 @@
     },
     "16638715534823a0f7": {
       "type": "section-collection",
+      "disabled": true,
       "settings": {
         "collection": "nba-collection",
         "products_rows": 2,
