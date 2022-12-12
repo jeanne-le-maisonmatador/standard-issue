@@ -84,6 +84,7 @@
     },
     "16554811631c81f434": {
       "type": "section-slideshow",
+      "disabled": true,
       "blocks": {
         "b6bec518-162b-4e51-8154-1de743776b5e": {
           "type": "image",
@@ -316,8 +317,25 @@
         "transition": "slide"
       }
     },
+    "c8912708-6bfa-4d0c-b144-1f7cf9e22399": {
+      "type": "section-video",
+      "settings": {
+        "video_height": "sixty-fifty-height-hero",
+        "text_position": "center-center",
+        "hero_video_link": "https:\/\/www.youtube.com\/watch?v=-vHtNl_A-Oc",
+        "video_enable_sound": false,
+        "overlay_opacity": 0,
+        "text_color": "text-light",
+        "title": "NBA & Standard Issue",
+        "main_subheading": "Ready to Wear Cardigan Collection",
+        "button_text": "READ BLOG",
+        "button_link": "shopify:\/\/blogs\/news\/back-to-back-introducing-2nd-addition-nba-standard-issue-rtw-cardigan-collection",
+        "button_style": "secondary"
+      }
+    },
     "video": {
       "type": "section-video",
+      "disabled": true,
       "settings": {
         "video_height": "sixty-fifty-height-hero",
         "text_position": "center-center",
@@ -762,6 +780,7 @@
   "order": [
     "slideshow",
     "16554811631c81f434",
+    "c8912708-6bfa-4d0c-b144-1f7cf9e22399",
     "video",
     "featured-collection",
     "product-feature",
