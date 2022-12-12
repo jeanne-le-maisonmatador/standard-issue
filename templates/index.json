@@ -680,6 +680,15 @@
     "featured-blog": {
       "type": "section-blog",
       "blocks": {
+        "3ac79508-0241-4ce5-a94a-b9cd1b4e7a5c": {
+          "type": "article",
+          "settings": {
+            "article": "news\/back-to-back-introducing-2nd-addition-nba-standard-issue-rtw-cardigan-collection",
+            "product1": "",
+            "product2": "",
+            "product3": ""
+          }
+        },
         "62fe2579-4836-4a5c-bca6-db5595700668": {
           "type": "article",
           "settings": {
@@ -736,6 +745,7 @@
         }
       },
       "block_order": [
+        "3ac79508-0241-4ce5-a94a-b9cd1b4e7a5c",
         "62fe2579-4836-4a5c-bca6-db5595700668",
         "featured-blog-0",
         "featured-blog-1",
