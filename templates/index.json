@@ -339,22 +339,6 @@
         "transition": "slide"
       }
     },
-    "c8912708-6bfa-4d0c-b144-1f7cf9e22399": {
-      "type": "section-video",
-      "settings": {
-        "video_height": "sixty-fifty-height-hero",
-        "text_position": "center-center",
-        "hero_video_link": "https:\/\/www.youtube.com\/watch?v=-vHtNl_A-Oc",
-        "video_enable_sound": false,
-        "overlay_opacity": 0,
-        "text_color": "text-light",
-        "title": "NBA & Standard Issue",
-        "main_subheading": "Ready to Wear Cardigan Collection",
-        "button_text": "READ BLOG",
-        "button_link": "shopify:\/\/blogs\/news\/back-to-back-introducing-2nd-addition-nba-standard-issue-rtw-cardigan-collection",
-        "button_style": "secondary"
-      }
-    },
     "video": {
       "type": "section-video",
       "disabled": true,
@@ -383,6 +367,22 @@
         "button_style": "primary",
         "bg_color": "",
         "enable_slider": true
+      }
+    },
+    "c8912708-6bfa-4d0c-b144-1f7cf9e22399": {
+      "type": "section-video",
+      "settings": {
+        "video_height": "sixty-fifty-height-hero",
+        "text_position": "center-center",
+        "hero_video_link": "https:\/\/www.youtube.com\/watch?v=-vHtNl_A-Oc",
+        "video_enable_sound": false,
+        "overlay_opacity": 0,
+        "text_color": "text-light",
+        "title": "NBA & Standard Issue",
+        "main_subheading": "Ready to Wear Cardigan Collection",
+        "button_text": "READ BLOG",
+        "button_link": "shopify:\/\/blogs\/news\/back-to-back-introducing-2nd-addition-nba-standard-issue-rtw-cardigan-collection",
+        "button_style": "secondary"
       }
     },
     "featured-collection": {
@@ -815,9 +815,9 @@
   "order": [
     "slideshow",
     "16554811631c81f434",
-    "c8912708-6bfa-4d0c-b144-1f7cf9e22399",
     "video",
     "fabe75ee-b941-42c8-9497-7e10a05c3c55",
+    "c8912708-6bfa-4d0c-b144-1f7cf9e22399",
     "featured-collection",
     "product-feature",
     "16638715534823a0f7",
