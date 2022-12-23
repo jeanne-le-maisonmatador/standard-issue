@@ -71,7 +71,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/22.12.23_holiday22_-_Desktop.jpg",
             "bg_position": "center-center",
-            "overlay_opacity": 20,
+            "overlay_opacity": 0,
             "text_color": "text-light",
             "title": "",
             "slide_subheading": "",
