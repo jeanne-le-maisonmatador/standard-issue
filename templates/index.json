@@ -88,7 +88,6 @@
         },
         "c214ba12-1fbd-481b-8247-e8e36dfdb9b1": {
           "type": "image",
-          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/23.01.16_grey_restock_-_Desktop.jpg",
             "image_mobile": "shopify:\/\/shop_images\/23.01.16_grey_restock_-_Mobile.jpg",
@@ -109,6 +108,7 @@
         },
         "1f083ae1-5b91-4319-b2bc-7a0c74b7c3ff": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/23.01.11_wine_pine_-_Desktop.jpg",
             "image_mobile": "shopify:\/\/shop_images\/23.01.11_wine_pine_-_Mobile.jpg",
