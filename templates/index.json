@@ -88,6 +88,7 @@
         },
         "c214ba12-1fbd-481b-8247-e8e36dfdb9b1": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/23.01.16_grey_restock_-_Desktop.jpg",
             "image_mobile": "shopify:\/\/shop_images\/23.01.16_grey_restock_-_Mobile.jpg",
@@ -129,7 +130,6 @@
         },
         "83567953-ad28-488f-a975-1cd6960aeee8": {
           "type": "image",
-          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/23.01.18_denim_col2_-_Desktop.jpg",
             "image_mobile": "shopify:\/\/shop_images\/23.01.18_denim_col2_-_Mobile.jpg",
