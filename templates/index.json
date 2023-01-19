@@ -486,21 +486,9 @@
         "button_style": "secondary"
       }
     },
-    "fabe75ee-b941-42c8-9497-7e10a05c3c55": {
-      "type": "section-collection",
-      "settings": {
-        "collection": "nba-collection-1",
-        "products_rows": 2,
-        "products_layout": "grid",
-        "show_title": true,
-        "show_collection_button": true,
-        "button_style": "primary",
-        "bg_color": "",
-        "enable_slider": true
-      }
-    },
     "c8912708-6bfa-4d0c-b144-1f7cf9e22399": {
       "type": "section-video",
+      "disabled": true,
       "settings": {
         "video_height": "sixty-fifty-height-hero",
         "text_position": "center-center",
@@ -520,6 +508,19 @@
       "settings": {
         "collection": "new-arrivals",
         "products_rows": 5,
+        "products_layout": "grid",
+        "show_title": true,
+        "show_collection_button": true,
+        "button_style": "primary",
+        "bg_color": "",
+        "enable_slider": true
+      }
+    },
+    "fabe75ee-b941-42c8-9497-7e10a05c3c55": {
+      "type": "section-collection",
+      "settings": {
+        "collection": "nba-collection-1",
+        "products_rows": 2,
         "products_layout": "grid",
         "show_title": true,
         "show_collection_button": true,
@@ -946,9 +947,9 @@
     "slideshow",
     "16554811631c81f434",
     "video",
-    "fabe75ee-b941-42c8-9497-7e10a05c3c55",
     "c8912708-6bfa-4d0c-b144-1f7cf9e22399",
     "featured-collection",
+    "fabe75ee-b941-42c8-9497-7e10a05c3c55",
     "product-feature",
     "16638715534823a0f7",
     "16630869551bcc1acb",
