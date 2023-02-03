@@ -5,7 +5,6 @@
       "blocks": {
         "556d85f8-1c3b-43b9-a3f5-7412573123c8": {
           "type": "image",
-          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/23.02.03_valentines_-_Desktop.jpg",
             "image_mobile": "shopify:\/\/shop_images\/23.02.03_valentines_-_Mobile.jpg",
@@ -26,6 +25,7 @@
         },
         "1f083ae1-5b91-4319-b2bc-7a0c74b7c3ff": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/23.01.25_stoney_-_Desktop.jpg",
             "image_mobile": "shopify:\/\/shop_images\/23.01.25_stoney_-_Mobile.jpg",
