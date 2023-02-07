@@ -926,6 +926,15 @@
             "product2": "",
             "product3": ""
           }
+        },
+        "1f084ad8-be84-4a84-b5ce-d9aed8b9d922": {
+          "type": "article",
+          "settings": {
+            "article": "news\/jsp-teams-up-with-vault-by-vans-for-third-footwear-installment",
+            "product1": "",
+            "product2": "",
+            "product3": ""
+          }
         }
       },
       "block_order": [
@@ -935,7 +944,8 @@
         "featured-blog-1",
         "featured-blog-2",
         "featured-blog-3",
-        "featured-blog-4"
+        "featured-blog-4",
+        "1f084ad8-be84-4a84-b5ce-d9aed8b9d922"
       ],
       "settings": {
         "title": "",
