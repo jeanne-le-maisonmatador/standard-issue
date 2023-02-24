@@ -6,15 +6,15 @@
         "f625533b-9e7b-4007-b13d-878bca40ecfe": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/23.02.23_tees_-_Desktop.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/23.02.23_tees_-_Mobile.jpg",
+            "image": "shopify:\/\/shop_images\/23.02.24_slacker_LS_-_Desktop.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/23.02.24_slacker_LS_-_Mobile.jpg",
             "bg_position": "center-center",
             "overlay_opacity": 0,
             "text_color": "text-dark",
             "title": "",
             "slide_subheading": "",
             "slide_btn_text": "Shop Now",
-            "slide_btn_link": "shopify:\/\/collections\/standard-tee",
+            "slide_btn_link": "shopify:\/\/collections\/slackers-and-long-sleeves",
             "slide_btn_style": "secondary",
             "slide_btn_text_2": "",
             "slide_btn_link_2": "",
