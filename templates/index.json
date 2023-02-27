@@ -519,6 +519,7 @@
     },
     "fabe75ee-b941-42c8-9497-7e10a05c3c55": {
       "type": "section-collection",
+      "disabled": true,
       "settings": {
         "collection": "nba-collection-1",
         "products_rows": 2,
@@ -532,6 +533,7 @@
     },
     "product-feature": {
       "type": "section-product-feature",
+      "disabled": true,
       "settings": {
         "image_layout": "square",
         "image_position": "inline",
@@ -581,6 +583,58 @@
         "button_link": "shopify:\/\/products\/black-white-heather-grey-three-pack",
         "button_style": "secondary",
         "video_url": "",
+        "bg_color": ""
+      }
+    },
+    "892dd121-cafb-4a74-b9fa-754385282356": {
+      "type": "section-product",
+      "blocks": {
+        "template--14305551417443__892dd121-cafb-4a74-b9fa-754385282356-16775337938519d52e-0": {
+          "type": "title",
+          "settings": {
+            "subheading": "none",
+            "show_rating": true,
+            "show_rating_count": false
+          }
+        },
+        "template--14305551417443__892dd121-cafb-4a74-b9fa-754385282356-16775337938519d52e-1": {
+          "type": "form",
+          "settings": {
+            "show_payment_button": true
+          }
+        },
+        "template--14305551417443__892dd121-cafb-4a74-b9fa-754385282356-16775337938519d52e-2": {
+          "type": "description",
+          "settings": {
+            "tabs_style": "accordions",
+            "tab_title_1": "Tab",
+            "tab_content_1": "<p>This content type will accept <strong>rich text<\/strong> to help with adding styles and links to additional pages or content. Use this to add supplementary information to help your buyers.<\/p>",
+            "tab_title_2": "Info",
+            "tab_content_2": "<p>You can use product metafields to assign content to this tab that is unique to an individual product.  Use tabs to highlight unique features, sizing information, or other sales information.<\/p>",
+            "tab_title_3": "",
+            "tab_content_3": "",
+            "tab_title_4": "",
+            "tab_content_4": "",
+            "tab_title_5": "",
+            "tab_content_5": ""
+          }
+        },
+        "template--14305551417443__892dd121-cafb-4a74-b9fa-754385282356-16775337938519d52e-3": {
+          "type": "social-sharing",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--14305551417443__892dd121-cafb-4a74-b9fa-754385282356-16775337938519d52e-0",
+        "template--14305551417443__892dd121-cafb-4a74-b9fa-754385282356-16775337938519d52e-1",
+        "template--14305551417443__892dd121-cafb-4a74-b9fa-754385282356-16775337938519d52e-2",
+        "template--14305551417443__892dd121-cafb-4a74-b9fa-754385282356-16775337938519d52e-3"
+      ],
+      "settings": {
+        "product": "g-shock-gm6900wtc22-9-wu-tang-clans-30th-anniversary",
+        "hide_product_thumbnails": false,
+        "enable_video_looping": true,
         "bg_color": ""
       }
     },
@@ -952,58 +1006,6 @@
         "title": "",
         "bg_color": ""
       }
-    },
-    "892dd121-cafb-4a74-b9fa-754385282356": {
-      "type": "section-product",
-      "blocks": {
-        "template--14305551417443__892dd121-cafb-4a74-b9fa-754385282356-16775337938519d52e-0": {
-          "type": "title",
-          "settings": {
-            "subheading": "none",
-            "show_rating": true,
-            "show_rating_count": false
-          }
-        },
-        "template--14305551417443__892dd121-cafb-4a74-b9fa-754385282356-16775337938519d52e-1": {
-          "type": "form",
-          "settings": {
-            "show_payment_button": true
-          }
-        },
-        "template--14305551417443__892dd121-cafb-4a74-b9fa-754385282356-16775337938519d52e-2": {
-          "type": "description",
-          "settings": {
-            "tabs_style": "accordions",
-            "tab_title_1": "Tab",
-            "tab_content_1": "<p>This content type will accept <strong>rich text<\/strong> to help with adding styles and links to additional pages or content. Use this to add supplementary information to help your buyers.<\/p>",
-            "tab_title_2": "Info",
-            "tab_content_2": "<p>You can use product metafields to assign content to this tab that is unique to an individual product.  Use tabs to highlight unique features, sizing information, or other sales information.<\/p>",
-            "tab_title_3": "",
-            "tab_content_3": "",
-            "tab_title_4": "",
-            "tab_content_4": "",
-            "tab_title_5": "",
-            "tab_content_5": ""
-          }
-        },
-        "template--14305551417443__892dd121-cafb-4a74-b9fa-754385282356-16775337938519d52e-3": {
-          "type": "social-sharing",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "template--14305551417443__892dd121-cafb-4a74-b9fa-754385282356-16775337938519d52e-0",
-        "template--14305551417443__892dd121-cafb-4a74-b9fa-754385282356-16775337938519d52e-1",
-        "template--14305551417443__892dd121-cafb-4a74-b9fa-754385282356-16775337938519d52e-2",
-        "template--14305551417443__892dd121-cafb-4a74-b9fa-754385282356-16775337938519d52e-3"
-      ],
-      "settings": {
-        "product": "g-shock-gm6900wtc22-9-wu-tang-clans-30th-anniversary",
-        "hide_product_thumbnails": false,
-        "enable_video_looping": true,
-        "bg_color": ""
-      }
     }
   },
   "order": [
@@ -1016,13 +1018,13 @@
     "product-feature",
     "16638715534823a0f7",
     "16630869551bcc1acb",
+    "892dd121-cafb-4a74-b9fa-754385282356",
     "logo-list",
     "collection-list",
     "image-with-text",
     "tabbed-collections",
     "icons-row",
     "press",
-    "featured-blog",
-    "892dd121-cafb-4a74-b9fa-754385282356"
+    "featured-blog"
   ]
 }
