@@ -588,6 +588,7 @@
     },
     "892dd121-cafb-4a74-b9fa-754385282356": {
       "type": "section-product",
+      "disabled": true,
       "blocks": {
         "template--14305551417443__892dd121-cafb-4a74-b9fa-754385282356-16775337938519d52e-0": {
           "type": "title",
