@@ -5,7 +5,6 @@
       "blocks": {
         "slideshow-0": {
           "type": "image",
-          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/23.04.13_khaki_cargo_-_Desktop.jpg",
             "image_mobile": "shopify:\/\/shop_images\/23.04.13_khaki_cargo_-_Mobile.jpg",
@@ -46,6 +45,7 @@
         },
         "83567953-ad28-488f-a975-1cd6960aeee8": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/23.02.15_vans2_drop_-_Desktop.jpg",
             "image_mobile": "shopify:\/\/shop_images\/23.02.15_vans2_drop_-_Mobile.jpg",
