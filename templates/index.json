@@ -5,7 +5,6 @@
       "blocks": {
         "2e96cfbf-3f7d-4a24-9ed5-0f7f5386269d": {
           "type": "image",
-          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/23.04.16_slkr_thermal_reup_-_Desktop.jpg",
             "image_mobile": "shopify:\/\/shop_images\/23.04.16_slkr_thermal_reup_-_Mobile.jpg",
