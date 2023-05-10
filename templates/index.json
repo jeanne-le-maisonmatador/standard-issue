@@ -3,6 +3,26 @@
     "slideshow": {
       "type": "section-slideshow",
       "blocks": {
+        "2e96cfbf-3f7d-4a24-9ed5-0f7f5386269d": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/5-10_WEB_BANNER_DESKTOP_5e437ed7-30ec-4887-b45b-eeda78c81a22.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/5-10_WEB_BANNER_MOBILE_cee84eb7-5c0b-4f1f-a125-4028ebe5b6d2.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "text_color": "text-light",
+            "title": "",
+            "slide_subheading": "",
+            "slide_btn_text": "SHOP NOW",
+            "slide_btn_link": "shopify:\/\/collections\/surplus-cargo-pant",
+            "slide_btn_style": "secondary",
+            "slide_btn_text_2": "",
+            "slide_btn_link_2": "",
+            "slide_btn_style_2": "secondary",
+            "video_btn_text": "",
+            "video_btn_link": ""
+          }
+        },
         "slideshow-0": {
           "type": "image",
           "settings": {
@@ -20,26 +40,6 @@
             "slide_btn_link_2": "",
             "slide_btn_style_2": "secondary",
             "video_btn_text": "Watch the Video",
-            "video_btn_link": ""
-          }
-        },
-        "2e96cfbf-3f7d-4a24-9ed5-0f7f5386269d": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/23.04.25_black_cargo_-_Desktop.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/23.04.25_black_cargo_-_Mobile.jpg",
-            "bg_position": "center-center",
-            "overlay_opacity": 0,
-            "text_color": "text-light",
-            "title": "",
-            "slide_subheading": "",
-            "slide_btn_text": "SHOP NOW",
-            "slide_btn_link": "shopify:\/\/collections\/surplus-cargo-pant",
-            "slide_btn_style": "secondary",
-            "slide_btn_text_2": "",
-            "slide_btn_link_2": "",
-            "slide_btn_style_2": "secondary",
-            "video_btn_text": "",
             "video_btn_link": ""
           }
         },
@@ -212,8 +212,8 @@
         }
       },
       "block_order": [
-        "slideshow-0",
         "2e96cfbf-3f7d-4a24-9ed5-0f7f5386269d",
+        "slideshow-0",
         "8a0fe5ec-a580-41a2-af48-9d6e17fa994b",
         "83567953-ad28-488f-a975-1cd6960aeee8",
         "f625533b-9e7b-4007-b13d-878bca40ecfe",
