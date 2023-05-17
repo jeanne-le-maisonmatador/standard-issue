@@ -3,6 +3,26 @@
     "slideshow": {
       "type": "section-slideshow",
       "blocks": {
+        "8a0fe5ec-a580-41a2-af48-9d6e17fa994b": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/5-17_EMAIL_WEB.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/5-17_EMAIL_MOBILE.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "text_color": "text-dark",
+            "title": "",
+            "slide_subheading": "",
+            "slide_btn_text": "Shop Now",
+            "slide_btn_link": "shopify:\/\/collections\/new-arrivals",
+            "slide_btn_style": "secondary",
+            "slide_btn_text_2": "",
+            "slide_btn_link_2": "",
+            "slide_btn_style_2": "secondary",
+            "video_btn_text": "",
+            "video_btn_link": ""
+          }
+        },
         "2e96cfbf-3f7d-4a24-9ed5-0f7f5386269d": {
           "type": "image",
           "settings": {
@@ -15,46 +35,6 @@
             "slide_subheading": "",
             "slide_btn_text": "SHOP NOW",
             "slide_btn_link": "shopify:\/\/collections\/surplus-cargo-pant",
-            "slide_btn_style": "secondary",
-            "slide_btn_text_2": "",
-            "slide_btn_link_2": "",
-            "slide_btn_style_2": "secondary",
-            "video_btn_text": "",
-            "video_btn_link": ""
-          }
-        },
-        "slideshow-0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/5-3_WEB_BANNER_DESKTOP.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/5-3_WEB_BANNER_MOBILE.jpg",
-            "bg_position": "center-center",
-            "overlay_opacity": 0,
-            "text_color": "text-light",
-            "title": "",
-            "slide_subheading": "",
-            "slide_btn_text": "SHOP NOW",
-            "slide_btn_link": "shopify:\/\/collections\/new-arrivals",
-            "slide_btn_style": "secondary",
-            "slide_btn_text_2": "",
-            "slide_btn_link_2": "",
-            "slide_btn_style_2": "secondary",
-            "video_btn_text": "Watch the Video",
-            "video_btn_link": ""
-          }
-        },
-        "8a0fe5ec-a580-41a2-af48-9d6e17fa994b": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/23.04.06_stash_-_Desktop.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/23.04.06_stash_-_Mobile.jpg",
-            "bg_position": "center-center",
-            "overlay_opacity": 0,
-            "text_color": "text-dark",
-            "title": "",
-            "slide_subheading": "",
-            "slide_btn_text": "Shop Now",
-            "slide_btn_link": "shopify:\/\/collections\/stash-standard-issue-afternoon-enamel-collection",
             "slide_btn_style": "secondary",
             "slide_btn_text_2": "",
             "slide_btn_link_2": "",
@@ -212,9 +192,8 @@
         }
       },
       "block_order": [
-        "2e96cfbf-3f7d-4a24-9ed5-0f7f5386269d",
-        "slideshow-0",
         "8a0fe5ec-a580-41a2-af48-9d6e17fa994b",
+        "2e96cfbf-3f7d-4a24-9ed5-0f7f5386269d",
         "83567953-ad28-488f-a975-1cd6960aeee8",
         "f625533b-9e7b-4007-b13d-878bca40ecfe",
         "c214ba12-1fbd-481b-8247-e8e36dfdb9b1",
