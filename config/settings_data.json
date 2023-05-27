@@ -148,14 +148,23 @@
         "blocks": {
           "0144ea24-7006-40b7-8b41-6695729a4524": {
             "type": "announcement",
+            "disabled": true,
             "settings": {
               "text": "SIGN UP FOR OUR EMAIL AND TEXT TO RECEIVE 10% OFF YOUR FIRST ORDER",
+              "link": ""
+            }
+          },
+          "c47dbe7f-5c60-40a1-9cdc-54eb7ed85c8d": {
+            "type": "announcement",
+            "settings": {
+              "text": "MEMORIAL DAY SALE 5\/27 - 5\/29 USE CODE 25forMDS23 AT CHECKOUT!",
               "link": ""
             }
           }
         },
         "block_order": [
-          "0144ea24-7006-40b7-8b41-6695729a4524"
+          "0144ea24-7006-40b7-8b41-6695729a4524",
+          "c47dbe7f-5c60-40a1-9cdc-54eb7ed85c8d"
         ],
         "settings": {
           "color_announcement_bar_bg": "#fafafa",
