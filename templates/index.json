@@ -898,6 +898,15 @@
     "featured-blog": {
       "type": "section-blog",
       "blocks": {
+        "16e32a28-936d-42ef-b5c7-70ffb75d0505": {
+          "type": "article",
+          "settings": {
+            "article": "news\/the-team-toyo-tires-world-class-collection",
+            "product1": "",
+            "product2": "",
+            "product3": ""
+          }
+        },
         "1f084ad8-be84-4a84-b5ce-d9aed8b9d922": {
           "type": "article",
           "settings": {
@@ -969,18 +978,10 @@
             "product2": "",
             "product3": ""
           }
-        },
-        "16e32a28-936d-42ef-b5c7-70ffb75d0505": {
-          "type": "article",
-          "settings": {
-            "article": "news\/the-team-toyo-tires-world-class-collection",
-            "product1": "",
-            "product2": "",
-            "product3": ""
-          }
         }
       },
       "block_order": [
+        "16e32a28-936d-42ef-b5c7-70ffb75d0505",
         "1f084ad8-be84-4a84-b5ce-d9aed8b9d922",
         "3ac79508-0241-4ce5-a94a-b9cd1b4e7a5c",
         "62fe2579-4836-4a5c-bca6-db5595700668",
@@ -988,8 +989,7 @@
         "featured-blog-1",
         "featured-blog-2",
         "featured-blog-3",
-        "featured-blog-4",
-        "16e32a28-936d-42ef-b5c7-70ffb75d0505"
+        "featured-blog-4"
       ],
       "settings": {
         "title": "",
