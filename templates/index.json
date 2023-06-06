@@ -969,6 +969,15 @@
             "product2": "",
             "product3": ""
           }
+        },
+        "16e32a28-936d-42ef-b5c7-70ffb75d0505": {
+          "type": "article",
+          "settings": {
+            "article": "news\/the-team-toyo-tires-world-class-collection",
+            "product1": "",
+            "product2": "",
+            "product3": ""
+          }
         }
       },
       "block_order": [
@@ -979,7 +988,8 @@
         "featured-blog-1",
         "featured-blog-2",
         "featured-blog-3",
-        "featured-blog-4"
+        "featured-blog-4",
+        "16e32a28-936d-42ef-b5c7-70ffb75d0505"
       ],
       "settings": {
         "title": "",
