@@ -5,6 +5,7 @@
       "blocks": {
         "f625533b-9e7b-4007-b13d-878bca40ecfe": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/3_Pack_Tees_-_Desktop.jpg",
             "image_mobile": "shopify:\/\/shop_images\/3_Pack_Tees_-_Mobile.jpg",
@@ -25,7 +26,6 @@
         },
         "8a0fe5ec-a580-41a2-af48-9d6e17fa994b": {
           "type": "image",
-          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/TOYO_BANNER_DESKTOP.jpg",
             "image_mobile": "shopify:\/\/shop_images\/TOYO_BANNER_MOBILE.jpg",
