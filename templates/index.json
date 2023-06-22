@@ -5,7 +5,6 @@
       "blocks": {
         "2e96cfbf-3f7d-4a24-9ed5-0f7f5386269d": {
           "type": "image",
-          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/6-22_AT_SHORTS_BANNER_DESKTOP.jpg",
             "image_mobile": "shopify:\/\/shop_images\/6-22_AT_SHORTS_BANNER_MOBILE.jpg",
@@ -47,6 +46,7 @@
         },
         "8a0fe5ec-a580-41a2-af48-9d6e17fa994b": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/TOYO_BANNER_DESKTOP.jpg",
             "image_mobile": "shopify:\/\/shop_images\/TOYO_BANNER_MOBILE.jpg",
