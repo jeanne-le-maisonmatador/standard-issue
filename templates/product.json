@@ -56,7 +56,6 @@
       "blocks": {
         "2e17a98e-add1-4c99-ab9f-aafb536ceb1e": {
           "type": "shopify:\/\/apps\/product-reviews\/blocks\/reviews\/bae150af-8da8-48b2-9867-398188115e5f",
-          "disabled": true,
           "settings": {
           }
         }
