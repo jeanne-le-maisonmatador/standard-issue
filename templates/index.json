@@ -483,11 +483,11 @@
         "button_style": "secondary"
       }
     },
-    "fabe75ee-b941-42c8-9497-7e10a05c3c55": {
+    "featured-collection": {
       "type": "section-collection",
       "settings": {
-        "collection": "shorts",
-        "products_rows": 2,
+        "collection": "new-arrivals",
+        "products_rows": 5,
         "products_layout": "grid",
         "show_title": true,
         "show_collection_button": true,
@@ -496,11 +496,11 @@
         "enable_slider": true
       }
     },
-    "featured-collection": {
+    "fabe75ee-b941-42c8-9497-7e10a05c3c55": {
       "type": "section-collection",
       "settings": {
-        "collection": "new-arrivals",
-        "products_rows": 5,
+        "collection": "shorts",
+        "products_rows": 2,
         "products_layout": "grid",
         "show_title": true,
         "show_collection_button": true,
@@ -1002,8 +1002,8 @@
     "16554811631c81f434",
     "video",
     "c8912708-6bfa-4d0c-b144-1f7cf9e22399",
-    "fabe75ee-b941-42c8-9497-7e10a05c3c55",
     "featured-collection",
+    "fabe75ee-b941-42c8-9497-7e10a05c3c55",
     "product-feature",
     "16638715534823a0f7",
     "16630869551bcc1acb",
