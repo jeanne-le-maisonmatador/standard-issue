@@ -6,15 +6,15 @@
         "8a0fe5ec-a580-41a2-af48-9d6e17fa994b": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/TANKS_BANNER_DESKTOP.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/TANK_BANNER_MOBILE.jpg",
+            "image": "shopify:\/\/shop_images\/NEON_BANNER_DESK.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/NEON_BANNER_MOBILE.jpg",
             "bg_position": "center-center",
             "overlay_opacity": 0,
             "text_color": "text-dark",
             "title": "",
             "slide_subheading": "",
             "slide_btn_text": "Shop Now",
-            "slide_btn_link": "shopify:\/\/collections\/tank-top",
+            "slide_btn_link": "shopify:\/\/collections\/new-arrivals",
             "slide_btn_style": "secondary",
             "slide_btn_text_2": "",
             "slide_btn_link_2": "",
