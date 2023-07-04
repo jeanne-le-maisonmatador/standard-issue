@@ -48,70 +48,15 @@
         "image_position": "inline",
         "text_position": "right",
         "text_alignment": "center",
-        "image_1": "shopify:\/\/shop_images\/A7A8707.jpg",
-        "image_link_1": "",
+        "image_1": "shopify:\/\/shop_images\/STANDARD_WHITE_TEE.png",
+        "image_link_1": "shopify:\/\/products\/standard-tee-white",
         "image_link_2": "",
         "hide_image_2": false,
         "heading": "IT STARTED WITH A TEE",
         "description": "<p><strong>Style<\/strong>: Standard Tee - Classic Fit<br\/><strong>Weight<\/strong>: 10 oz. <br\/><strong>Fabric<\/strong>: 100% Ring Spun Cotton<br\/><strong>Process<\/strong>: Garment Dye<br\/><strong>Country of Origin:<\/strong> USA<\/p>",
-        "button_text": "",
-        "button_link": "",
-        "button_style": "primary",
-        "bg_color": ""
-      }
-    },
-    "e34186d9-3906-495b-b5c3-31ea703efe2a": {
-      "type": "section-product",
-      "blocks": {
-        "template--19750215483673__e34186d9-3906-495b-b5c3-31ea703efe2a-16884966475f8467af-0": {
-          "type": "title",
-          "settings": {
-            "subheading": "none",
-            "show_rating": true,
-            "show_rating_count": false
-          }
-        },
-        "template--19750215483673__e34186d9-3906-495b-b5c3-31ea703efe2a-16884966475f8467af-1": {
-          "type": "form",
-          "disabled": true,
-          "settings": {
-            "show_payment_button": true
-          }
-        },
-        "template--19750215483673__e34186d9-3906-495b-b5c3-31ea703efe2a-16884966475f8467af-2": {
-          "type": "description",
-          "disabled": true,
-          "settings": {
-            "tabs_style": "accordions",
-            "tab_title_1": "Tab",
-            "tab_content_1": "<p>This content type will accept <strong>rich text<\/strong> to help with adding styles and links to additional pages or content. Use this to add supplementary information to help your buyers.<\/p>",
-            "tab_title_2": "Info",
-            "tab_content_2": "<p>You can use product metafields to assign content to this tab that is unique to an individual product.  Use tabs to highlight unique features, sizing information, or other sales information.<\/p>",
-            "tab_title_3": "",
-            "tab_content_3": "",
-            "tab_title_4": "",
-            "tab_content_4": "",
-            "tab_title_5": "",
-            "tab_content_5": ""
-          }
-        },
-        "template--19750215483673__e34186d9-3906-495b-b5c3-31ea703efe2a-16884966475f8467af-3": {
-          "type": "social-sharing",
-          "disabled": true,
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "template--19750215483673__e34186d9-3906-495b-b5c3-31ea703efe2a-16884966475f8467af-0",
-        "template--19750215483673__e34186d9-3906-495b-b5c3-31ea703efe2a-16884966475f8467af-1",
-        "template--19750215483673__e34186d9-3906-495b-b5c3-31ea703efe2a-16884966475f8467af-2",
-        "template--19750215483673__e34186d9-3906-495b-b5c3-31ea703efe2a-16884966475f8467af-3"
-      ],
-      "settings": {
-        "product": "standard-tee-white",
-        "hide_product_thumbnails": true,
-        "enable_video_looping": false,
+        "button_text": "SHOP NOW",
+        "button_link": "shopify:\/\/products\/standard-tee-white",
+        "button_style": "secondary",
         "bg_color": ""
       }
     },
@@ -238,7 +183,7 @@
         "b58c30a4-8d0f-44d4-90fb-932a556be002"
       ],
       "settings": {
-        "slide_height": "one-hundred-height-hero",
+        "slide_height": "original-height",
         "content_alignment": "center",
         "show_nav_dots": true,
         "show_nav_arrows": true,
@@ -285,42 +230,6 @@
         "subtitle": "<p>GET THE LATEST ON STANDARD ISSUE AND SIGN UP FOR THE NEWSLETTER<\/p>",
         "bg_color": ""
       }
-    },
-    "6d6f3811-f32c-499a-a54b-472e20df1b40": {
-      "type": "section-slideshow",
-      "blocks": {
-        "template--19750215483673__6d6f3811-f32c-499a-a54b-472e20df1b40-16884969888ce98ee7-1": {
-          "type": "image",
-          "settings": {
-            "bg_position": "center-center",
-            "overlay_opacity": 20,
-            "text_color": "text-light",
-            "title": "Welcome to Palo Alto",
-            "slide_subheading": "This subheading helps you provide some more detail to the title above.",
-            "slide_btn_text": "Welcome",
-            "slide_btn_link": "",
-            "slide_btn_style": "primary",
-            "slide_btn_text_2": "",
-            "slide_btn_link_2": "",
-            "slide_btn_style_2": "secondary",
-            "video_btn_text": "Watch the Video",
-            "video_btn_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
-          }
-        }
-      },
-      "block_order": [
-        "template--19750215483673__6d6f3811-f32c-499a-a54b-472e20df1b40-16884969888ce98ee7-1"
-      ],
-      "settings": {
-        "slide_height": "one-hundred-height-hero",
-        "content_alignment": "center",
-        "show_nav_dots": true,
-        "show_nav_arrows": true,
-        "show_arrow_down": false,
-        "autoplay": false,
-        "duration": 4,
-        "transition": "slide"
-      }
     }
   },
   "order": [
@@ -328,13 +237,11 @@
     "739d0284-a5d2-477a-b747-dcda1262ee09",
     "fe3486a4-e5c8-44ec-bc74-fab513497147",
     "1ddadb38-45ae-4cbf-a787-ca0c0497ca63",
-    "e34186d9-3906-495b-b5c3-31ea703efe2a",
     "47229cd8-fb89-4fec-89a8-1ea8033462e3",
     "d902f1b4-0cbc-4c3b-b2f7-e82b9873e717",
     "2d2da834-be4f-4dd5-b458-93958836a7ea",
     "96f08794-9779-4e6b-b4f9-04d87891c166",
     "36d2f4aa-5cc7-461e-ad67-fe7cb465d7cb",
-    "250b6721-f875-4fe4-8bb2-bb8f5edb7919",
-    "6d6f3811-f32c-499a-a54b-472e20df1b40"
+    "250b6721-f875-4fe4-8bb2-bb8f5edb7919"
   ]
 }
