@@ -23,10 +23,28 @@
         "button_link": "",
         "button_style": "primary"
       }
+    },
+    "fe3486a4-e5c8-44ec-bc74-fab513497147": {
+      "type": "section-rich-text",
+      "settings": {
+        "text_position": "center",
+        "top_image_width": 100,
+        "subheading": "Standard Issue",
+        "heading": "OUR STORY",
+        "text": "<p>Standard Issue launched in 2017 but the development of our garments go back decades to founder Jarod Lee's experience making private labels for hundreds of women's, men's and children's brands in the fashion world. It was the fit and fabric makeups he found the best for wear, wash, and care that were implemented for Standard Issue from Day 1.<\/p>",
+        "button_text": "",
+        "button_url": "",
+        "button_style": "primary",
+        "secondary_button_text": "",
+        "secondary_button_url": "",
+        "secondary_button_style": "secondary",
+        "bg_color": ""
+      }
     }
   },
   "order": [
     "main",
-    "739d0284-a5d2-477a-b747-dcda1262ee09"
+    "739d0284-a5d2-477a-b747-dcda1262ee09",
+    "fe3486a4-e5c8-44ec-bc74-fab513497147"
   ]
 }
