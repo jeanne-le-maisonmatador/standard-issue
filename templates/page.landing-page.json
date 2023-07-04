@@ -231,6 +231,43 @@
         "subtitle": "<p>GET THE LATEST ON STANDARD ISSUE <\/p>",
         "bg_color": ""
       }
+    },
+    "bf0a0323-6aea-4426-a93b-b7a919d270d1": {
+      "type": "section-slideshow",
+      "blocks": {
+        "template--19750215483673__bf0a0323-6aea-4426-a93b-b7a919d270d1-16884969888ce98ee7-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/img_0746_jpg.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 20,
+            "text_color": "text-light",
+            "title": "Welcome to Standard Issue",
+            "slide_subheading": "Quality Essentials. \nA Uniform For The People.",
+            "slide_btn_text": "",
+            "slide_btn_link": "",
+            "slide_btn_style": "primary",
+            "slide_btn_text_2": "",
+            "slide_btn_link_2": "",
+            "slide_btn_style_2": "secondary",
+            "video_btn_text": "",
+            "video_btn_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19750215483673__bf0a0323-6aea-4426-a93b-b7a919d270d1-16884969888ce98ee7-0"
+      ],
+      "settings": {
+        "slide_height": "one-hundred-height-hero",
+        "content_alignment": "center",
+        "show_nav_dots": true,
+        "show_nav_arrows": true,
+        "show_arrow_down": false,
+        "autoplay": false,
+        "duration": 4,
+        "transition": "slide"
+      }
     }
   },
   "order": [
@@ -243,6 +280,7 @@
     "2d2da834-be4f-4dd5-b458-93958836a7ea",
     "96f08794-9779-4e6b-b4f9-04d87891c166",
     "36d2f4aa-5cc7-461e-ad67-fe7cb465d7cb",
-    "250b6721-f875-4fe4-8bb2-bb8f5edb7919"
+    "250b6721-f875-4fe4-8bb2-bb8f5edb7919",
+    "bf0a0323-6aea-4426-a93b-b7a919d270d1"
   ]
 }
