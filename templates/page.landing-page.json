@@ -211,11 +211,31 @@
             "video_btn_text": "",
             "video_btn_link": ""
           }
+        },
+        "b58c30a4-8d0f-44d4-90fb-932a556be002": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Photo_Mar_01_2_26_27_PM.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 20,
+            "text_color": "text-light",
+            "title": "QUALITY BASICS FOR THE STARS",
+            "slide_subheading": "The quality that has attracted the brand to some of the biggest entertainers in the world.",
+            "slide_btn_text": "",
+            "slide_btn_link": "",
+            "slide_btn_style": "primary",
+            "slide_btn_text_2": "",
+            "slide_btn_link_2": "",
+            "slide_btn_style_2": "secondary",
+            "video_btn_text": "",
+            "video_btn_link": ""
+          }
         }
       },
       "block_order": [
         "template--19750215483673__2d2da834-be4f-4dd5-b458-93958836a7ea-16884969888ce98ee7-0",
-        "template--19750215483673__2d2da834-be4f-4dd5-b458-93958836a7ea-16884969888ce98ee7-1"
+        "template--19750215483673__2d2da834-be4f-4dd5-b458-93958836a7ea-16884969888ce98ee7-1",
+        "b58c30a4-8d0f-44d4-90fb-932a556be002"
       ],
       "settings": {
         "slide_height": "one-hundred-height-hero",
