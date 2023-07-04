@@ -59,12 +59,86 @@
         "button_style": "primary",
         "bg_color": ""
       }
+    },
+    "e34186d9-3906-495b-b5c3-31ea703efe2a": {
+      "type": "section-product",
+      "blocks": {
+        "template--19750215483673__e34186d9-3906-495b-b5c3-31ea703efe2a-16884966475f8467af-0": {
+          "type": "title",
+          "settings": {
+            "subheading": "none",
+            "show_rating": true,
+            "show_rating_count": false
+          }
+        },
+        "template--19750215483673__e34186d9-3906-495b-b5c3-31ea703efe2a-16884966475f8467af-1": {
+          "type": "form",
+          "disabled": true,
+          "settings": {
+            "show_payment_button": true
+          }
+        },
+        "template--19750215483673__e34186d9-3906-495b-b5c3-31ea703efe2a-16884966475f8467af-2": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+            "tabs_style": "accordions",
+            "tab_title_1": "Tab",
+            "tab_content_1": "<p>This content type will accept <strong>rich text<\/strong> to help with adding styles and links to additional pages or content. Use this to add supplementary information to help your buyers.<\/p>",
+            "tab_title_2": "Info",
+            "tab_content_2": "<p>You can use product metafields to assign content to this tab that is unique to an individual product.  Use tabs to highlight unique features, sizing information, or other sales information.<\/p>",
+            "tab_title_3": "",
+            "tab_content_3": "",
+            "tab_title_4": "",
+            "tab_content_4": "",
+            "tab_title_5": "",
+            "tab_content_5": ""
+          }
+        },
+        "template--19750215483673__e34186d9-3906-495b-b5c3-31ea703efe2a-16884966475f8467af-3": {
+          "type": "social-sharing",
+          "disabled": true,
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--19750215483673__e34186d9-3906-495b-b5c3-31ea703efe2a-16884966475f8467af-0",
+        "template--19750215483673__e34186d9-3906-495b-b5c3-31ea703efe2a-16884966475f8467af-1",
+        "template--19750215483673__e34186d9-3906-495b-b5c3-31ea703efe2a-16884966475f8467af-2",
+        "template--19750215483673__e34186d9-3906-495b-b5c3-31ea703efe2a-16884966475f8467af-3"
+      ],
+      "settings": {
+        "product": "standard-tee-white",
+        "hide_product_thumbnails": true,
+        "enable_video_looping": false,
+        "bg_color": ""
+      }
+    },
+    "47229cd8-fb89-4fec-89a8-1ea8033462e3": {
+      "type": "section-rich-text",
+      "settings": {
+        "text_position": "center",
+        "top_image_width": 100,
+        "subheading": "Discover Collections",
+        "heading": "",
+        "text": "<p>Tees, Hoodies, Sweats, Thermals, and Undergarments that could be worn day in and day out with a fit that could always be relied on.<\/p>",
+        "button_text": "",
+        "button_url": "",
+        "button_style": "primary",
+        "secondary_button_text": "",
+        "secondary_button_url": "",
+        "secondary_button_style": "secondary",
+        "bg_color": ""
+      }
     }
   },
   "order": [
     "main",
     "739d0284-a5d2-477a-b747-dcda1262ee09",
     "fe3486a4-e5c8-44ec-bc74-fab513497147",
-    "1ddadb38-45ae-4cbf-a787-ca0c0497ca63"
+    "1ddadb38-45ae-4cbf-a787-ca0c0497ca63",
+    "e34186d9-3906-495b-b5c3-31ea703efe2a",
+    "47229cd8-fb89-4fec-89a8-1ea8033462e3"
   ]
 }
