@@ -10,7 +10,7 @@
     "739d0284-a5d2-477a-b747-dcda1262ee09": {
       "type": "section-featured-image",
       "settings": {
-        "image_height": "sixty-fifty-height-hero",
+        "image_height": "five-fifty-height-hero",
         "text_position": "center-center",
         "enable_parallax": false,
         "image": "shopify:\/\/shop_images\/img_0746_jpg.jpg",
@@ -285,6 +285,42 @@
         "subtitle": "<p>GET THE LATEST ON STANDARD ISSUE AND SIGN UP FOR THE NEWSLETTER<\/p>",
         "bg_color": ""
       }
+    },
+    "6d6f3811-f32c-499a-a54b-472e20df1b40": {
+      "type": "section-slideshow",
+      "blocks": {
+        "template--19750215483673__6d6f3811-f32c-499a-a54b-472e20df1b40-16884969888ce98ee7-1": {
+          "type": "image",
+          "settings": {
+            "bg_position": "center-center",
+            "overlay_opacity": 20,
+            "text_color": "text-light",
+            "title": "Welcome to Palo Alto",
+            "slide_subheading": "This subheading helps you provide some more detail to the title above.",
+            "slide_btn_text": "Welcome",
+            "slide_btn_link": "",
+            "slide_btn_style": "primary",
+            "slide_btn_text_2": "",
+            "slide_btn_link_2": "",
+            "slide_btn_style_2": "secondary",
+            "video_btn_text": "Watch the Video",
+            "video_btn_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
+          }
+        }
+      },
+      "block_order": [
+        "template--19750215483673__6d6f3811-f32c-499a-a54b-472e20df1b40-16884969888ce98ee7-1"
+      ],
+      "settings": {
+        "slide_height": "one-hundred-height-hero",
+        "content_alignment": "center",
+        "show_nav_dots": true,
+        "show_nav_arrows": true,
+        "show_arrow_down": false,
+        "autoplay": false,
+        "duration": 4,
+        "transition": "slide"
+      }
     }
   },
   "order": [
@@ -298,6 +334,7 @@
     "2d2da834-be4f-4dd5-b458-93958836a7ea",
     "96f08794-9779-4e6b-b4f9-04d87891c166",
     "36d2f4aa-5cc7-461e-ad67-fe7cb465d7cb",
-    "250b6721-f875-4fe4-8bb2-bb8f5edb7919"
+    "250b6721-f875-4fe4-8bb2-bb8f5edb7919",
+    "6d6f3811-f32c-499a-a54b-472e20df1b40"
   ]
 }
