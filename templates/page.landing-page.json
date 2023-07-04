@@ -131,6 +131,101 @@
         "secondary_button_style": "secondary",
         "bg_color": ""
       }
+    },
+    "d902f1b4-0cbc-4c3b-b2f7-e82b9873e717": {
+      "type": "section-list-collection",
+      "blocks": {
+        "template--19750215483673__d902f1b4-0cbc-4c3b-b2f7-e82b9873e717-16884968375bb2dc73-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "t-shirts"
+          }
+        },
+        "template--19750215483673__d902f1b4-0cbc-4c3b-b2f7-e82b9873e717-16884968375bb2dc73-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "bottoms"
+          }
+        },
+        "template--19750215483673__d902f1b4-0cbc-4c3b-b2f7-e82b9873e717-16884968375bb2dc73-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "core-essentials"
+          }
+        }
+      },
+      "block_order": [
+        "template--19750215483673__d902f1b4-0cbc-4c3b-b2f7-e82b9873e717-16884968375bb2dc73-0",
+        "template--19750215483673__d902f1b4-0cbc-4c3b-b2f7-e82b9873e717-16884968375bb2dc73-1",
+        "template--19750215483673__d902f1b4-0cbc-4c3b-b2f7-e82b9873e717-16884968375bb2dc73-2"
+      ],
+      "settings": {
+        "layout": "carousel",
+        "columns": 3,
+        "title": "",
+        "button_text": "Shop all",
+        "button_style": "secondary",
+        "overlay_opacity": 20,
+        "bg_color": "",
+        "text_color": "light",
+        "enable_slider": true
+      }
+    },
+    "2d2da834-be4f-4dd5-b458-93958836a7ea": {
+      "type": "section-slideshow",
+      "blocks": {
+        "template--19750215483673__2d2da834-be4f-4dd5-b458-93958836a7ea-16884969888ce98ee7-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Photo_Mar_01_2_29_14_PM.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 20,
+            "text_color": "text-light",
+            "title": "QUALITY BASICS FOR THE STARS",
+            "slide_subheading": "The quality that has attracted the brand to some of the biggest entertainers in the world.",
+            "slide_btn_text": "",
+            "slide_btn_link": "",
+            "slide_btn_style": "primary",
+            "slide_btn_text_2": "",
+            "slide_btn_link_2": "",
+            "slide_btn_style_2": "secondary",
+            "video_btn_text": "",
+            "video_btn_link": ""
+          }
+        },
+        "template--19750215483673__2d2da834-be4f-4dd5-b458-93958836a7ea-16884969888ce98ee7-1": {
+          "type": "image",
+          "settings": {
+            "bg_position": "center-center",
+            "overlay_opacity": 20,
+            "text_color": "text-light",
+            "title": "Welcome to Palo Alto",
+            "slide_subheading": "This subheading helps you provide some more detail to the title above.",
+            "slide_btn_text": "Welcome",
+            "slide_btn_link": "",
+            "slide_btn_style": "primary",
+            "slide_btn_text_2": "",
+            "slide_btn_link_2": "",
+            "slide_btn_style_2": "secondary",
+            "video_btn_text": "Watch the Video",
+            "video_btn_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
+          }
+        }
+      },
+      "block_order": [
+        "template--19750215483673__2d2da834-be4f-4dd5-b458-93958836a7ea-16884969888ce98ee7-0",
+        "template--19750215483673__2d2da834-be4f-4dd5-b458-93958836a7ea-16884969888ce98ee7-1"
+      ],
+      "settings": {
+        "slide_height": "one-hundred-height-hero",
+        "content_alignment": "center",
+        "show_nav_dots": true,
+        "show_nav_arrows": true,
+        "show_arrow_down": false,
+        "autoplay": false,
+        "duration": 4,
+        "transition": "slide"
+      }
     }
   },
   "order": [
@@ -139,6 +234,8 @@
     "fe3486a4-e5c8-44ec-bc74-fab513497147",
     "1ddadb38-45ae-4cbf-a787-ca0c0497ca63",
     "e34186d9-3906-495b-b5c3-31ea703efe2a",
-    "47229cd8-fb89-4fec-89a8-1ea8033462e3"
+    "47229cd8-fb89-4fec-89a8-1ea8033462e3",
+    "d902f1b4-0cbc-4c3b-b2f7-e82b9873e717",
+    "2d2da834-be4f-4dd5-b458-93958836a7ea"
   ]
 }
