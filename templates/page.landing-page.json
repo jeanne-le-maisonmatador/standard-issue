@@ -247,6 +247,23 @@
         "duration": 4,
         "transition": "slide"
       }
+    },
+    "96f08794-9779-4e6b-b4f9-04d87891c166": {
+      "type": "section-rich-text",
+      "settings": {
+        "text_position": "center",
+        "top_image_width": 100,
+        "subheading": "SPECIAL COLLECTIONS",
+        "heading": "",
+        "text": "<p>Created collaborative opportunities with world renown establishments, organizations, and brands such as The Brooklyn Museum, Vans, and the NBA. As the seasons progress, and evolve so will our product offerings that will continue to match the level of comfort and care the foundation of Standard Issue has been built<\/p>",
+        "button_text": "",
+        "button_url": "",
+        "button_style": "primary",
+        "secondary_button_text": "",
+        "secondary_button_url": "",
+        "secondary_button_style": "secondary",
+        "bg_color": ""
+      }
     }
   },
   "order": [
@@ -257,6 +274,7 @@
     "e34186d9-3906-495b-b5c3-31ea703efe2a",
     "47229cd8-fb89-4fec-89a8-1ea8033462e3",
     "d902f1b4-0cbc-4c3b-b2f7-e82b9873e717",
-    "2d2da834-be4f-4dd5-b458-93958836a7ea"
+    "2d2da834-be4f-4dd5-b458-93958836a7ea",
+    "96f08794-9779-4e6b-b4f9-04d87891c166"
   ]
 }
