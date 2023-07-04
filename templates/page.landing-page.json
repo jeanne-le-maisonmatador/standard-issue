@@ -210,7 +210,7 @@
         "show_nav_arrows": true,
         "show_arrow_down": false,
         "autoplay": true,
-        "duration": 3,
+        "duration": 2,
         "transition": "slide"
       }
     },
