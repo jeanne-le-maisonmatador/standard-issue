@@ -188,8 +188,8 @@
         "show_nav_dots": true,
         "show_nav_arrows": true,
         "show_arrow_down": false,
-        "autoplay": false,
-        "duration": 4,
+        "autoplay": true,
+        "duration": 3,
         "transition": "slide"
       }
     },
@@ -227,7 +227,7 @@
       "type": "section-newsletter",
       "settings": {
         "title": "DON'T MISS ANYTHING",
-        "subtitle": "<p>GET THE LATEST ON STANDARD ISSUE AND SIGN UP FOR THE NEWSLETTER<\/p>",
+        "subtitle": "<p>GET THE LATEST ON STANDARD ISSUE <\/p>",
         "bg_color": ""
       }
     }
