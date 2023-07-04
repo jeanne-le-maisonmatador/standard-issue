@@ -196,19 +196,20 @@
         "template--19750215483673__2d2da834-be4f-4dd5-b458-93958836a7ea-16884969888ce98ee7-1": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Photo_Apr_13_2022_2_59_34_AM.jpg",
             "bg_position": "center-center",
             "overlay_opacity": 20,
             "text_color": "text-light",
-            "title": "Welcome to Palo Alto",
-            "slide_subheading": "This subheading helps you provide some more detail to the title above.",
-            "slide_btn_text": "Welcome",
+            "title": "QUALITY BASICS FOR THE STARS",
+            "slide_subheading": "The quality that has attracted the brand to some of the biggest entertainers in the world.",
+            "slide_btn_text": "",
             "slide_btn_link": "",
             "slide_btn_style": "primary",
             "slide_btn_text_2": "",
             "slide_btn_link_2": "",
             "slide_btn_style_2": "secondary",
-            "video_btn_text": "Watch the Video",
-            "video_btn_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
+            "video_btn_text": "",
+            "video_btn_link": ""
           }
         }
       },
