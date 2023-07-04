@@ -277,6 +277,14 @@
         "bg_color": "",
         "enable_slider": true
       }
+    },
+    "250b6721-f875-4fe4-8bb2-bb8f5edb7919": {
+      "type": "section-newsletter",
+      "settings": {
+        "title": "EARLY ACCESS",
+        "subtitle": "<p>GET THE LATEST ON STANDARD ISSUE AND SIGN UP FOR THE NEWSLETTER<\/p>",
+        "bg_color": ""
+      }
     }
   },
   "order": [
@@ -289,6 +297,7 @@
     "d902f1b4-0cbc-4c3b-b2f7-e82b9873e717",
     "2d2da834-be4f-4dd5-b458-93958836a7ea",
     "96f08794-9779-4e6b-b4f9-04d87891c166",
-    "36d2f4aa-5cc7-461e-ad67-fe7cb465d7cb"
+    "36d2f4aa-5cc7-461e-ad67-fe7cb465d7cb",
+    "250b6721-f875-4fe4-8bb2-bb8f5edb7919"
   ]
 }
