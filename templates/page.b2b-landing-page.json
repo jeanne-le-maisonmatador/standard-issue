@@ -32,25 +32,46 @@
         "template--19973214077209__ad7561a4-e77a-4f91-85d2-e8520e67cc29-16896565432fc637eb-1": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/A15I7027.jpg",
             "bg_position": "center-center",
             "overlay_opacity": 20,
             "text_color": "text-light",
-            "title": "Welcome to Palo Alto",
-            "slide_subheading": "This subheading helps you provide some more detail to the title above.",
-            "slide_btn_text": "Welcome",
+            "title": "PRESENTING 1981 MFG:",
+            "slide_subheading": "The Manufacturing Behind Standard Issue",
+            "slide_btn_text": "",
             "slide_btn_link": "",
             "slide_btn_style": "primary",
             "slide_btn_text_2": "",
             "slide_btn_link_2": "",
             "slide_btn_style_2": "secondary",
-            "video_btn_text": "Watch the Video",
-            "video_btn_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
+            "video_btn_text": "",
+            "video_btn_link": ""
+          }
+        },
+        "01f9c6cc-647b-45b1-b898-e502e4af4fbb": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Photo_Jul_28_6_55_18_PM.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 20,
+            "text_color": "text-light",
+            "title": "PRESENTING 1981 MFG",
+            "slide_subheading": "The Manufacturing Behind Standard Issue",
+            "slide_btn_text": "",
+            "slide_btn_link": "",
+            "slide_btn_style": "primary",
+            "slide_btn_text_2": "",
+            "slide_btn_link_2": "",
+            "slide_btn_style_2": "secondary",
+            "video_btn_text": "",
+            "video_btn_link": ""
           }
         }
       },
       "block_order": [
         "template--19973214077209__ad7561a4-e77a-4f91-85d2-e8520e67cc29-16896565432fc637eb-0",
-        "template--19973214077209__ad7561a4-e77a-4f91-85d2-e8520e67cc29-16896565432fc637eb-1"
+        "template--19973214077209__ad7561a4-e77a-4f91-85d2-e8520e67cc29-16896565432fc637eb-1",
+        "01f9c6cc-647b-45b1-b898-e502e4af4fbb"
       ],
       "settings": {
         "slide_height": "one-hundred-height-hero",
@@ -58,8 +79,8 @@
         "show_nav_dots": true,
         "show_nav_arrows": true,
         "show_arrow_down": false,
-        "autoplay": false,
-        "duration": 4,
+        "autoplay": true,
+        "duration": 2,
         "transition": "slide"
       }
     }
