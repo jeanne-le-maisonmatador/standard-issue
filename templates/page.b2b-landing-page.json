@@ -165,6 +165,23 @@
         "secondary_button_style": "secondary",
         "bg_color": ""
       }
+    },
+    "a7550ab0-75a5-4916-bd8a-4937b7e7f0c7": {
+      "type": "section-rich-text",
+      "settings": {
+        "text_position": "center",
+        "top_image_width": 100,
+        "subheading": "OUR SERVICES",
+        "heading": "IF YOU THINK IT, WE CAN PROBABLY CREATE IT",
+        "text": "",
+        "button_text": "",
+        "button_url": "",
+        "button_style": "primary",
+        "secondary_button_text": "",
+        "secondary_button_url": "",
+        "secondary_button_style": "secondary",
+        "bg_color": "#efefef"
+      }
     }
   },
   "order": [
@@ -172,6 +189,7 @@
     "ad7561a4-e77a-4f91-85d2-e8520e67cc29",
     "89b8bb4d-6de2-4960-a732-36753611873b",
     "18214a14-f756-4e17-8443-054c8010428b",
-    "a488e100-ad32-4237-a96c-fb6a2c68ad2e"
+    "a488e100-ad32-4237-a96c-fb6a2c68ad2e",
+    "a7550ab0-75a5-4916-bd8a-4937b7e7f0c7"
   ]
 }
