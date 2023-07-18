@@ -80,8 +80,8 @@
         "show_nav_arrows": true,
         "show_arrow_down": false,
         "autoplay": true,
-        "duration": 2,
-        "transition": "slide"
+        "duration": 3,
+        "transition": "fade"
       }
     },
     "89b8bb4d-6de2-4960-a732-36753611873b": {
