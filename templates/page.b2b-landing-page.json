@@ -107,14 +107,14 @@
         "template--19973214077209__18214a14-f756-4e17-8443-054c8010428b-1689657249565e7a83-0": {
           "type": "heading",
           "settings": {
-            "title": "Contact us"
+            "title": "CONTACT US"
           }
         },
         "template--19973214077209__18214a14-f756-4e17-8443-054c8010428b-1689657249565e7a83-1": {
           "type": "text",
           "settings": {
             "title": "Name",
-            "required": false
+            "required": true
           }
         },
         "template--19973214077209__18214a14-f756-4e17-8443-054c8010428b-1689657249565e7a83-2": {
