@@ -83,10 +83,28 @@
         "duration": 2,
         "transition": "slide"
       }
+    },
+    "89b8bb4d-6de2-4960-a732-36753611873b": {
+      "type": "section-rich-text",
+      "settings": {
+        "text_position": "center",
+        "top_image_width": 100,
+        "subheading": "Quality Wholesale & Elevated Custom Apparel Solutions For You",
+        "heading": "",
+        "text": "<p>Your favorite high quality garments created by Standard Issue - are now available for wholesale and customization for your brand. Step up your company merch and give your personal swag that they will wear continuously. Contact us today for a quote:<\/p>",
+        "button_text": "",
+        "button_url": "",
+        "button_style": "primary",
+        "secondary_button_text": "",
+        "secondary_button_url": "",
+        "secondary_button_style": "secondary",
+        "bg_color": ""
+      }
     }
   },
   "order": [
     "main",
-    "ad7561a4-e77a-4f91-85d2-e8520e67cc29"
+    "ad7561a4-e77a-4f91-85d2-e8520e67cc29",
+    "89b8bb4d-6de2-4960-a732-36753611873b"
   ]
 }
