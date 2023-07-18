@@ -249,6 +249,83 @@
         "bg_color": "#efefef",
         "text_color": "#333"
       }
+    },
+    "992a5599-291e-4a6b-9faf-653fbfd3500b": {
+      "type": "section-slideshow",
+      "blocks": {
+        "template--19973214077209__992a5599-291e-4a6b-9faf-653fbfd3500b-16896565432fc637eb-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_9772_jpg.jpg",
+            "bg_position": "center-top",
+            "overlay_opacity": 20,
+            "text_color": "text-light",
+            "title": "BROOKYLN MUSEUM",
+            "slide_subheading": "",
+            "slide_btn_text": "",
+            "slide_btn_link": "",
+            "slide_btn_style": "primary",
+            "slide_btn_text_2": "",
+            "slide_btn_link_2": "",
+            "slide_btn_style_2": "secondary",
+            "video_btn_text": "",
+            "video_btn_link": ""
+          }
+        },
+        "template--19973214077209__992a5599-291e-4a6b-9faf-653fbfd3500b-16896565432fc637eb-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_1309_jpg.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 20,
+            "text_color": "text-light",
+            "title": "AMOROSO",
+            "slide_subheading": "",
+            "slide_btn_text": "",
+            "slide_btn_link": "",
+            "slide_btn_style": "primary",
+            "slide_btn_text_2": "",
+            "slide_btn_link_2": "",
+            "slide_btn_style_2": "secondary",
+            "video_btn_text": "",
+            "video_btn_link": ""
+          }
+        },
+        "201969ac-e564-4816-bff3-fc9a3e7cc2d7": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/V23A1470.jpg",
+            "bg_position": "center-top",
+            "overlay_opacity": 20,
+            "text_color": "text-light",
+            "title": "HOUSE OF BLUES",
+            "slide_subheading": "",
+            "slide_btn_text": "",
+            "slide_btn_link": "",
+            "slide_btn_style": "primary",
+            "slide_btn_text_2": "",
+            "slide_btn_link_2": "",
+            "slide_btn_style_2": "secondary",
+            "video_btn_text": "",
+            "video_btn_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19973214077209__992a5599-291e-4a6b-9faf-653fbfd3500b-16896565432fc637eb-0",
+        "template--19973214077209__992a5599-291e-4a6b-9faf-653fbfd3500b-16896565432fc637eb-1",
+        "201969ac-e564-4816-bff3-fc9a3e7cc2d7"
+      ],
+      "settings": {
+        "slide_height": "five-fifty-height-hero",
+        "content_alignment": "bottom-right",
+        "show_nav_dots": true,
+        "show_nav_arrows": true,
+        "show_arrow_down": false,
+        "autoplay": false,
+        "duration": 4,
+        "transition": "slide"
+      }
     }
   },
   "order": [
@@ -258,6 +335,7 @@
     "18214a14-f756-4e17-8443-054c8010428b",
     "a488e100-ad32-4237-a96c-fb6a2c68ad2e",
     "a7550ab0-75a5-4916-bd8a-4937b7e7f0c7",
-    "bee35dc6-adb3-44e2-a2a6-aa21f7a5aab6"
+    "bee35dc6-adb3-44e2-a2a6-aa21f7a5aab6",
+    "992a5599-291e-4a6b-9faf-653fbfd3500b"
   ]
 }
