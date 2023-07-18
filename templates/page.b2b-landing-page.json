@@ -217,13 +217,31 @@
             "title": "SCREENPRINTING & EMBROIDERY",
             "content": ""
           }
+        },
+        "0df12e80-9627-48ac-ad71-7713c7f3f6de": {
+          "type": "text",
+          "settings": {
+            "icon_name": "sync",
+            "title": "BRAND PARTNERSHIPS",
+            "content": ""
+          }
+        },
+        "091a1afb-a15b-43ea-a1b7-09d5c4a300a8": {
+          "type": "text",
+          "settings": {
+            "icon_name": "camera",
+            "title": "POST-PRODUCTION CROSS PROMOTION",
+            "content": ""
+          }
         }
       },
       "block_order": [
         "template--19973214077209__bee35dc6-adb3-44e2-a2a6-aa21f7a5aab6-1689657522cc42202f-0",
         "template--19973214077209__bee35dc6-adb3-44e2-a2a6-aa21f7a5aab6-1689657522cc42202f-1",
         "template--19973214077209__bee35dc6-adb3-44e2-a2a6-aa21f7a5aab6-1689657522cc42202f-2",
-        "75db96cc-86a9-40c4-bc67-4183e4061855"
+        "75db96cc-86a9-40c4-bc67-4183e4061855",
+        "0df12e80-9627-48ac-ad71-7713c7f3f6de",
+        "091a1afb-a15b-43ea-a1b7-09d5c4a300a8"
       ],
       "settings": {
         "alignment": "center",
