@@ -247,7 +247,7 @@
         "alignment": "center",
         "icons_width": 45,
         "bg_color": "#efefef",
-        "text_color": "#333"
+        "text_color": "#333333"
       }
     },
     "2f105277-17a2-42ab-9862-3a28e1ae200b": {
@@ -354,7 +354,7 @@
         "1fa31ed5-79a6-41da-87c2-d8c0d5d87b3b"
       ],
       "settings": {
-        "slide_height": "five-fifty-height-hero",
+        "slide_height": "sixty-fifty-height-hero",
         "content_alignment": "bottom-right",
         "show_nav_dots": true,
         "show_nav_arrows": true,
