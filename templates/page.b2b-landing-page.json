@@ -346,6 +346,23 @@
         "duration": 4,
         "transition": "slide"
       }
+    },
+    "2f105277-17a2-42ab-9862-3a28e1ae200b": {
+      "type": "section-rich-text",
+      "settings": {
+        "text_position": "center",
+        "top_image_width": 100,
+        "subheading": "",
+        "heading": "CHECK OUT SOME OF OUR PAST WORK",
+        "text": "",
+        "button_text": "",
+        "button_url": "",
+        "button_style": "primary",
+        "secondary_button_text": "",
+        "secondary_button_url": "",
+        "secondary_button_style": "secondary",
+        "bg_color": ""
+      }
     }
   },
   "order": [
@@ -356,6 +373,7 @@
     "a488e100-ad32-4237-a96c-fb6a2c68ad2e",
     "a7550ab0-75a5-4916-bd8a-4937b7e7f0c7",
     "bee35dc6-adb3-44e2-a2a6-aa21f7a5aab6",
-    "992a5599-291e-4a6b-9faf-653fbfd3500b"
+    "992a5599-291e-4a6b-9faf-653fbfd3500b",
+    "2f105277-17a2-42ab-9862-3a28e1ae200b"
   ]
 }
