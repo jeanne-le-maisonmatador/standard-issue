@@ -246,7 +246,7 @@
       "settings": {
         "alignment": "center",
         "icons_width": 45,
-        "bg_color": "#fafafa",
+        "bg_color": "#efefef",
         "text_color": "#333"
       }
     }
