@@ -209,12 +209,21 @@
             "title": "CUSTOM PATCH CREATION",
             "content": ""
           }
+        },
+        "75db96cc-86a9-40c4-bc67-4183e4061855": {
+          "type": "text",
+          "settings": {
+            "icon_name": "target",
+            "title": "SCREENPRINTING & EMBROIDERY",
+            "content": ""
+          }
         }
       },
       "block_order": [
         "template--19973214077209__bee35dc6-adb3-44e2-a2a6-aa21f7a5aab6-1689657522cc42202f-0",
         "template--19973214077209__bee35dc6-adb3-44e2-a2a6-aa21f7a5aab6-1689657522cc42202f-1",
-        "template--19973214077209__bee35dc6-adb3-44e2-a2a6-aa21f7a5aab6-1689657522cc42202f-2"
+        "template--19973214077209__bee35dc6-adb3-44e2-a2a6-aa21f7a5aab6-1689657522cc42202f-2",
+        "75db96cc-86a9-40c4-bc67-4183e4061855"
       ],
       "settings": {
         "alignment": "center",
