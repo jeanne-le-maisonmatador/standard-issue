@@ -182,6 +182,46 @@
         "secondary_button_style": "secondary",
         "bg_color": "#efefef"
       }
+    },
+    "bee35dc6-adb3-44e2-a2a6-aa21f7a5aab6": {
+      "type": "section-icons-row",
+      "blocks": {
+        "template--19973214077209__bee35dc6-adb3-44e2-a2a6-aa21f7a5aab6-1689657522cc42202f-0": {
+          "type": "text",
+          "settings": {
+            "icon_name": "eye",
+            "title": "MERCH APPAREL DESIGN",
+            "content": ""
+          }
+        },
+        "template--19973214077209__bee35dc6-adb3-44e2-a2a6-aa21f7a5aab6-1689657522cc42202f-1": {
+          "type": "text",
+          "settings": {
+            "icon_name": "shop",
+            "title": "Feature",
+            "content": "Palo Alto is a powerful Shopify theme that will set you apart from the rest with a variety of sections and features."
+          }
+        },
+        "template--19973214077209__bee35dc6-adb3-44e2-a2a6-aa21f7a5aab6-1689657522cc42202f-2": {
+          "type": "text",
+          "settings": {
+            "icon_name": "shop",
+            "title": "Feature",
+            "content": "Palo Alto is a powerful Shopify theme that will set you apart from the rest with a variety of sections and features."
+          }
+        }
+      },
+      "block_order": [
+        "template--19973214077209__bee35dc6-adb3-44e2-a2a6-aa21f7a5aab6-1689657522cc42202f-0",
+        "template--19973214077209__bee35dc6-adb3-44e2-a2a6-aa21f7a5aab6-1689657522cc42202f-1",
+        "template--19973214077209__bee35dc6-adb3-44e2-a2a6-aa21f7a5aab6-1689657522cc42202f-2"
+      ],
+      "settings": {
+        "alignment": "center",
+        "icons_width": 45,
+        "bg_color": "#fafafa",
+        "text_color": "#333"
+      }
     }
   },
   "order": [
@@ -190,6 +230,7 @@
     "89b8bb4d-6de2-4960-a732-36753611873b",
     "18214a14-f756-4e17-8443-054c8010428b",
     "a488e100-ad32-4237-a96c-fb6a2c68ad2e",
-    "a7550ab0-75a5-4916-bd8a-4937b7e7f0c7"
+    "a7550ab0-75a5-4916-bd8a-4937b7e7f0c7",
+    "bee35dc6-adb3-44e2-a2a6-aa21f7a5aab6"
   ]
 }
