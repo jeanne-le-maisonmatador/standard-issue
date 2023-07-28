@@ -5,7 +5,6 @@
       "blocks": {
         "8a0fe5ec-a580-41a2-af48-9d6e17fa994b": {
           "type": "image",
-          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/WOVENSLACKER_BANNER_DESKTOP.jpg",
             "image_mobile": "shopify:\/\/shop_images\/SLACKER_BANNER_MOBILE.jpg",
