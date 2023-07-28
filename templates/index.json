@@ -27,8 +27,8 @@
         "c214ba12-1fbd-481b-8247-e8e36dfdb9b1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/SIT_DESKTOPBANNER_WOVENSLACKERS.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/WOVENSLACKER_BANNER_MOBILE_jpg.jpg",
+            "image": "shopify:\/\/shop_images\/WOVENSLACKER_BANNER_DESKTOP.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/SLACKER_BANNER_MOBILE.jpg",
             "bg_position": "center-center",
             "overlay_opacity": 0,
             "text_color": "text-dark",
