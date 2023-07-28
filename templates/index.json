@@ -7,8 +7,8 @@
           "type": "image",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/NEON_BANNER_DESK.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/NEON_BANNER_MOBILE.jpg",
+            "image": "shopify:\/\/shop_images\/WOVENSLACKER_BANNER_DESKTOP.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/SLACKER_BANNER_MOBILE.jpg",
             "bg_position": "center-center",
             "overlay_opacity": 0,
             "text_color": "text-dark",
@@ -46,6 +46,7 @@
         },
         "2e96cfbf-3f7d-4a24-9ed5-0f7f5386269d": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/RESORT_BANNER_DESKTOP.jpg",
             "image_mobile": "shopify:\/\/shop_images\/RESORT_BANNER_MOBILE_39bd5bf8-048f-4342-8b76-063e1b2c8717.jpg",
