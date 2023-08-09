@@ -326,32 +326,12 @@
             "video_btn_text": "",
             "video_btn_link": ""
           }
-        },
-        "1fa31ed5-79a6-41da-87c2-d8c0d5d87b3b": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/man-in-tan-hoodie-looks-up-at-camera.jpg",
-            "bg_position": "center-bottom",
-            "overlay_opacity": 20,
-            "text_color": "text-light",
-            "title": "KLAYVIO",
-            "slide_subheading": "",
-            "slide_btn_text": "",
-            "slide_btn_link": "",
-            "slide_btn_style": "primary",
-            "slide_btn_text_2": "",
-            "slide_btn_link_2": "",
-            "slide_btn_style_2": "secondary",
-            "video_btn_text": "",
-            "video_btn_link": ""
-          }
         }
       },
       "block_order": [
         "template--19973214077209__992a5599-291e-4a6b-9faf-653fbfd3500b-16896565432fc637eb-0",
         "template--19973214077209__992a5599-291e-4a6b-9faf-653fbfd3500b-16896565432fc637eb-1",
-        "201969ac-e564-4816-bff3-fc9a3e7cc2d7",
-        "1fa31ed5-79a6-41da-87c2-d8c0d5d87b3b"
+        "201969ac-e564-4816-bff3-fc9a3e7cc2d7"
       ],
       "settings": {
         "slide_height": "sixty-fifty-height-hero",
