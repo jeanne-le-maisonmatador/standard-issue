@@ -101,8 +101,17 @@
         "bg_color": ""
       }
     },
+    "d9a6aac7-e830-47fd-98cf-3b59be23a9b9": {
+      "type": "section-custom-html",
+      "settings": {
+        "title": "",
+        "html": "<div class=\"powr-form-builder\" id=\"16fa4166_1691648418\"><\/div><script src=\"https:\/\/www.powr.io\/powr.js?platform=shopify\"><\/script>",
+        "bg_color": ""
+      }
+    },
     "18214a14-f756-4e17-8443-054c8010428b": {
       "type": "section-contact-form",
+      "disabled": true,
       "blocks": {
         "template--19973214077209__18214a14-f756-4e17-8443-054c8010428b-1689657249565e7a83-0": {
           "type": "heading",
@@ -349,6 +358,7 @@
     "main",
     "ad7561a4-e77a-4f91-85d2-e8520e67cc29",
     "89b8bb4d-6de2-4960-a732-36753611873b",
+    "d9a6aac7-e830-47fd-98cf-3b59be23a9b9",
     "18214a14-f756-4e17-8443-054c8010428b",
     "a488e100-ad32-4237-a96c-fb6a2c68ad2e",
     "a7550ab0-75a5-4916-bd8a-4937b7e7f0c7",
