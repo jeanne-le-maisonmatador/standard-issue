@@ -459,64 +459,6 @@
         "enable_slider": true
       }
     },
-    "image-with-text": {
-      "type": "section-image-with-text",
-      "disabled": true,
-      "settings": {
-        "section_height": "sixty-fifty-height-hero",
-        "text_position": "left",
-        "image_background": true,
-        "bg_position": "center-center",
-        "subheading": "Subheading",
-        "heading": "Our Story",
-        "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
-        "button_text": "Learn More",
-        "button_url": "",
-        "button_style": "secondary",
-        "video_url": "",
-        "bg_color": ""
-      }
-    },
-    "tabbed-collections": {
-      "type": "section-tabbed-collections",
-      "blocks": {
-        "collection-0": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "title": "",
-            "product": ""
-          }
-        },
-        "collection-1": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "title": "",
-            "product": ""
-          }
-        },
-        "collection-2": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "title": "",
-            "product": ""
-          }
-        }
-      },
-      "block_order": [
-        "collection-0",
-        "collection-1",
-        "collection-2"
-      ],
-      "disabled": true,
-      "settings": {
-        "title": "Featured collections",
-        "button_style": "primary",
-        "bg_color": ""
-      }
-    },
     "icons-row": {
       "type": "section-icons-row",
       "blocks": {
@@ -556,54 +498,6 @@
         "icons_width": 45,
         "bg_color": "#fafafa",
         "text_color": "#333333"
-      }
-    },
-    "press": {
-      "type": "section-press",
-      "blocks": {
-        "press-0": {
-          "type": "press",
-          "settings": {
-            "text": "<p>Provide some information about what the company below thinks about your brand.<\/p>",
-            "link": "",
-            "logo_width": 120
-          }
-        },
-        "press-1": {
-          "type": "press",
-          "settings": {
-            "text": "<p>Provide some information about what the company below thinks about your brand.<\/p>",
-            "link": "",
-            "logo_width": 120
-          }
-        },
-        "press-2": {
-          "type": "press",
-          "settings": {
-            "text": "<p>Provide some information about what the company below thinks about your brand.<\/p>",
-            "link": "",
-            "logo_width": 120
-          }
-        },
-        "press-3": {
-          "type": "press",
-          "settings": {
-            "text": "<p>Provide some information about what the company below thinks about your brand.<\/p>",
-            "link": "",
-            "logo_width": 120
-          }
-        }
-      },
-      "block_order": [
-        "press-0",
-        "press-1",
-        "press-2",
-        "press-3"
-      ],
-      "disabled": true,
-      "settings": {
-        "title": "Press",
-        "bg_color": ""
       }
     },
     "featured-blog": {
@@ -718,10 +612,7 @@
     "892dd121-cafb-4a74-b9fa-754385282356",
     "logo-list",
     "collection-list",
-    "image-with-text",
-    "tabbed-collections",
     "icons-row",
-    "press",
     "featured-blog"
   ]
 }

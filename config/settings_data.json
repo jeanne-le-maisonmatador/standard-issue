@@ -116,8 +116,9 @@
           "footer-block-2"
         ],
         "settings": {
+          "image": "shopify:\/\/shop_images\/stdiss-logo-blk.png",
           "logo_width": 100,
-          "show_shop_name": true,
+          "show_shop_name": false,
           "show_social_links": true,
           "show_payment_icons": true,
           "color_text": "#000000",
