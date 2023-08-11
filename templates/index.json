@@ -25,6 +25,7 @@
         },
         "c214ba12-1fbd-481b-8247-e8e36dfdb9b1": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/WOVENSLACKER_BANNER_DESKTOP.jpg",
             "image_mobile": "shopify:\/\/shop_images\/SLACKER_BANNER_MOBILE.jpg",
@@ -215,7 +216,6 @@
     },
     "16554811631c81f434": {
       "type": "section-slideshow",
-      "disabled": true,
       "blocks": {
         "b6bec518-162b-4e51-8154-1de743776b5e": {
           "type": "image",
@@ -437,6 +437,7 @@
         "1dc2d062-b704-4275-af0f-b42d08ab57a1",
         "16554811627ab7d656-1"
       ],
+      "disabled": true,
       "settings": {
         "slide_height": "one-hundred-height-hero",
         "content_alignment": "center",
@@ -565,7 +566,6 @@
     },
     "892dd121-cafb-4a74-b9fa-754385282356": {
       "type": "section-product",
-      "disabled": true,
       "blocks": {
         "template--14305551417443__892dd121-cafb-4a74-b9fa-754385282356-16775337938519d52e-0": {
           "type": "title",
@@ -609,6 +609,7 @@
         "template--14305551417443__892dd121-cafb-4a74-b9fa-754385282356-16775337938519d52e-2",
         "template--14305551417443__892dd121-cafb-4a74-b9fa-754385282356-16775337938519d52e-3"
       ],
+      "disabled": true,
       "settings": {
         "product": "g-shock-gm6900wtc22-9-wu-tang-clans-30th-anniversary",
         "hide_product_thumbnails": false,
@@ -767,7 +768,6 @@
     },
     "tabbed-collections": {
       "type": "section-tabbed-collections",
-      "disabled": true,
       "blocks": {
         "collection-0": {
           "type": "collection",
@@ -799,6 +799,7 @@
         "collection-1",
         "collection-2"
       ],
+      "disabled": true,
       "settings": {
         "title": "Featured collections",
         "button_style": "primary",
@@ -848,7 +849,6 @@
     },
     "press": {
       "type": "section-press",
-      "disabled": true,
       "blocks": {
         "press-0": {
           "type": "press",
@@ -889,6 +889,7 @@
         "press-2",
         "press-3"
       ],
+      "disabled": true,
       "settings": {
         "title": "Press",
         "bg_color": ""
