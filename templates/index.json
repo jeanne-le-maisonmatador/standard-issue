@@ -487,13 +487,33 @@
       "type": "section-collection",
       "settings": {
         "collection": "new-arrivals",
-        "products_rows": 5,
+        "products_rows": 2,
         "products_layout": "grid",
         "show_title": true,
         "show_collection_button": true,
         "button_style": "primary",
         "bg_color": "",
         "enable_slider": true
+      }
+    },
+    "16630869551bcc1acb": {
+      "type": "section-product-feature",
+      "settings": {
+        "image_layout": "portrait",
+        "image_position": "inline",
+        "text_position": "left",
+        "text_alignment": "center",
+        "image_1": "shopify:\/\/shop_images\/3pack-tees-02.jpg",
+        "image_link_1": "",
+        "image_link_2": "",
+        "hide_image_2": true,
+        "heading": "THE ULTIMATE MULTI COLOR THREE PACK",
+        "description": "<p>Extremely limited time offering. Saving your wallet and supporting your closet.<\/p>",
+        "button_text": "Shop Now",
+        "button_link": "shopify:\/\/products\/black-white-heather-grey-three-pack",
+        "button_style": "secondary",
+        "video_url": "",
+        "bg_color": ""
       }
     },
     "fabe75ee-b941-42c8-9497-7e10a05c3c55": {
@@ -542,26 +562,6 @@
         "button_style": "primary",
         "bg_color": "",
         "enable_slider": true
-      }
-    },
-    "16630869551bcc1acb": {
-      "type": "section-product-feature",
-      "settings": {
-        "image_layout": "portrait",
-        "image_position": "inline",
-        "text_position": "left",
-        "text_alignment": "center",
-        "image_1": "shopify:\/\/shop_images\/3pack-tees-02.jpg",
-        "image_link_1": "",
-        "image_link_2": "",
-        "hide_image_2": true,
-        "heading": "THE ULTIMATE MULTI COLOR THREE PACK",
-        "description": "<p>Extremely limited time offering. Saving your wallet and supporting your closet.<\/p>",
-        "button_text": "Shop Now",
-        "button_link": "shopify:\/\/products\/black-white-heather-grey-three-pack",
-        "button_style": "secondary",
-        "video_url": "",
-        "bg_color": ""
       }
     },
     "892dd121-cafb-4a74-b9fa-754385282356": {
@@ -1003,10 +1003,10 @@
     "video",
     "c8912708-6bfa-4d0c-b144-1f7cf9e22399",
     "featured-collection",
+    "16630869551bcc1acb",
     "fabe75ee-b941-42c8-9497-7e10a05c3c55",
     "product-feature",
     "16638715534823a0f7",
-    "16630869551bcc1acb",
     "892dd121-cafb-4a74-b9fa-754385282356",
     "logo-list",
     "collection-list",
