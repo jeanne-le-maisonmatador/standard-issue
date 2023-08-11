@@ -60,6 +60,7 @@
         "blocks": {
           "51f805e3-b800-4a9a-97a7-8eb78de56cd4": {
             "type": "dropdown_image",
+            "disabled": true,
             "settings": {
               "title": "NBA Collection",
               "image": "shopify:\/\/shop_images\/img_2207.jpg",
