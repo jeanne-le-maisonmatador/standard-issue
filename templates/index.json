@@ -44,8 +44,8 @@
         "92ad9fa1-a57f-4e57-bef4-eeeac4869be0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/10.24_3_Pack_Subscription_Desktop.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/10.24_3_Pack_Subscription_Mobile.jpg",
+            "image": "shopify:\/\/shop_images\/8-15_YEAR6SALE_BANNER_DESKTOP_5bcc3de9-92b1-421b-bdf9-a1200bd66d32.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/8-15_YEAR6SALE_BANNER_MOBILE_1e7de7aa-af0e-4f4d-9038-bd5ec4fb011f.jpg",
             "bg_position": "center-center",
             "overlay_opacity": 0,
             "text_color": "text-light",
@@ -85,8 +85,8 @@
           "type": "image",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/22.9.29_Heavy_Thermal_Restock_Desktop.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/22.9.29_Heavy_Thermal_Restock_Mobile.jpg",
+            "image": "shopify:\/\/shop_images\/8-15_YEAR6SALE_BANNER_DESKTOP.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/8-15_YEAR6SALE_BANNER_MOBILE.jpg",
             "bg_position": "center-center",
             "overlay_opacity": 0,
             "text_color": "text-light",
