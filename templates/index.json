@@ -3,26 +3,6 @@
     "slideshow": {
       "type": "section-slideshow",
       "blocks": {
-        "8a0fe5ec-a580-41a2-af48-9d6e17fa994b": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/WOVENSLACKER_BANNER_DESKTOP.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/SLACKER_BANNER_MOBILE.jpg",
-            "bg_position": "center-center",
-            "overlay_opacity": 0,
-            "text_color": "text-dark",
-            "title": "",
-            "slide_subheading": "",
-            "slide_btn_text": "Shop Now",
-            "slide_btn_link": "shopify:\/\/collections\/new-arrivals",
-            "slide_btn_style": "secondary",
-            "slide_btn_text_2": "",
-            "slide_btn_link_2": "",
-            "slide_btn_style_2": "secondary",
-            "video_btn_text": "",
-            "video_btn_link": ""
-          }
-        },
         "ac613ae5-a691-4bd1-b9cb-8494c1a60304": {
           "type": "image",
           "settings": {
@@ -42,11 +22,31 @@
             "video_btn_text": "",
             "video_btn_link": ""
           }
+        },
+        "8a0fe5ec-a580-41a2-af48-9d6e17fa994b": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/WOVENSLACKER_BANNER_DESKTOP.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/SLACKER_BANNER_MOBILE.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "text_color": "text-dark",
+            "title": "",
+            "slide_subheading": "",
+            "slide_btn_text": "Shop Now",
+            "slide_btn_link": "shopify:\/\/collections\/new-arrivals",
+            "slide_btn_style": "secondary",
+            "slide_btn_text_2": "",
+            "slide_btn_link_2": "",
+            "slide_btn_style_2": "secondary",
+            "video_btn_text": "",
+            "video_btn_link": ""
+          }
         }
       },
       "block_order": [
-        "8a0fe5ec-a580-41a2-af48-9d6e17fa994b",
-        "ac613ae5-a691-4bd1-b9cb-8494c1a60304"
+        "ac613ae5-a691-4bd1-b9cb-8494c1a60304",
+        "8a0fe5ec-a580-41a2-af48-9d6e17fa994b"
       ],
       "settings": {
         "slide_height": "one-hundred-height-hero",
