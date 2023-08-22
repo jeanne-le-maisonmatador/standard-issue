@@ -3,6 +3,27 @@
     "slideshow": {
       "type": "section-slideshow",
       "blocks": {
+        "ac613ae5-a691-4bd1-b9cb-8494c1a60304": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/8-15_CANDLE_BANNER_DESKTOP.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/8-15_CANDLE_BANNER_MOBILE.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 20,
+            "text_color": "text-light",
+            "title": "",
+            "slide_subheading": "",
+            "slide_btn_text": "",
+            "slide_btn_link": "",
+            "slide_btn_style": "secondary",
+            "slide_btn_text_2": "Shop Now",
+            "slide_btn_link_2": "shopify:\/\/collections\/home-goods",
+            "slide_btn_style_2": "secondary",
+            "video_btn_text": "",
+            "video_btn_link": ""
+          }
+        },
         "8a0fe5ec-a580-41a2-af48-9d6e17fa994b": {
           "type": "image",
           "settings": {
@@ -22,32 +43,11 @@
             "video_btn_text": "",
             "video_btn_link": ""
           }
-        },
-        "ac613ae5-a691-4bd1-b9cb-8494c1a60304": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "image": "shopify:\/\/shop_images\/8-15_YEAR6SALE_BANNER_DESKTOP_ec3fd521-92a6-4b22-846a-cee4ce98ff4a.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/8-15_YEAR6SALE_BANNER_MOBILE_564962cf-f0df-4962-b34f-1fb1790687fd.jpg",
-            "bg_position": "center-center",
-            "overlay_opacity": 20,
-            "text_color": "text-light",
-            "title": "",
-            "slide_subheading": "",
-            "slide_btn_text": "",
-            "slide_btn_link": "",
-            "slide_btn_style": "secondary",
-            "slide_btn_text_2": "Shop now",
-            "slide_btn_link_2": "shopify:\/\/collections\/new-arrivals",
-            "slide_btn_style_2": "secondary",
-            "video_btn_text": "",
-            "video_btn_link": ""
-          }
         }
       },
       "block_order": [
-        "8a0fe5ec-a580-41a2-af48-9d6e17fa994b",
-        "ac613ae5-a691-4bd1-b9cb-8494c1a60304"
+        "ac613ae5-a691-4bd1-b9cb-8494c1a60304",
+        "8a0fe5ec-a580-41a2-af48-9d6e17fa994b"
       ],
       "settings": {
         "slide_height": "one-hundred-height-hero",
