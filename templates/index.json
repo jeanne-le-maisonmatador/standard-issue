@@ -5,7 +5,6 @@
       "blocks": {
         "ac613ae5-a691-4bd1-b9cb-8494c1a60304": {
           "type": "image",
-          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/8-15_CANDLE_BANNER_DESKTOP.jpg",
             "image_mobile": "shopify:\/\/shop_images\/8-15_CANDLE_BANNER_MOBILE.jpg",
