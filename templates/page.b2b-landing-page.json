@@ -37,7 +37,7 @@
             "overlay_opacity": 20,
             "text_color": "text-light",
             "title": "PRESENTING 1981 MFG:",
-            "slide_subheading": "The Manufacturing Behind Standard Issue",
+            "slide_subheading": "Your Full Service B2B Custom Apparel Solution",
             "slide_btn_text": "",
             "slide_btn_link": "",
             "slide_btn_style": "primary",
@@ -89,9 +89,9 @@
       "settings": {
         "text_position": "center",
         "top_image_width": 100,
-        "subheading": "Quality Wholesale & Elevated Custom Apparel Solutions For You",
+        "subheading": "Elevated Custom Apparel Solutions For You",
         "heading": "",
-        "text": "<p>Your favorite high quality garments created by Standard Issue - are now available for wholesale and customization for your brand. Step up your company merch and give your personal swag that they will wear continuously. Contact us today for a quote:<\/p>",
+        "text": "<p>Get your favorite high quality Standard Issue garments - customization for your brand. Step up your company merch and give your personal swag that they will actually wear. Let us help you execute your vision - contact us today for a quote:<\/p>",
         "button_text": "",
         "button_url": "",
         "button_style": "primary",
@@ -101,17 +101,8 @@
         "bg_color": ""
       }
     },
-    "d9a6aac7-e830-47fd-98cf-3b59be23a9b9": {
-      "type": "section-custom-html",
-      "settings": {
-        "title": "",
-        "html": "<div class=\"powr-form-builder\" id=\"16fa4166_1691648418\"><\/div><script src=\"https:\/\/www.powr.io\/powr.js?platform=shopify\"><\/script>",
-        "bg_color": ""
-      }
-    },
     "18214a14-f756-4e17-8443-054c8010428b": {
       "type": "section-contact-form",
-      "disabled": true,
       "blocks": {
         "template--19973214077209__18214a14-f756-4e17-8443-054c8010428b-1689657249565e7a83-0": {
           "type": "heading",
@@ -155,24 +146,8 @@
         "e7e4ab75-40d9-4366-9a90-a12d3ae5bf57",
         "template--19973214077209__18214a14-f756-4e17-8443-054c8010428b-1689657249565e7a83-3"
       ],
+      "disabled": true,
       "settings": {
-      }
-    },
-    "a488e100-ad32-4237-a96c-fb6a2c68ad2e": {
-      "type": "section-rich-text",
-      "settings": {
-        "text_position": "center",
-        "top_image_width": 100,
-        "subheading": "",
-        "heading": "BACKGROUND",
-        "text": "<p>Standard Issue is created and developed by 1981 MFG, a vertically owned manufacturing facility based out of Vernon, CA. From design to production to packaging, 1981 MFG is a full service solution to wholesaling and custom apparel design. Upgrade your merch and get the same quality garments and innovative designs from Standard Issue - customized to your needs. <\/p><p>The benefit of working with 1981 MFG doesn’t stop at quality apparel - because we have an established brand in the apparel space, we can also cross promote any projects that will be sold to the masses.<\/p>",
-        "button_text": "",
-        "button_url": "",
-        "button_style": "primary",
-        "secondary_button_text": "",
-        "secondary_button_url": "",
-        "secondary_button_style": "secondary",
-        "bg_color": ""
       }
     },
     "a7550ab0-75a5-4916-bd8a-4937b7e7f0c7": {
@@ -180,9 +155,9 @@
       "settings": {
         "text_position": "center",
         "top_image_width": 100,
-        "subheading": "OUR SERVICES",
+        "subheading": "FROM DESIGN TO PRODUCTION",
         "heading": "IF YOU THINK IT, WE CAN PROBABLY CREATE IT",
-        "text": "",
+        "text": "<p>We provide a full-service custom apparel program to your company that allows you to be as hands-on or hands-off as you’d like. Here's some of the services we provide:<\/p>",
         "button_text": "",
         "button_url": "",
         "button_style": "primary",
@@ -257,6 +232,23 @@
         "icons_width": 45,
         "bg_color": "#efefef",
         "text_color": "#333333"
+      }
+    },
+    "a488e100-ad32-4237-a96c-fb6a2c68ad2e": {
+      "type": "section-rich-text",
+      "settings": {
+        "text_position": "center",
+        "top_image_width": 100,
+        "subheading": "",
+        "heading": "BACKGROUND",
+        "text": "<p>Standard Issue is created and developed by 1981 MFG, a vertically owned manufacturing facility based out of Vernon, CA. From design to production to packaging, 1981 MFG is a full service solution to wholesaling and custom apparel design. Upgrade your merch and get the same quality garments and innovative designs from Standard Issue - customized to your needs. <\/p><p>The benefit of working with 1981 MFG doesn’t stop at quality apparel - because we have an established brand in the apparel space, we can also cross promote any projects that will be sold to the masses.<\/p>",
+        "button_text": "",
+        "button_url": "",
+        "button_style": "primary",
+        "secondary_button_text": "",
+        "secondary_button_url": "",
+        "secondary_button_style": "secondary",
+        "bg_color": ""
       }
     },
     "2f105277-17a2-42ab-9862-3a28e1ae200b": {
@@ -358,11 +350,10 @@
     "main",
     "ad7561a4-e77a-4f91-85d2-e8520e67cc29",
     "89b8bb4d-6de2-4960-a732-36753611873b",
-    "d9a6aac7-e830-47fd-98cf-3b59be23a9b9",
     "18214a14-f756-4e17-8443-054c8010428b",
-    "a488e100-ad32-4237-a96c-fb6a2c68ad2e",
     "a7550ab0-75a5-4916-bd8a-4937b7e7f0c7",
     "bee35dc6-adb3-44e2-a2a6-aa21f7a5aab6",
+    "a488e100-ad32-4237-a96c-fb6a2c68ad2e",
     "2f105277-17a2-42ab-9862-3a28e1ae200b",
     "992a5599-291e-4a6b-9faf-653fbfd3500b"
   ]
