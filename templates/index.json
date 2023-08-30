@@ -265,7 +265,7 @@
     "fabe75ee-b941-42c8-9497-7e10a05c3c55": {
       "type": "section-collection",
       "settings": {
-        "collection": "shorts",
+        "collection": "tee-sweat-set",
         "products_rows": 2,
         "products_layout": "grid",
         "show_title": true,
@@ -425,18 +425,18 @@
     "collection-list": {
       "type": "section-list-collection",
       "blocks": {
-        "collection-list-0": {
-          "type": "collection",
-          "settings": {
-            "collection": "tees",
-            "custom_collection_image": "shopify:\/\/shop_images\/tee.jpg"
-          }
-        },
         "collection-list-1": {
           "type": "collection",
           "settings": {
             "collection": "sweat-set",
             "custom_collection_image": "shopify:\/\/shop_images\/sweatset.jpg"
+          }
+        },
+        "collection-list-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "tees",
+            "custom_collection_image": "shopify:\/\/shop_images\/tee.jpg"
           }
         },
         "collection-list-2": {
@@ -462,8 +462,8 @@
         }
       },
       "block_order": [
-        "collection-list-0",
         "collection-list-1",
+        "collection-list-0",
         "collection-list-2",
         "collection-list-3",
         "collection-list-4"
