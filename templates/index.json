@@ -3,6 +3,26 @@
     "slideshow": {
       "type": "section-slideshow",
       "blocks": {
+        "f384b711-8c3f-4c14-964f-accc68c758b7": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/8-31_EMINEM_COLLAGE_BANNER_DESKTOP_1.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/8-31_EMINEM_COLLAGE_BANNER_MOBILE_1.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 20,
+            "text_color": "text-light",
+            "title": "",
+            "slide_subheading": "",
+            "slide_btn_text": "Learn More",
+            "slide_btn_link": "shopify:\/\/blogs\/news\/eminems-kamikaze-5-year-anniversary-merch-capsule-collection-by-standard-issue",
+            "slide_btn_style": "primary",
+            "slide_btn_text_2": "",
+            "slide_btn_link_2": "",
+            "slide_btn_style_2": "secondary",
+            "video_btn_text": "Watch the Video",
+            "video_btn_link": ""
+          }
+        },
         "ac613ae5-a691-4bd1-b9cb-8494c1a60304": {
           "type": "image",
           "settings": {
@@ -45,6 +65,7 @@
         }
       },
       "block_order": [
+        "f384b711-8c3f-4c14-964f-accc68c758b7",
         "ac613ae5-a691-4bd1-b9cb-8494c1a60304",
         "8a0fe5ec-a580-41a2-af48-9d6e17fa994b"
       ],
