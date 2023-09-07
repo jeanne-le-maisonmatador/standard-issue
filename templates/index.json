@@ -17,7 +17,7 @@
             "slide_btn_link": "",
             "slide_btn_style": "secondary",
             "slide_btn_text_2": "Shop Now",
-            "slide_btn_link_2": "shopify:\/\/collections\/slacker-pant-1",
+            "slide_btn_link_2": "shopify:\/\/collections\/new-arrivals",
             "slide_btn_style_2": "secondary",
             "video_btn_text": "",
             "video_btn_link": ""
@@ -254,7 +254,7 @@
     "featured-collection": {
       "type": "section-collection",
       "settings": {
-        "collection": "shop-all",
+        "collection": "new-arrivals",
         "products_rows": 2,
         "products_layout": "grid",
         "show_title": true,
