@@ -277,9 +277,9 @@
         "hide_image_2": false,
         "heading": "Tees & Slackers for your everyday uniform.",
         "description": "<p>The ultimate destination for your elevated wardrobe solutions. <\/p>",
-        "button_text": "",
+        "button_text": "Shop Now",
         "button_link": "shopify:\/\/collections\/tees-slackers",
-        "button_style": "primary",
+        "button_style": "secondary",
         "bg_color": ""
       }
     },
