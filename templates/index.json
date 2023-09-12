@@ -450,33 +450,33 @@
         "collection-list-1": {
           "type": "collection",
           "settings": {
-            "collection": "sweat-set",
-            "custom_collection_image": "shopify:\/\/shop_images\/sweatset.jpg"
+            "collection": "thermal-sweater",
+            "custom_collection_image": "shopify:\/\/shop_images\/MG_0042.jpg"
+          }
+        },
+        "collection-list-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "slacker-pant",
+            "custom_collection_image": "shopify:\/\/shop_images\/9Q7A2111.jpg"
           }
         },
         "collection-list-0": {
           "type": "collection",
           "settings": {
             "collection": "tees",
-            "custom_collection_image": "shopify:\/\/shop_images\/tee.jpg"
-          }
-        },
-        "collection-list-2": {
-          "type": "collection",
-          "settings": {
-            "collection": "sweatpant",
-            "custom_collection_image": "shopify:\/\/shop_images\/sweatpant.jpg"
+            "custom_collection_image": "shopify:\/\/shop_images\/SIT_3503.jpg"
           }
         },
         "collection-list-3": {
           "type": "collection",
           "settings": {
-            "collection": "crewneck-sweater",
-            "custom_collection_image": "shopify:\/\/shop_images\/crewneck.jpg"
+            "collection": "tees-slackers"
           }
         },
         "collection-list-4": {
           "type": "collection",
+          "disabled": true,
           "settings": {
             "collection": "cardigan",
             "custom_collection_image": "shopify:\/\/shop_images\/cardigan.jpg"
@@ -485,8 +485,8 @@
       },
       "block_order": [
         "collection-list-1",
-        "collection-list-0",
         "collection-list-2",
+        "collection-list-0",
         "collection-list-3",
         "collection-list-4"
       ],
