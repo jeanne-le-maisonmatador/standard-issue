@@ -73,7 +73,7 @@
         "image_link_2": "",
         "hide_image_2": false,
         "heading": "IT STARTED WITH A TEE",
-        "description": "<p><strong>Style<\/strong>: Standard Tee - Classic Fit<br\/><strong>Weight<\/strong>: 10 oz. <br\/><strong>Fabric<\/strong>: 100% Ring Spun Cotton<br\/><strong>Process<\/strong>: Garment Dye<br\/><strong>Country of Origin:<\/strong> USA<\/p>",
+        "description": "<p><strong>Style<\/strong>: Standard Tee - Classic Fit<br\/><strong>Weight<\/strong>: 10 oz. <br\/><strong>Fabric<\/strong>: 100% Ring Spun Cotton<br\/><strong>Process<\/strong>: Garment Dye<br\/>Machine wash and dryer safe. Holds up wash over wash, time after time. <\/p>",
         "button_text": "SHOP NOW",
         "button_link": "shopify:\/\/products\/standard-tee-white",
         "button_style": "secondary",
@@ -234,7 +234,7 @@
     "36d2f4aa-5cc7-461e-ad67-fe7cb465d7cb": {
       "type": "section-collection",
       "settings": {
-        "collection": "at-shorts",
+        "collection": "tees",
         "products_rows": 2,
         "products_layout": "grid",
         "show_title": true,
