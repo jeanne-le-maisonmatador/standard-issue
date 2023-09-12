@@ -264,8 +264,28 @@
         "enable_slider": true
       }
     },
+    "a2d04ba7-f000-4150-80d0-a1a82cdc41b5": {
+      "type": "section-product-feature",
+      "settings": {
+        "image_layout": "square",
+        "image_position": "inline",
+        "text_position": "right",
+        "text_alignment": "center",
+        "image_1": "shopify:\/\/shop_images\/SIT_3506.jpg",
+        "image_link_1": "",
+        "image_link_2": "",
+        "hide_image_2": false,
+        "heading": "Tees & Slackers for your everyday uniform.",
+        "description": "<p>The ultimate destination for your elevated wardrobe solutions. <\/p>",
+        "button_text": "",
+        "button_link": "shopify:\/\/collections\/tees-slackers",
+        "button_style": "primary",
+        "bg_color": ""
+      }
+    },
     "16630869551bcc1acb": {
       "type": "section-product-feature",
+      "disabled": true,
       "settings": {
         "image_layout": "portrait",
         "image_position": "inline",
@@ -698,6 +718,7 @@
     "slideshow",
     "16554811631c81f434",
     "featured-collection",
+    "a2d04ba7-f000-4150-80d0-a1a82cdc41b5",
     "16630869551bcc1acb",
     "fabe75ee-b941-42c8-9497-7e10a05c3c55",
     "product-feature",
