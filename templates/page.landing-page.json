@@ -104,19 +104,22 @@
         "template--19750215483673__d902f1b4-0cbc-4c3b-b2f7-e82b9873e717-16884968375bb2dc73-0": {
           "type": "collection",
           "settings": {
-            "collection": "t-shirts"
+            "collection": "t-shirts",
+            "custom_collection_image": "shopify:\/\/shop_images\/SIT_3503.jpg"
           }
         },
         "template--19750215483673__d902f1b4-0cbc-4c3b-b2f7-e82b9873e717-16884968375bb2dc73-1": {
           "type": "collection",
           "settings": {
-            "collection": "bottoms"
+            "collection": "bottoms",
+            "custom_collection_image": "shopify:\/\/shop_images\/9Q7A2111.jpg"
           }
         },
         "template--19750215483673__d902f1b4-0cbc-4c3b-b2f7-e82b9873e717-16884968375bb2dc73-2": {
           "type": "collection",
           "settings": {
-            "collection": "core-essentials"
+            "collection": "core-essentials",
+            "custom_collection_image": "shopify:\/\/shop_images\/SIT_3506.jpg"
           }
         }
       },
