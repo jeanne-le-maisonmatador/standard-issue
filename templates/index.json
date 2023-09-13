@@ -63,12 +63,33 @@
             "video_btn_text": "",
             "video_btn_link": ""
           }
+        },
+        "08d696f3-ac0a-46a0-bb93-5664e349fe95": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_8_5b5a144a-c018-46a2-ab36-4b3be39b8982.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Untitled_design_9_3f399aa0-0d61-4f9e-adc9-0bf49ed13ec7.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 20,
+            "text_color": "text-light",
+            "title": "Slacker Shorts Sets R Back..",
+            "slide_subheading": "They been gone for a while but now they're back. Making its triumphant return the roster is our slacker short set with the matching tee.",
+            "slide_btn_text": "Shop Now",
+            "slide_btn_link": "shopify:\/\/collections\/tees-slackers",
+            "slide_btn_style": "primary",
+            "slide_btn_text_2": "",
+            "slide_btn_link_2": "",
+            "slide_btn_style_2": "secondary",
+            "video_btn_text": "Watch the Video",
+            "video_btn_link": ""
+          }
         }
       },
       "block_order": [
         "ac613ae5-a691-4bd1-b9cb-8494c1a60304",
         "f384b711-8c3f-4c14-964f-accc68c758b7",
-        "8a0fe5ec-a580-41a2-af48-9d6e17fa994b"
+        "8a0fe5ec-a580-41a2-af48-9d6e17fa994b",
+        "08d696f3-ac0a-46a0-bb93-5664e349fe95"
       ],
       "settings": {
         "slide_height": "one-hundred-height-hero",
@@ -280,6 +301,7 @@
         "button_text": "Shop Now",
         "button_link": "shopify:\/\/collections\/tees-slackers",
         "button_style": "secondary",
+        "video_url": "",
         "bg_color": ""
       }
     },
