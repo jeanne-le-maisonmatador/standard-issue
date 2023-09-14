@@ -303,7 +303,7 @@
         "button_link": "shopify:\/\/collections\/tees-slackers",
         "button_style": "secondary",
         "video_url": "",
-        "bg_color": ""
+        "bg_color": "#f9f8f4"
       }
     },
     "16630869551bcc1acb": {
@@ -325,19 +325,6 @@
         "button_style": "secondary",
         "video_url": "",
         "bg_color": ""
-      }
-    },
-    "fabe75ee-b941-42c8-9497-7e10a05c3c55": {
-      "type": "section-collection",
-      "settings": {
-        "collection": "tee-sweat-set",
-        "products_rows": 2,
-        "products_layout": "grid",
-        "show_title": true,
-        "show_collection_button": true,
-        "button_style": "primary",
-        "bg_color": "",
-        "enable_slider": true
       }
     },
     "product-feature": {
@@ -743,7 +730,6 @@
     "featured-collection",
     "a2d04ba7-f000-4150-80d0-a1a82cdc41b5",
     "16630869551bcc1acb",
-    "fabe75ee-b941-42c8-9497-7e10a05c3c55",
     "product-feature",
     "892dd121-cafb-4a74-b9fa-754385282356",
     "logo-list",
