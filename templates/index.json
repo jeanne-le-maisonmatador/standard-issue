@@ -84,13 +84,35 @@
             "video_btn_text": "Watch the Video",
             "video_btn_link": ""
           }
+        },
+        "e500f97b-37bb-4bef-b56c-5136124654bd": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_11_10d46c71-e2ad-4b2b-896e-70a1f0880622.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Untitled_design_10_bfacf1bc-3015-402e-8e5b-2c138e7fae0e.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 20,
+            "text_color": "text-light",
+            "title": "Slacker Pant Long Sleeve Sets",
+            "slide_subheading": "This subheading helps you provide some more detail to the title above.",
+            "slide_btn_text": "Shop Now",
+            "slide_btn_link": "shopify:\/\/collections\/slackers-and-long-sleeves",
+            "slide_btn_style": "primary",
+            "slide_btn_text_2": "",
+            "slide_btn_link_2": "",
+            "slide_btn_style_2": "secondary",
+            "video_btn_text": "Watch the Video",
+            "video_btn_link": ""
+          }
         }
       },
       "block_order": [
         "08d696f3-ac0a-46a0-bb93-5664e349fe95",
         "8a0fe5ec-a580-41a2-af48-9d6e17fa994b",
         "ac613ae5-a691-4bd1-b9cb-8494c1a60304",
-        "f384b711-8c3f-4c14-964f-accc68c758b7"
+        "f384b711-8c3f-4c14-964f-accc68c758b7",
+        "e500f97b-37bb-4bef-b56c-5136124654bd"
       ],
       "settings": {
         "slide_height": "one-hundred-height-hero",
