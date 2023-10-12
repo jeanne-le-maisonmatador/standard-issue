@@ -664,6 +664,15 @@
     "featured-blog": {
       "type": "section-blog",
       "blocks": {
+        "d99a3b00-f418-45ea-b644-5506a12f6957": {
+          "type": "article",
+          "settings": {
+            "article": "news\/jsphiladelphia-union-keeper-collection",
+            "product1": "",
+            "product2": "",
+            "product3": ""
+          }
+        },
         "1b4e7de1-6f64-4649-a802-8b08e52d3880": {
           "type": "article",
           "settings": {
@@ -744,18 +753,10 @@
             "product2": "",
             "product3": ""
           }
-        },
-        "featured-blog-4": {
-          "type": "article",
-          "settings": {
-            "article": "news\/ny-mag-features-the-standard-hoody-on-the-10-hoodies-i-recommend-to-most-everyone-i-know",
-            "product1": "standard-hoody-concrete",
-            "product2": "",
-            "product3": ""
-          }
         }
       },
       "block_order": [
+        "d99a3b00-f418-45ea-b644-5506a12f6957",
         "1b4e7de1-6f64-4649-a802-8b08e52d3880",
         "16e32a28-936d-42ef-b5c7-70ffb75d0505",
         "1f084ad8-be84-4a84-b5ce-d9aed8b9d922",
@@ -764,8 +765,7 @@
         "featured-blog-0",
         "featured-blog-1",
         "featured-blog-2",
-        "featured-blog-3",
-        "featured-blog-4"
+        "featured-blog-3"
       ],
       "settings": {
         "title": "",
