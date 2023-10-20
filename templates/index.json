@@ -5,6 +5,7 @@
       "blocks": {
         "2ce33abb-2ab4-4eec-861f-af71b31fc3f8": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "bg_position": "center-center",
             "overlay_opacity": 20,
