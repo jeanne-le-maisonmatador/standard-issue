@@ -213,176 +213,6 @@
         "transition": "slide"
       }
     },
-    "16554811631c81f434": {
-      "type": "section-slideshow",
-      "blocks": {
-        "92ad9fa1-a57f-4e57-bef4-eeeac4869be0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/8-15_YEAR6SALE_BANNER_DESKTOP_5bcc3de9-92b1-421b-bdf9-a1200bd66d32.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/8-15_YEAR6SALE_BANNER_MOBILE_1e7de7aa-af0e-4f4d-9038-bd5ec4fb011f.jpg",
-            "bg_position": "center-center",
-            "overlay_opacity": 0,
-            "text_color": "text-light",
-            "title": "",
-            "slide_subheading": "",
-            "slide_btn_text": "SHOP NOW",
-            "slide_btn_link": "shopify:\/\/collections\/three-pack-tees",
-            "slide_btn_style": "secondary",
-            "slide_btn_text_2": "",
-            "slide_btn_link_2": "",
-            "slide_btn_style_2": "secondary",
-            "video_btn_text": "",
-            "video_btn_link": ""
-          }
-        },
-        "75497ab7-4051-4924-88a8-a19a02fd7cab": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/22.11.16_shearling_Desktop.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/22.11.16_shearling_Mobile.jpg",
-            "bg_position": "center-center",
-            "overlay_opacity": 0,
-            "text_color": "text-light",
-            "title": "",
-            "slide_subheading": "",
-            "slide_btn_text": "SHOP NOW",
-            "slide_btn_link": "shopify:\/\/collections\/standard-shearling-collection",
-            "slide_btn_style": "secondary",
-            "slide_btn_text_2": "",
-            "slide_btn_link_2": "",
-            "slide_btn_style_2": "secondary",
-            "video_btn_text": "",
-            "video_btn_link": ""
-          }
-        },
-        "1223f70b-ad9f-4e21-a4a0-b77ee9e6bff7": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "image": "shopify:\/\/shop_images\/8-15_YEAR6SALE_BANNER_DESKTOP.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/8-15_YEAR6SALE_BANNER_MOBILE.jpg",
-            "bg_position": "center-center",
-            "overlay_opacity": 0,
-            "text_color": "text-light",
-            "title": "",
-            "slide_subheading": "",
-            "slide_btn_text": "SHOP NOW",
-            "slide_btn_link": "shopify:\/\/collections\/new-arrivals",
-            "slide_btn_style": "secondary",
-            "slide_btn_text_2": "",
-            "slide_btn_link_2": "",
-            "slide_btn_style_2": "secondary",
-            "video_btn_text": "",
-            "video_btn_link": ""
-          }
-        },
-        "271880ea-f12a-4f0f-80f7-0770b7059677": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "image": "shopify:\/\/shop_images\/22.9.13_3_pack_tees_Desktop.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/22.9.13_3_pack_tees_Mobile.jpg",
-            "bg_position": "center-center",
-            "overlay_opacity": 0,
-            "text_color": "text-light",
-            "title": "",
-            "slide_subheading": "",
-            "slide_btn_text": "Shop Now",
-            "slide_btn_link": "shopify:\/\/products\/black-white-heather-grey-three-pack",
-            "slide_btn_style": "secondary",
-            "slide_btn_text_2": "",
-            "slide_btn_link_2": "",
-            "slide_btn_style_2": "secondary",
-            "video_btn_text": "",
-            "video_btn_link": ""
-          }
-        },
-        "16554811627ab7d656-0": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "image": "shopify:\/\/shop_images\/PT_Shorts_Desktop.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/PT_Shorts_Mobile.jpg",
-            "bg_position": "center-center",
-            "overlay_opacity": 0,
-            "text_color": "text-light",
-            "title": "",
-            "slide_subheading": "",
-            "slide_btn_text": "Shop now",
-            "slide_btn_link": "shopify:\/\/collections\/pt-shorts",
-            "slide_btn_style": "secondary",
-            "slide_btn_text_2": "",
-            "slide_btn_link_2": "",
-            "slide_btn_style_2": "secondary",
-            "video_btn_text": "",
-            "video_btn_link": ""
-          }
-        },
-        "1dc2d062-b704-4275-af0f-b42d08ab57a1": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Lightweight_Thermals_Desktop.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/Lightweight_Thermaps_Mobile.jpg",
-            "bg_position": "center-center",
-            "overlay_opacity": 0,
-            "text_color": "text-light",
-            "title": "",
-            "slide_subheading": "",
-            "slide_btn_text": "SHOP NOW",
-            "slide_btn_link": "shopify:\/\/collections\/light-weight-thermal",
-            "slide_btn_style": "secondary",
-            "slide_btn_text_2": "",
-            "slide_btn_link_2": "",
-            "slide_btn_style_2": "secondary",
-            "video_btn_text": "",
-            "video_btn_link": ""
-          }
-        },
-        "16554811627ab7d656-1": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "image": "shopify:\/\/shop_images\/MADE_IN_VERNON_Desktop.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/MADE_IN_VERNON_Mobile.jpg",
-            "bg_position": "center-center",
-            "overlay_opacity": 0,
-            "text_color": "text-light",
-            "title": "",
-            "slide_subheading": "",
-            "slide_btn_text": "",
-            "slide_btn_link": "",
-            "slide_btn_style": "primary",
-            "slide_btn_text_2": "",
-            "slide_btn_link_2": "",
-            "slide_btn_style_2": "secondary",
-            "video_btn_text": "",
-            "video_btn_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "92ad9fa1-a57f-4e57-bef4-eeeac4869be0",
-        "75497ab7-4051-4924-88a8-a19a02fd7cab",
-        "1223f70b-ad9f-4e21-a4a0-b77ee9e6bff7",
-        "271880ea-f12a-4f0f-80f7-0770b7059677",
-        "16554811627ab7d656-0",
-        "1dc2d062-b704-4275-af0f-b42d08ab57a1",
-        "16554811627ab7d656-1"
-      ],
-      "disabled": true,
-      "settings": {
-        "slide_height": "one-hundred-height-hero",
-        "content_alignment": "center",
-        "show_nav_dots": true,
-        "show_nav_arrows": true,
-        "show_arrow_down": false,
-        "autoplay": false,
-        "duration": 4,
-        "transition": "slide"
-      }
-    },
     "featured-collection": {
       "type": "section-collection",
       "settings": {
@@ -686,6 +516,15 @@
     "featured-blog": {
       "type": "section-blog",
       "blocks": {
+        "839f866e-190e-452d-b328-bec991ecaa19": {
+          "type": "article",
+          "settings": {
+            "article": "news\/philadelphia-eagles-standard-issue",
+            "product1": "",
+            "product2": "",
+            "product3": ""
+          }
+        },
         "d99a3b00-f418-45ea-b644-5506a12f6957": {
           "type": "article",
           "settings": {
@@ -778,6 +617,7 @@
         }
       },
       "block_order": [
+        "839f866e-190e-452d-b328-bec991ecaa19",
         "d99a3b00-f418-45ea-b644-5506a12f6957",
         "1b4e7de1-6f64-4649-a802-8b08e52d3880",
         "16e32a28-936d-42ef-b5c7-70ffb75d0505",
@@ -836,7 +676,6 @@
   },
   "order": [
     "slideshow",
-    "16554811631c81f434",
     "featured-collection",
     "a2d04ba7-f000-4150-80d0-a1a82cdc41b5",
     "16630869551bcc1acb",
