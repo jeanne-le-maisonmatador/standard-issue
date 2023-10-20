@@ -26,6 +26,7 @@
         },
         "94450338-5d78-481a-b612-0b3f31b23563": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/Untitled_design_10.png",
             "image_mobile": "shopify:\/\/shop_images\/Untitled_design_11.png",
