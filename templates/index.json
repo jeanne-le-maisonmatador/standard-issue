@@ -5,7 +5,6 @@
       "blocks": {
         "8267a64c-3898-4447-bc32-3d4d818ff9a9": {
           "type": "image",
-          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/Untitled_design_12.png",
             "image_mobile": "shopify:\/\/shop_images\/Untitled_design_13.png",
