@@ -3,6 +3,24 @@
     "slideshow": {
       "type": "section-slideshow",
       "blocks": {
+        "2ce33abb-2ab4-4eec-861f-af71b31fc3f8": {
+          "type": "image",
+          "settings": {
+            "bg_position": "center-center",
+            "overlay_opacity": 20,
+            "text_color": "text-light",
+            "title": "",
+            "slide_subheading": "",
+            "slide_btn_text": "",
+            "slide_btn_link": "",
+            "slide_btn_style": "primary",
+            "slide_btn_text_2": "",
+            "slide_btn_link_2": "",
+            "slide_btn_style_2": "secondary",
+            "video_btn_text": "WATCH NOW",
+            "video_btn_link": "https:\/\/www.youtube.com\/watch?v=TJdItUfSy1s"
+          }
+        },
         "8267a64c-3898-4447-bc32-3d4d818ff9a9": {
           "type": "image",
           "settings": {
@@ -192,6 +210,7 @@
         }
       },
       "block_order": [
+        "2ce33abb-2ab4-4eec-861f-af71b31fc3f8",
         "8267a64c-3898-4447-bc32-3d4d818ff9a9",
         "94450338-5d78-481a-b612-0b3f31b23563",
         "6bae17d6-325b-495b-8be2-6206c546be43",
