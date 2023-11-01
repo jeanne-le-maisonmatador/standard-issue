@@ -152,6 +152,7 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/Untitled_design_15.png",
+            "image_mobile": "shopify:\/\/shop_images\/Untitled_design_16.png",
             "bg_position": "center-center",
             "overlay_opacity": 20,
             "text_color": "text-light",
