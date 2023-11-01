@@ -46,6 +46,7 @@
         },
         "6bae17d6-325b-495b-8be2-6206c546be43": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/Untitled_design_8.png",
             "image_mobile": "shopify:\/\/shop_images\/Untitled_design_7.png",
