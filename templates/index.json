@@ -489,6 +489,47 @@
         "text_color": "#333333"
       }
     },
+    "aef9526e-0b0f-456c-b1c2-99ecc1972e35": {
+      "type": "section-icons-row",
+      "blocks": {
+        "template--14305551417443__aef9526e-0b0f-456c-b1c2-99ecc1972e35-text-2": {
+          "type": "text",
+          "settings": {
+            "icon_name": "calendar",
+            "title": "Fast Order Processing",
+            "content": "We process orders same-day so you can enjoy your pieces sooner."
+          }
+        },
+        "template--14305551417443__aef9526e-0b0f-456c-b1c2-99ecc1972e35-text-1": {
+          "type": "text",
+          "settings": {
+            "icon_name": "reload",
+            "title": "Same Fit Wash After Wash",
+            "content": "Each garment is pre-shrunken to retain its original shape and fit, wash after wash."
+          }
+        },
+        "template--14305551417443__aef9526e-0b0f-456c-b1c2-99ecc1972e35-text-3": {
+          "type": "text",
+          "settings": {
+            "icon_name": "basket",
+            "title": "Low Shipping Cost",
+            "content": "Flat $5 shipping rate and free shipping on all orders over $250"
+          }
+        }
+      },
+      "block_order": [
+        "template--14305551417443__aef9526e-0b0f-456c-b1c2-99ecc1972e35-text-2",
+        "template--14305551417443__aef9526e-0b0f-456c-b1c2-99ecc1972e35-text-1",
+        "template--14305551417443__aef9526e-0b0f-456c-b1c2-99ecc1972e35-text-3"
+      ],
+      "disabled": true,
+      "settings": {
+        "alignment": "center",
+        "icons_width": 45,
+        "bg_color": "#fafafa",
+        "text_color": "#333"
+      }
+    },
     "featured-blog": {
       "type": "section-blog",
       "blocks": {
@@ -656,6 +697,7 @@
     "logo-list",
     "collection-list",
     "icons-row",
+    "aef9526e-0b0f-456c-b1c2-99ecc1972e35",
     "featured-blog",
     "1694220663be2ead0a",
     "1694220720c64d1fcf"
