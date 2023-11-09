@@ -99,9 +99,10 @@
           },
           "footer-block-1": {
             "type": "text",
+            "disabled": true,
             "settings": {
               "title": "ABOUT US",
-              "footer_text": "<p>Vertical manufacturing. Sweatshop free.  <\/p><p>Proudly made in Vernon, Los Angeles in California.<\/p>"
+              "footer_text": "<p>Standard Issue believes in investing in the highest quality fabric to create innovative and timeless silhouettes that you will want to wear time and time again.<\/p>"
             }
           },
           "footer-block-2": {
