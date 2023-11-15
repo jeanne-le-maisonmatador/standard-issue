@@ -99,10 +99,9 @@
           },
           "footer-block-1": {
             "type": "text",
-            "disabled": true,
             "settings": {
               "title": "ABOUT US",
-              "footer_text": "<p>Standard Issue believes in investing in the highest quality fabric to create innovative and timeless silhouettes that you will want to wear time and time again.<\/p>"
+              "footer_text": "<p>We believe that the highest quality should be the Standard. We use premium fabrics to create innovative and timeless silhouettes that you will want to wear time and time again.<\/p>"
             }
           },
           "footer-block-2": {
