@@ -172,8 +172,8 @@
           "type": "image",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/Untitled_design_19.png",
-            "image_mobile": "shopify:\/\/shop_images\/Untitled_design_13.jpg",
+            "image": "shopify:\/\/shop_images\/Untitled_design_14.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Untitled_design_20.png",
             "bg_position": "center-center",
             "overlay_opacity": 20,
             "text_color": "text-light",
