@@ -482,6 +482,7 @@
         "icons-row-2",
         "icons-row-1"
       ],
+      "disabled": true,
       "settings": {
         "alignment": "left",
         "icons_width": 45,
@@ -497,7 +498,7 @@
           "settings": {
             "icon_name": "calendar",
             "title": "Fast Order Processing",
-            "content": "We process orders same-day so you can enjoy your pieces sooner."
+            "content": "We'll get your orders out quick, so you can enjoy your pieces sooner."
           }
         },
         "template--14305551417443__aef9526e-0b0f-456c-b1c2-99ecc1972e35-text-1": {
@@ -505,7 +506,7 @@
           "settings": {
             "icon_name": "reload",
             "title": "Same Fit Wash After Wash",
-            "content": "Each garment is pre-shrunken to retain its original shape and fit, wash after wash."
+            "content": "Each garment is pre-shrunk to retain its original shape and fit, wash after wash."
           }
         },
         "template--14305551417443__aef9526e-0b0f-456c-b1c2-99ecc1972e35-text-3": {
@@ -513,7 +514,7 @@
           "settings": {
             "icon_name": "basket",
             "title": "Low Shipping Cost",
-            "content": "Flat $5 shipping rate and free shipping on all orders over $250"
+            "content": "Flat $5 shipping rate and free shipping on all orders over $250."
           }
         }
       },
@@ -522,12 +523,11 @@
         "template--14305551417443__aef9526e-0b0f-456c-b1c2-99ecc1972e35-text-1",
         "template--14305551417443__aef9526e-0b0f-456c-b1c2-99ecc1972e35-text-3"
       ],
-      "disabled": true,
       "settings": {
         "alignment": "center",
         "icons_width": 45,
         "bg_color": "#fafafa",
-        "text_color": "#333"
+        "text_color": "#333333"
       }
     },
     "featured-blog": {
