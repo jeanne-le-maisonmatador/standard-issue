@@ -148,18 +148,10 @@
       "announcement-bar": {
         "type": "announcement-bar",
         "blocks": {
-          "0144ea24-7006-40b7-8b41-6695729a4524": {
-            "type": "announcement",
-            "settings": {
-              "text": "SIGN UP FOR OUR EMAIL AND TEXT TO RECEIVE 10% OFF YOUR FIRST ORDER",
-              "link": ""
-            }
-          },
           "c47dbe7f-5c60-40a1-9cdc-54eb7ed85c8d": {
             "type": "announcement",
-            "disabled": true,
             "settings": {
-              "text": "MEMORIAL DAY SALE 5\/27 - 5\/29 USE CODE 25forMDS23 AT CHECKOUT!",
+              "text": "BLACK FRIDAY SALE 11\/24 - 11\/27 USE CODE 2023BFCM30 AT CHECKOUT!",
               "link": ""
             }
           },
@@ -169,12 +161,19 @@
               "text": "FREE SHIPPING ON ALL CONTINENTAL U.S. ORDERS $250 AND UP.",
               "link": ""
             }
+          },
+          "0144ea24-7006-40b7-8b41-6695729a4524": {
+            "type": "announcement",
+            "settings": {
+              "text": "SIGN UP FOR OUR EMAIL AND TEXT TO RECEIVE 10% OFF YOUR FIRST ORDER",
+              "link": ""
+            }
           }
         },
         "block_order": [
-          "0144ea24-7006-40b7-8b41-6695729a4524",
           "c47dbe7f-5c60-40a1-9cdc-54eb7ed85c8d",
-          "c5bcb79f-5eeb-4fc7-a931-7d140c155ac2"
+          "c5bcb79f-5eeb-4fc7-a931-7d140c155ac2",
+          "0144ea24-7006-40b7-8b41-6695729a4524"
         ],
         "settings": {
           "color_announcement_bar_bg": "#fafafa",
