@@ -215,7 +215,7 @@
     "featured-collection": {
       "type": "section-collection",
       "settings": {
-        "collection": "new-arrivals",
+        "collection": "shop-all",
         "products_rows": 2,
         "products_layout": "grid",
         "show_title": true,
