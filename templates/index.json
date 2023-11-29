@@ -5,6 +5,7 @@
       "blocks": {
         "6d0f1310-2d37-4645-b005-43a41b7fc88c": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/Untitled_design_21.png",
             "image_mobile": "shopify:\/\/shop_images\/SI_BLACKFRIDAY2023_MOBILE.png",
