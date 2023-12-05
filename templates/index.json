@@ -275,13 +275,15 @@
         "text_alignment": "center",
         "image_1": "shopify:\/\/shop_images\/Untitled_design_16.jpg",
         "image_link_1": "shopify:\/\/pages\/sign-up-for-the-standard-issue-newsletter-and-get-10-off-your-first-purchase",
+        "image_2": "shopify:\/\/shop_images\/qr.png",
         "image_link_2": "",
-        "hide_image_2": false,
+        "hide_image_2": true,
         "heading": "Download the Standard Issue App",
         "description": "<p>From late night discount codes to new drop notifications the moment our garments hit the web shop, make sure you have those push notification on to get the full app experience and perks.<\/p>",
         "button_text": "Download the App",
         "button_link": "shopify:\/\/pages\/standard-issue-app",
         "button_style": "secondary",
+        "video_url": "",
         "bg_color": ""
       }
     },
