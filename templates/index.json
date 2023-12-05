@@ -266,6 +266,25 @@
         "bg_color": ""
       }
     },
+    "f29460d5-121b-4bcb-8d71-9e2371f32adf": {
+      "type": "section-product-feature",
+      "settings": {
+        "image_layout": "square",
+        "image_position": "inline",
+        "text_position": "right",
+        "text_alignment": "center",
+        "image_1": "shopify:\/\/shop_images\/116-TapCart_02.gif",
+        "image_link_1": "shopify:\/\/pages\/sign-up-for-the-standard-issue-newsletter-and-get-10-off-your-first-purchase",
+        "image_link_2": "",
+        "hide_image_2": false,
+        "heading": "Download the Standard Issue App",
+        "description": "<p>From late night discount codes to new drop notifications the moment our garments hit the web shop, make sure you have those push notification on to get the full app experience and perks.<\/p>",
+        "button_text": "Download the App",
+        "button_link": "shopify:\/\/pages\/standard-issue-app",
+        "button_style": "secondary",
+        "bg_color": ""
+      }
+    },
     "product-feature": {
       "type": "section-product-feature",
       "disabled": true,
@@ -715,6 +734,7 @@
     "featured-collection",
     "a2d04ba7-f000-4150-80d0-a1a82cdc41b5",
     "16630869551bcc1acb",
+    "f29460d5-121b-4bcb-8d71-9e2371f32adf",
     "product-feature",
     "892dd121-cafb-4a74-b9fa-754385282356",
     "logo-list",
