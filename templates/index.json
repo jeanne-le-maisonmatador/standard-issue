@@ -612,6 +612,15 @@
     "featured-blog": {
       "type": "section-blog",
       "blocks": {
+        "2c4070ee-4082-47b4-90a7-484dfda8188f": {
+          "type": "article",
+          "settings": {
+            "article": "news\/2023-standard-issue-gift-guide",
+            "product1": "",
+            "product2": "",
+            "product3": ""
+          }
+        },
         "839f866e-190e-452d-b328-bec991ecaa19": {
           "type": "article",
           "settings": {
@@ -713,6 +722,7 @@
         }
       },
       "block_order": [
+        "2c4070ee-4082-47b4-90a7-484dfda8188f",
         "839f866e-190e-452d-b328-bec991ecaa19",
         "d99a3b00-f418-45ea-b644-5506a12f6957",
         "1b4e7de1-6f64-4649-a802-8b08e52d3880",
