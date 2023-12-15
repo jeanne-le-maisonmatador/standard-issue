@@ -148,14 +148,6 @@
       "announcement-bar": {
         "type": "announcement-bar",
         "blocks": {
-          "c47dbe7f-5c60-40a1-9cdc-54eb7ed85c8d": {
-            "type": "announcement",
-            "disabled": true,
-            "settings": {
-              "text": "BLACK FRIDAY SALE 11\/24 - 11\/27 USE CODE 2023BFCM30 AT CHECKOUT!",
-              "link": ""
-            }
-          },
           "0144ea24-7006-40b7-8b41-6695729a4524": {
             "type": "announcement",
             "settings": {
@@ -169,12 +161,19 @@
               "text": "FREE SHIPPING ON ALL CONTINENTAL U.S. ORDERS $250 AND UP.",
               "link": ""
             }
+          },
+          "98bfddec-0b14-4596-809a-3945230e542d": {
+            "type": "announcement",
+            "settings": {
+              "text": "PLACE YOUR ORDERS BY 12\/15\/23 TO GET THEM IN TIME FOR CHRISTMAS",
+              "link": ""
+            }
           }
         },
         "block_order": [
-          "c47dbe7f-5c60-40a1-9cdc-54eb7ed85c8d",
           "0144ea24-7006-40b7-8b41-6695729a4524",
-          "c5bcb79f-5eeb-4fc7-a931-7d140c155ac2"
+          "c5bcb79f-5eeb-4fc7-a931-7d140c155ac2",
+          "98bfddec-0b14-4596-809a-3945230e542d"
         ],
         "settings": {
           "color_announcement_bar_bg": "#fafafa",
