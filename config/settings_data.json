@@ -161,19 +161,11 @@
               "text": "FREE SHIPPING ON ALL CONTINENTAL U.S. ORDERS $250 AND UP.",
               "link": ""
             }
-          },
-          "98bfddec-0b14-4596-809a-3945230e542d": {
-            "type": "announcement",
-            "settings": {
-              "text": "PLACE YOUR ORDERS BY 12\/15\/23 TO GET THEM IN TIME FOR CHRISTMAS",
-              "link": ""
-            }
           }
         },
         "block_order": [
           "0144ea24-7006-40b7-8b41-6695729a4524",
-          "c5bcb79f-5eeb-4fc7-a931-7d140c155ac2",
-          "98bfddec-0b14-4596-809a-3945230e542d"
+          "c5bcb79f-5eeb-4fc7-a931-7d140c155ac2"
         ],
         "settings": {
           "color_announcement_bar_bg": "#fafafa",
