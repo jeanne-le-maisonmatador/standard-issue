@@ -261,26 +261,6 @@
         "enable_slider": true
       }
     },
-    "a2d04ba7-f000-4150-80d0-a1a82cdc41b5": {
-      "type": "section-product-feature",
-      "settings": {
-        "image_layout": "square",
-        "image_position": "inline",
-        "text_position": "right",
-        "text_alignment": "center",
-        "image_1": "shopify:\/\/shop_images\/SIT_3506.jpg",
-        "image_link_1": "",
-        "image_link_2": "",
-        "hide_image_2": false,
-        "heading": "Tees & Slackers for your everyday uniform.",
-        "description": "<p>The ultimate destination for your elevated wardrobe solutions. <\/p>",
-        "button_text": "Shop Now",
-        "button_link": "shopify:\/\/collections\/tees-slackers",
-        "button_style": "secondary",
-        "video_url": "",
-        "bg_color": "#ffffff"
-      }
-    },
     "16630869551bcc1acb": {
       "type": "section-product-feature",
       "settings": {
@@ -320,6 +300,46 @@
         "button_style": "secondary",
         "video_url": "",
         "bg_color": ""
+      }
+    },
+    "6dcd1e80-2b07-4941-9f18-001e4aab87d4": {
+      "type": "section-product-feature",
+      "settings": {
+        "image_layout": "square",
+        "image_position": "inline",
+        "text_position": "left",
+        "text_alignment": "center",
+        "image_1": "shopify:\/\/shop_images\/SIT_Gift_Card_GIf.jpg",
+        "image_link_1": "",
+        "image_link_2": "",
+        "hide_image_2": false,
+        "heading": "Looking for the perfect last minute gift? We got you..",
+        "description": "<p>If your looking to give the gift of Standard Issue this holiday season, our gift cards got you covered. Our digital gifts are available for purchase in the webshop at the following quantities: $25, $50, $100, and $200.  <\/p>",
+        "button_text": "Shop Now",
+        "button_link": "shopify:\/\/products\/gift-card",
+        "button_style": "secondary",
+        "bg_color": ""
+      }
+    },
+    "a2d04ba7-f000-4150-80d0-a1a82cdc41b5": {
+      "type": "section-product-feature",
+      "disabled": true,
+      "settings": {
+        "image_layout": "square",
+        "image_position": "inline",
+        "text_position": "right",
+        "text_alignment": "center",
+        "image_1": "shopify:\/\/shop_images\/SIT_3506.jpg",
+        "image_link_1": "",
+        "image_link_2": "",
+        "hide_image_2": false,
+        "heading": "Tees & Slackers for your everyday uniform.",
+        "description": "<p>The ultimate destination for your elevated wardrobe solutions. <\/p>",
+        "button_text": "Shop Now",
+        "button_link": "shopify:\/\/collections\/tees-slackers",
+        "button_style": "secondary",
+        "video_url": "",
+        "bg_color": "#ffffff"
       }
     },
     "product-feature": {
@@ -786,9 +806,10 @@
     "slideshow",
     "299cff84-654c-4452-81f9-9573a2449e03",
     "featured-collection",
-    "a2d04ba7-f000-4150-80d0-a1a82cdc41b5",
     "16630869551bcc1acb",
     "f29460d5-121b-4bcb-8d71-9e2371f32adf",
+    "6dcd1e80-2b07-4941-9f18-001e4aab87d4",
+    "a2d04ba7-f000-4150-80d0-a1a82cdc41b5",
     "product-feature",
     "892dd121-cafb-4a74-b9fa-754385282356",
     "logo-list",
