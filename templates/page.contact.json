@@ -8,7 +8,6 @@
     },
     "locations": {
       "type": "section-locations",
-      "disabled": true,
       "blocks": {
         "locations-0": {
           "type": "locations",
@@ -37,57 +36,16 @@
         "locations-1",
         "locations-2"
       ],
+      "disabled": true,
       "settings": {
         "subheading": "Our stores",
         "title": "Locations & hours",
         "bg_color": ""
       }
-    },
-    "contact-form": {
-      "type": "section-contact-form",
-      "blocks": {
-        "contact-form-0": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "title": "Contact us"
-          }
-        },
-        "contact-form-1": {
-          "type": "text",
-          "settings": {
-            "title": "Name",
-            "required": false
-          }
-        },
-        "contact-form-2": {
-          "type": "email",
-          "settings": {
-            "title": "Email",
-            "required": true
-          }
-        },
-        "contact-form-3": {
-          "type": "body",
-          "settings": {
-            "title": "Message",
-            "required": true
-          }
-        }
-      },
-      "block_order": [
-        "contact-form-0",
-        "contact-form-1",
-        "contact-form-2",
-        "contact-form-3"
-      ],
-      "settings": {
-      }
     }
   },
   "order": [
     "main",
-    "locations",
-    "contact-form"
+    "locations"
   ]
 }
