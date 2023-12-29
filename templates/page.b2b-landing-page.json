@@ -101,70 +101,21 @@
         "bg_color": ""
       }
     },
-    "1694493356b8603e7d": {
+    "17038098192e46b1c5": {
       "type": "apps",
       "blocks": {
-        "6097f78f-016d-4b69-84a5-3d26360215f8": {
+        "71dd1dd3-02aa-4196-9c2e-78bae90107e4": {
           "type": "shopify:\/\/apps\/powerful-form-builder\/blocks\/app-block\/e4bcb1eb-35b2-42e6-bc37-bfe0e1542c9d",
           "settings": {
-            "shortcode": "<div class=\"globo-formbuilder\" data-id=\"xxxx\"><\/div>"
+            "shortcode": "<div class=\"globo-formbuilder\" data-id=\"MjQ4NzU=\"><\/div>"
           }
         }
       },
       "block_order": [
-        "6097f78f-016d-4b69-84a5-3d26360215f8"
+        "71dd1dd3-02aa-4196-9c2e-78bae90107e4"
       ],
       "settings": {
         "include_margins": true
-      }
-    },
-    "18214a14-f756-4e17-8443-054c8010428b": {
-      "type": "section-contact-form",
-      "blocks": {
-        "template--19973214077209__18214a14-f756-4e17-8443-054c8010428b-1689657249565e7a83-0": {
-          "type": "heading",
-          "settings": {
-            "title": "CONTACT US"
-          }
-        },
-        "template--19973214077209__18214a14-f756-4e17-8443-054c8010428b-1689657249565e7a83-1": {
-          "type": "text",
-          "settings": {
-            "title": "Name",
-            "required": true
-          }
-        },
-        "template--19973214077209__18214a14-f756-4e17-8443-054c8010428b-1689657249565e7a83-2": {
-          "type": "email",
-          "settings": {
-            "title": "Email",
-            "required": true
-          }
-        },
-        "e7e4ab75-40d9-4366-9a90-a12d3ae5bf57": {
-          "type": "text",
-          "settings": {
-            "title": "Wholesale | Custom Apparel",
-            "required": true
-          }
-        },
-        "template--19973214077209__18214a14-f756-4e17-8443-054c8010428b-1689657249565e7a83-3": {
-          "type": "body",
-          "settings": {
-            "title": "Message",
-            "required": true
-          }
-        }
-      },
-      "block_order": [
-        "template--19973214077209__18214a14-f756-4e17-8443-054c8010428b-1689657249565e7a83-0",
-        "template--19973214077209__18214a14-f756-4e17-8443-054c8010428b-1689657249565e7a83-1",
-        "template--19973214077209__18214a14-f756-4e17-8443-054c8010428b-1689657249565e7a83-2",
-        "e7e4ab75-40d9-4366-9a90-a12d3ae5bf57",
-        "template--19973214077209__18214a14-f756-4e17-8443-054c8010428b-1689657249565e7a83-3"
-      ],
-      "disabled": true,
-      "settings": {
       }
     },
     "a7550ab0-75a5-4916-bd8a-4937b7e7f0c7": {
@@ -367,8 +318,7 @@
     "main",
     "ad7561a4-e77a-4f91-85d2-e8520e67cc29",
     "89b8bb4d-6de2-4960-a732-36753611873b",
-    "1694493356b8603e7d",
-    "18214a14-f756-4e17-8443-054c8010428b",
+    "17038098192e46b1c5",
     "a7550ab0-75a5-4916-bd8a-4937b7e7f0c7",
     "bee35dc6-adb3-44e2-a2a6-aa21f7a5aab6",
     "a488e100-ad32-4237-a96c-fb6a2c68ad2e",
