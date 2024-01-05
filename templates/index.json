@@ -3,26 +3,6 @@
     "slideshow": {
       "type": "section-slideshow",
       "blocks": {
-        "1bf7bc95-0e19-4a75-9ead-8cd2ee710ffc": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Untitled_design_35.png",
-            "image_mobile": "shopify:\/\/shop_images\/Untitled_design_36.png",
-            "bg_position": "center-center",
-            "overlay_opacity": 20,
-            "text_color": "text-light",
-            "title": "App Exclusive: Puffer Vest",
-            "slide_subheading": "Our Puffer Vest is now available, exclusively on the Standard Issue App. Download the app and be the first to shop this limited drop.",
-            "slide_btn_text": "Download the App",
-            "slide_btn_link": "shopify:\/\/pages\/standard-issue-app",
-            "slide_btn_style": "primary",
-            "slide_btn_text_2": "",
-            "slide_btn_link_2": "",
-            "slide_btn_style_2": "secondary",
-            "video_btn_text": "",
-            "video_btn_link": ""
-          }
-        },
         "6d024fb3-ec4c-4c25-9bc0-ed743d45f085": {
           "type": "image",
           "settings": {
@@ -35,6 +15,48 @@
             "slide_subheading": "We are excited to announce the introduction of our second offering of Standard Issue outerwear in our Parka jacket.",
             "slide_btn_text": "Shop Now",
             "slide_btn_link": "shopify:\/\/collections\/new-arrivals",
+            "slide_btn_style": "primary",
+            "slide_btn_text_2": "",
+            "slide_btn_link_2": "",
+            "slide_btn_style_2": "secondary",
+            "video_btn_text": "",
+            "video_btn_link": ""
+          }
+        },
+        "bc72de2c-d081-4b79-919c-25658c205460": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_35.png",
+            "image_mobile": "shopify:\/\/shop_images\/Untitled_design_36.png",
+            "bg_position": "center-center",
+            "overlay_opacity": 20,
+            "text_color": "text-light",
+            "title": "Introducing the Standard Puffer vest",
+            "slide_subheading": "This vest features two deep front pockets, snap buttons along the front, and a mock neck collar.\nWe know we gotta get our weight up to fight the elements so this beaut weights 136 gsm. Now available in Royal blue, black, dusty pink, and hot pink.",
+            "slide_btn_text": "Shop Now",
+            "slide_btn_link": "shopify:\/\/collections\/new-arrivals",
+            "slide_btn_style": "primary",
+            "slide_btn_text_2": "",
+            "slide_btn_link_2": "shopify:\/\/collections\/new-arrivals",
+            "slide_btn_style_2": "secondary",
+            "video_btn_text": "",
+            "video_btn_link": ""
+          }
+        },
+        "1bf7bc95-0e19-4a75-9ead-8cd2ee710ffc": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_35.png",
+            "image_mobile": "shopify:\/\/shop_images\/Untitled_design_36.png",
+            "bg_position": "center-center",
+            "overlay_opacity": 20,
+            "text_color": "text-light",
+            "title": "App Exclusive: Puffer Vest",
+            "slide_subheading": "Our Puffer Vest is now available, exclusively on the Standard Issue App. Download the app and be the first to shop this limited drop.",
+            "slide_btn_text": "Download the App",
+            "slide_btn_link": "shopify:\/\/pages\/standard-issue-app",
             "slide_btn_style": "primary",
             "slide_btn_text_2": "",
             "slide_btn_link_2": "",
@@ -147,27 +169,6 @@
             "video_btn_link": ""
           }
         },
-        "82c78400-8310-4280-acc3-36596141cd02": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Untitled_design_10_26221963-fbf3-4c02-9aca-b1626173d390.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/Untitled_design_5.png",
-            "bg_position": "center-center",
-            "overlay_opacity": 20,
-            "text_color": "text-light",
-            "title": "Everyone Wears Standard Issue At Offset Coffee",
-            "slide_subheading": "We built a temporary world at Offset Coffee's El Segundo location to display how these amazing individuals go about their day to day in our garments.",
-            "slide_btn_text": "Read the Blog",
-            "slide_btn_link": "shopify:\/\/blogs\/news\/everyone-wears-standard-issue-at-offset-coffee",
-            "slide_btn_style": "primary",
-            "slide_btn_text_2": "",
-            "slide_btn_link_2": "",
-            "slide_btn_style_2": "secondary",
-            "video_btn_text": "",
-            "video_btn_link": "https:\/\/www.youtube.com\/watch?v=osRqabMoEXw"
-          }
-        },
         "e500f97b-37bb-4bef-b56c-5136124654bd": {
           "type": "image",
           "disabled": true,
@@ -212,14 +213,14 @@
         }
       },
       "block_order": [
-        "1bf7bc95-0e19-4a75-9ead-8cd2ee710ffc",
         "6d024fb3-ec4c-4c25-9bc0-ed743d45f085",
+        "bc72de2c-d081-4b79-919c-25658c205460",
+        "1bf7bc95-0e19-4a75-9ead-8cd2ee710ffc",
         "335ebde2-3173-42af-8759-f32af3b097a6",
         "6d0f1310-2d37-4645-b005-43a41b7fc88c",
         "28da44e5-f6d0-46bd-988b-c17a584d4b1c",
         "4004c456-99fa-4871-9b48-7abbf2bad746",
         "fc33d9b1-8cfa-4ca0-8a5f-4118d44e7f84",
-        "82c78400-8310-4280-acc3-36596141cd02",
         "e500f97b-37bb-4bef-b56c-5136124654bd",
         "8267a64c-3898-4447-bc32-3d4d818ff9a9"
       ],
