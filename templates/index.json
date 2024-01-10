@@ -303,6 +303,7 @@
     },
     "6dcd1e80-2b07-4941-9f18-001e4aab87d4": {
       "type": "section-product-feature",
+      "disabled": true,
       "settings": {
         "image_layout": "square",
         "image_position": "inline",
@@ -317,6 +318,26 @@
         "button_text": "Shop Now",
         "button_link": "shopify:\/\/products\/gift-card",
         "button_style": "secondary",
+        "video_url": "",
+        "bg_color": ""
+      }
+    },
+    "product-feature": {
+      "type": "section-product-feature",
+      "settings": {
+        "image_layout": "square",
+        "image_position": "inline",
+        "text_position": "left",
+        "text_alignment": "left",
+        "image_1": "shopify:\/\/shop_images\/2packwhiteandblacktee.jpg",
+        "image_link_1": "shopify:\/\/collections\/three-pack-tees",
+        "image_link_2": "",
+        "hide_image_2": false,
+        "heading": "BUNDLE AND SAVE: BLACK AND WHITE TWO PACK",
+        "description": "<p>It pays to bundle your favorite tees. Shop the BLACK & WHITE - TWO PACK and save.<\/p>",
+        "button_text": "SHOP NOW",
+        "button_link": "shopify:\/\/products\/black-white-two-pack",
+        "button_style": "primary",
         "video_url": "",
         "bg_color": ""
       }
@@ -340,27 +361,6 @@
         "button_style": "secondary",
         "video_url": "",
         "bg_color": "#ffffff"
-      }
-    },
-    "product-feature": {
-      "type": "section-product-feature",
-      "disabled": true,
-      "settings": {
-        "image_layout": "square",
-        "image_position": "inline",
-        "text_position": "right",
-        "text_alignment": "left",
-        "image_1": "shopify:\/\/shop_images\/Untitled-1.jpg",
-        "image_link_1": "shopify:\/\/collections\/three-pack-tees",
-        "image_link_2": "",
-        "hide_image_2": false,
-        "heading": "THREE-PACK ESSENTIAL TEE",
-        "description": "<p>Trying the Stadnard tee fro the first time or restocking closet. Re-up with the freshest, <\/p><p><\/p><p>Subscribe and save!<\/p><p>Our Standard Tees are created from fabric styles that are locally developed in Los Angeles for ultimate comfort. <\/p><p><\/p><p>This three pack of shirts is packaged in our reusable zip pouch for easy storage or packing for travel. Standard Issue Tees are pre-shrunk to retain their shape leaving you with an everlasting classic fit. <\/p><p><\/p><p>Forever made with integrity in Vernon, CA.<br\/><\/p>",
-        "button_text": "SHOP NOW",
-        "button_link": "shopify:\/\/collections\/three-pack-tees",
-        "button_style": "primary",
-        "video_url": "",
-        "bg_color": ""
       }
     },
     "892dd121-cafb-4a74-b9fa-754385282356": {
@@ -809,8 +809,8 @@
     "16630869551bcc1acb",
     "f29460d5-121b-4bcb-8d71-9e2371f32adf",
     "6dcd1e80-2b07-4941-9f18-001e4aab87d4",
-    "a2d04ba7-f000-4150-80d0-a1a82cdc41b5",
     "product-feature",
+    "a2d04ba7-f000-4150-80d0-a1a82cdc41b5",
     "892dd121-cafb-4a74-b9fa-754385282356",
     "logo-list",
     "collection-list",
