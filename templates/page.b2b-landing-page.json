@@ -118,107 +118,6 @@
         "include_margins": true
       }
     },
-    "a7550ab0-75a5-4916-bd8a-4937b7e7f0c7": {
-      "type": "section-rich-text",
-      "settings": {
-        "text_position": "center",
-        "top_image_width": 100,
-        "subheading": "FROM DESIGN TO PRODUCTION",
-        "heading": "IF YOU THINK IT, WE CAN PROBABLY CREATE IT",
-        "text": "<p>We provide a full-service custom apparel program to your company that allows you to be as hands-on or hands-off as you’d like. Here's some of the services we provide <strong>but are not limited t<\/strong>o:<\/p>",
-        "button_text": "",
-        "button_url": "",
-        "button_style": "primary",
-        "secondary_button_text": "",
-        "secondary_button_url": "",
-        "secondary_button_style": "secondary",
-        "bg_color": "#efefef"
-      }
-    },
-    "bee35dc6-adb3-44e2-a2a6-aa21f7a5aab6": {
-      "type": "section-icons-row",
-      "blocks": {
-        "template--19973214077209__bee35dc6-adb3-44e2-a2a6-aa21f7a5aab6-1689657522cc42202f-0": {
-          "type": "text",
-          "settings": {
-            "icon_name": "eye",
-            "title": "CUSTOM BRANDED APPAREL DESIGN",
-            "content": ""
-          }
-        },
-        "template--19973214077209__bee35dc6-adb3-44e2-a2a6-aa21f7a5aab6-1689657522cc42202f-1": {
-          "type": "text",
-          "settings": {
-            "icon_name": "fruits",
-            "title": "CUSTOM DYE SOURCING & APPLICATION",
-            "content": ""
-          }
-        },
-        "template--19973214077209__bee35dc6-adb3-44e2-a2a6-aa21f7a5aab6-1689657522cc42202f-2": {
-          "type": "text",
-          "settings": {
-            "icon_name": "award",
-            "title": "CUSTOM PATCH CREATION",
-            "content": ""
-          }
-        },
-        "75db96cc-86a9-40c4-bc67-4183e4061855": {
-          "type": "text",
-          "settings": {
-            "icon_name": "target",
-            "title": "SCREENPRINTING & EMBROIDERY",
-            "content": ""
-          }
-        },
-        "0df12e80-9627-48ac-ad71-7713c7f3f6de": {
-          "type": "text",
-          "settings": {
-            "icon_name": "sync",
-            "title": "BRAND PARTNERSHIPS",
-            "content": ""
-          }
-        },
-        "091a1afb-a15b-43ea-a1b7-09d5c4a300a8": {
-          "type": "text",
-          "settings": {
-            "icon_name": "camera",
-            "title": "POST-PRODUCTION CROSS PROMOTION",
-            "content": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--19973214077209__bee35dc6-adb3-44e2-a2a6-aa21f7a5aab6-1689657522cc42202f-0",
-        "template--19973214077209__bee35dc6-adb3-44e2-a2a6-aa21f7a5aab6-1689657522cc42202f-1",
-        "template--19973214077209__bee35dc6-adb3-44e2-a2a6-aa21f7a5aab6-1689657522cc42202f-2",
-        "75db96cc-86a9-40c4-bc67-4183e4061855",
-        "0df12e80-9627-48ac-ad71-7713c7f3f6de",
-        "091a1afb-a15b-43ea-a1b7-09d5c4a300a8"
-      ],
-      "settings": {
-        "alignment": "center",
-        "icons_width": 45,
-        "bg_color": "#efefef",
-        "text_color": "#333333"
-      }
-    },
-    "a488e100-ad32-4237-a96c-fb6a2c68ad2e": {
-      "type": "section-rich-text",
-      "settings": {
-        "text_position": "center",
-        "top_image_width": 100,
-        "subheading": "",
-        "heading": "BACKGROUND",
-        "text": "<p>Standard Issue is created and developed by 1981 MFG, a vertically owned manufacturing facility based out of Vernon, CA. From design to production to packaging, 1981 MFG is a full service solution to wholesaling and custom apparel design. Upgrade your merch and get the same quality garments and innovative designs from Standard Issue - customized to your needs. <\/p><p>The benefit of working with 1981 MFG doesn’t stop at quality apparel - because we have an established brand in the apparel space, we can also cross promote any projects that will be sold to the masses.<\/p>",
-        "button_text": "",
-        "button_url": "",
-        "button_style": "primary",
-        "secondary_button_text": "",
-        "secondary_button_url": "",
-        "secondary_button_style": "secondary",
-        "bg_color": ""
-      }
-    },
     "2f105277-17a2-42ab-9862-3a28e1ae200b": {
       "type": "section-rich-text",
       "settings": {
@@ -233,7 +132,7 @@
         "secondary_button_text": "",
         "secondary_button_url": "",
         "secondary_button_style": "secondary",
-        "bg_color": ""
+        "bg_color": "#cccccc"
       }
     },
     "992a5599-291e-4a6b-9faf-653fbfd3500b": {
@@ -312,6 +211,107 @@
         "duration": 4,
         "transition": "slide"
       }
+    },
+    "a488e100-ad32-4237-a96c-fb6a2c68ad2e": {
+      "type": "section-rich-text",
+      "settings": {
+        "text_position": "center",
+        "top_image_width": 100,
+        "subheading": "HOW WE'RE ABLE TO DO IT",
+        "heading": "The Start of 1981 MFG",
+        "text": "<p>Standard Issue is created and developed by 1981 MFG, a vertically owned manufacturing facility based out of Vernon, CA. From design to production to packaging, 1981 MFG is a full service solution to wholesaling and custom apparel design. Upgrade your merch and get the same quality garments and innovative designs from Standard Issue - customized to your needs. <\/p><p>The benefit of working with 1981 MFG doesn’t stop at quality apparel - because we have an established brand in the apparel space, we can also cross promote any projects that will be sold to the masses.<\/p>",
+        "button_text": "",
+        "button_url": "",
+        "button_style": "primary",
+        "secondary_button_text": "",
+        "secondary_button_url": "",
+        "secondary_button_style": "secondary",
+        "bg_color": ""
+      }
+    },
+    "a7550ab0-75a5-4916-bd8a-4937b7e7f0c7": {
+      "type": "section-rich-text",
+      "settings": {
+        "text_position": "center",
+        "top_image_width": 100,
+        "subheading": "what we can do for you",
+        "heading": "IF YOU THINK IT, WE CAN PROBABLY CREATE IT",
+        "text": "<p>We provide a full-service custom apparel program to your company that allows you to be as hands-on or hands-off as you’d like. Here's some of the services we provide <strong>but are not limited t<\/strong>o:<\/p>",
+        "button_text": "",
+        "button_url": "",
+        "button_style": "primary",
+        "secondary_button_text": "",
+        "secondary_button_url": "",
+        "secondary_button_style": "secondary",
+        "bg_color": "#efefef"
+      }
+    },
+    "bee35dc6-adb3-44e2-a2a6-aa21f7a5aab6": {
+      "type": "section-icons-row",
+      "blocks": {
+        "template--19973214077209__bee35dc6-adb3-44e2-a2a6-aa21f7a5aab6-1689657522cc42202f-0": {
+          "type": "text",
+          "settings": {
+            "icon_name": "eye",
+            "title": "CUSTOM BRANDED APPAREL DESIGN",
+            "content": ""
+          }
+        },
+        "template--19973214077209__bee35dc6-adb3-44e2-a2a6-aa21f7a5aab6-1689657522cc42202f-1": {
+          "type": "text",
+          "settings": {
+            "icon_name": "fruits",
+            "title": "CUSTOM DYE SOURCING & APPLICATION",
+            "content": ""
+          }
+        },
+        "template--19973214077209__bee35dc6-adb3-44e2-a2a6-aa21f7a5aab6-1689657522cc42202f-2": {
+          "type": "text",
+          "settings": {
+            "icon_name": "award",
+            "title": "CUSTOM PATCH CREATION",
+            "content": ""
+          }
+        },
+        "75db96cc-86a9-40c4-bc67-4183e4061855": {
+          "type": "text",
+          "settings": {
+            "icon_name": "target",
+            "title": "SCREENPRINTING & EMBROIDERY",
+            "content": ""
+          }
+        },
+        "0df12e80-9627-48ac-ad71-7713c7f3f6de": {
+          "type": "text",
+          "settings": {
+            "icon_name": "sync",
+            "title": "BRAND PARTNERSHIPS",
+            "content": ""
+          }
+        },
+        "091a1afb-a15b-43ea-a1b7-09d5c4a300a8": {
+          "type": "text",
+          "settings": {
+            "icon_name": "camera",
+            "title": "POST-PRODUCTION CROSS PROMOTION",
+            "content": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19973214077209__bee35dc6-adb3-44e2-a2a6-aa21f7a5aab6-1689657522cc42202f-0",
+        "template--19973214077209__bee35dc6-adb3-44e2-a2a6-aa21f7a5aab6-1689657522cc42202f-1",
+        "template--19973214077209__bee35dc6-adb3-44e2-a2a6-aa21f7a5aab6-1689657522cc42202f-2",
+        "75db96cc-86a9-40c4-bc67-4183e4061855",
+        "0df12e80-9627-48ac-ad71-7713c7f3f6de",
+        "091a1afb-a15b-43ea-a1b7-09d5c4a300a8"
+      ],
+      "settings": {
+        "alignment": "center",
+        "icons_width": 45,
+        "bg_color": "#efefef",
+        "text_color": "#333333"
+      }
     }
   },
   "order": [
@@ -319,10 +319,10 @@
     "ad7561a4-e77a-4f91-85d2-e8520e67cc29",
     "89b8bb4d-6de2-4960-a732-36753611873b",
     "17038098192e46b1c5",
-    "a7550ab0-75a5-4916-bd8a-4937b7e7f0c7",
-    "bee35dc6-adb3-44e2-a2a6-aa21f7a5aab6",
-    "a488e100-ad32-4237-a96c-fb6a2c68ad2e",
     "2f105277-17a2-42ab-9862-3a28e1ae200b",
-    "992a5599-291e-4a6b-9faf-653fbfd3500b"
+    "992a5599-291e-4a6b-9faf-653fbfd3500b",
+    "a488e100-ad32-4237-a96c-fb6a2c68ad2e",
+    "a7550ab0-75a5-4916-bd8a-4937b7e7f0c7",
+    "bee35dc6-adb3-44e2-a2a6-aa21f7a5aab6"
   ]
 }
