@@ -74,7 +74,7 @@
         "01f9c6cc-647b-45b1-b898-e502e4af4fbb"
       ],
       "settings": {
-        "slide_height": "one-hundred-height-hero",
+        "slide_height": "original-height",
         "content_alignment": "center",
         "show_nav_dots": true,
         "show_nav_arrows": true,
