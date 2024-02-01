@@ -3,6 +3,26 @@
     "slideshow": {
       "type": "section-slideshow",
       "blocks": {
+        "0166d0c2-ed55-4ebf-bd49-ac558e543976": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2-1_Blue_Tweed_Slacker-_Desktop_Banner.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/2-1_Blue_Tweed_Slacker-_Mobile_Banner.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 20,
+            "text_color": "text-light",
+            "title": "Woven Tweed Slacker Pant",
+            "slide_subheading": "For those new to Standard Issue, \"slacker\" our way of saying comfort. As in the comfort you'll enjoy doing any and everything in your slacker pants...",
+            "slide_btn_text": "Shop Now",
+            "slide_btn_link": "shopify:\/\/collections\/slacker-pant",
+            "slide_btn_style": "primary",
+            "slide_btn_text_2": "",
+            "slide_btn_link_2": "",
+            "slide_btn_style_2": "secondary",
+            "video_btn_text": "",
+            "video_btn_link": ""
+          }
+        },
         "image_DtMwyX": {
           "type": "image",
           "disabled": true,
@@ -66,6 +86,7 @@
         },
         "image_TiP6mp": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/Untitled_design_40_copy.png",
             "image_mobile": "shopify:\/\/shop_images\/Untitled_design_40.png",
@@ -76,26 +97,6 @@
             "slide_subheading": "We built some wool slackers so you look great and be warm doing so. Yellow speckled wool, and a rerelease of our classic plaid.",
             "slide_btn_text": "Shop Now",
             "slide_btn_link": "shopify:\/\/collections\/new-arrivals",
-            "slide_btn_style": "primary",
-            "slide_btn_text_2": "",
-            "slide_btn_link_2": "",
-            "slide_btn_style_2": "secondary",
-            "video_btn_text": "",
-            "video_btn_link": ""
-          }
-        },
-        "0166d0c2-ed55-4ebf-bd49-ac558e543976": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Untitled_design_39.png",
-            "image_mobile": "shopify:\/\/shop_images\/Untitled_design_38.png",
-            "bg_position": "center-center",
-            "overlay_opacity": 20,
-            "text_color": "text-light",
-            "title": "New year. New slackers.",
-            "slide_subheading": "For those new to Standard Issue, \"slacker\" our way of saying comfort. As in the comfort you'll enjoy doing any and everything in your slacker pants...",
-            "slide_btn_text": "Shop Now",
-            "slide_btn_link": "shopify:\/\/collections\/slacker-pant",
             "slide_btn_style": "primary",
             "slide_btn_text_2": "",
             "slide_btn_link_2": "",
@@ -189,11 +190,11 @@
         }
       },
       "block_order": [
+        "0166d0c2-ed55-4ebf-bd49-ac558e543976",
         "image_DtMwyX",
         "image_aJ76gV",
         "image_GGnLRB",
         "image_TiP6mp",
-        "0166d0c2-ed55-4ebf-bd49-ac558e543976",
         "bc72de2c-d081-4b79-919c-25658c205460",
         "6d024fb3-ec4c-4c25-9bc0-ed743d45f085",
         "1bf7bc95-0e19-4a75-9ead-8cd2ee710ffc",
