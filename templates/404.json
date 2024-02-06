@@ -1,1 +1,83 @@
-{"sections":{"main":{"type":"404","settings":{}}},"order":["main"]}
+{
+  "sections": {
+    "main": {
+      "type": "404",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "section_faq_D7nRPc": {
+      "type": "section-faq",
+      "blocks": {
+        "item_UHKz96": {
+          "type": "item",
+          "settings": {
+            "title": "What size should I get?",
+            "answer": "<p>We recommend you look at our height and weight sizing guide for your ideal size. Please note that our products are configured with a relaxed fit in mind. <a href=\"https:\/\/standardissuetees.com\/pages\/sizing-guide\"><span style=\"text-decoration:underline\">https:\/\/standardissuetees.com\/pages\/sizing-guide<\/span><\/a><\/p>"
+          }
+        },
+        "item_rGFNWg": {
+          "type": "item",
+          "settings": {
+            "title": "What do I do if I input the wrong address?",
+            "answer": "<p>Please reach out to us through our contact form with your order number. If we catch your shipment before it gets out we’ll update the correct address on our end. If your shipment leaves before you contact us we will need to start an exchange process. <a href=\"https:\/\/standardissuetees.com\/pages\/contact\"><span style=\"text-decoration:underline\">https:\/\/standardissuetees.com\/pages\/contact<\/span><\/a><\/p>"
+          }
+        },
+        "item_qn63wi": {
+          "type": "item",
+          "settings": {
+            "title": "When are you restocking?",
+            "answer": "<p>Sign up for our email and text notifications to get the latest on resstocks and new releases. <\/p>"
+          }
+        },
+        "item_YtWeRz": {
+          "type": "item",
+          "settings": {
+            "title": "I forgot to add my discount code, what should I do?",
+            "answer": "<p>Please reach out to us through our contact form with your order number. <a href=\"https:\/\/standardissuetees.com\/pages\/contact\"><span style=\"text-decoration:underline\">https:\/\/standardissuetees.com\/pages\/contact<\/span><\/a><\/p>"
+          }
+        },
+        "item_JrbNYH": {
+          "type": "item",
+          "settings": {
+            "title": "What is your return policy?",
+            "answer": "<p>Please visit our shipping\/ returns\/ exchanges page for more details: <a href=\"https:\/\/standardissuetees.com\/pages\/returns-exchanges-2\"><span style=\"text-decoration:underline\">https:\/\/standardissuetees.com\/pages\/returns-exchanges-2<\/span><\/a><\/p>"
+          }
+        },
+        "item_XGfAd9": {
+          "type": "item",
+          "settings": {
+            "title": "How much does shipping cost?",
+            "answer": "<ul><li>Economy ground shipping is free on orders over $250 (US Only) and $5 flat rate economy ground on all orders under $250 (US Only). <\/li><li>International shipping rates are based on location and vary. Taxes and duties are the customer's responsibility. <\/li><\/ul>"
+          }
+        },
+        "item_t6ctKr": {
+          "type": "item",
+          "settings": {
+            "title": "Do you ship internationally?",
+            "answer": "<p>Yes - only selected countries. If we don’t pop on the checkout, unfortunately we do not ship to your location.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_UHKz96",
+        "item_rGFNWg",
+        "item_qn63wi",
+        "item_YtWeRz",
+        "item_JrbNYH",
+        "item_XGfAd9",
+        "item_t6ctKr"
+      ],
+      "settings": {
+        "title": "FAQ",
+        "subheading": "Most frequently asked questions",
+        "text": "",
+        "bg_color": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "section_faq_D7nRPc"
+  ]
+}
