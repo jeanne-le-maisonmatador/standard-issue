@@ -48,7 +48,7 @@
         "item_BtAT9e": {
           "type": "item",
           "settings": {
-            "title": "Do you ship internationally?",
+            "title": "Frequently Asked Questions",
             "answer": "<p>Yes - only selected countries. If we don’t pop on the checkout, unfortunately we do not ship to your location. <\/p>"
           }
         }
