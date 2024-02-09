@@ -1,1 +1,51 @@
-{"sections":{"faq":{"type":"section-faq","blocks":{"faq-0":{"type":"item","settings":{}},"faq-1":{"type":"item","settings":{}},"faq-2":{"type":"item","settings":{}}},"block_order":["faq-0","faq-1","faq-2"],"settings":{}},"main":{"type":"main-page","settings":{"show_page_title":false}}},"order":["faq","main"]}
+{
+  "sections": {
+    "faq": {
+      "type": "section-faq",
+      "blocks": {
+        "faq-0": {
+          "type": "item",
+          "settings": {
+            "title": "What size should I get?",
+            "answer": "<p>We recommend you look at our height and weight sizing guide for your ideal size. Please note that our products are configured with a relaxed fit in mind. <a href=\"https:\/\/standardissuetees.com\/pages\/sizing-guide\"><span style=\"text-decoration:underline\">https:\/\/standardissuetees.com\/pages\/sizing-guide<\/span><\/a><\/p>"
+          }
+        },
+        "faq-1": {
+          "type": "item",
+          "settings": {
+            "title": "What do I do if I input the wrong address?",
+            "answer": "<p>Please reach out to us through our contact form with your order number. If we catch your shipment before it gets out we’ll update the correct address on our end. If your shipment leaves before you contact us we will need to start an exchange process. <a href=\"https:\/\/standardissuetees.com\/pages\/contact\"><span style=\"text-decoration:underline\">https:\/\/standardissuetees.com\/pages\/contact<\/span><\/a><\/p>"
+          }
+        },
+        "faq-2": {
+          "type": "item",
+          "settings": {
+            "title": "When are you restocking?",
+            "answer": "<p>Sign up for our email and text notifications to get the latest on resstocks and new releases. <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "faq-0",
+        "faq-1",
+        "faq-2"
+      ],
+      "settings": {
+        "title": "FAQ",
+        "subheading": "Questions and answers",
+        "text": "",
+        "bg_color": ""
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "show_page_title": false
+      }
+    }
+  },
+  "order": [
+    "faq",
+    "main"
+  ]
+}
