@@ -144,61 +144,20 @@
             "video_btn_link": ""
           }
         },
-        "image_TiP6mp": {
+        "image_cmLXAd": {
           "type": "image",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/Untitled_design_40_copy.png",
-            "image_mobile": "shopify:\/\/shop_images\/Untitled_design_40.png",
+            "image": "shopify:\/\/shop_images\/2-20_SS_VS_Desk_Banner.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/2-20_SS_VS_Mobile_Banner.png",
             "bg_position": "center-center",
             "overlay_opacity": 20,
             "text_color": "text-light",
-            "title": "Thick Wool Slacker Pants Out Now",
-            "slide_subheading": "We built some wool slackers so you look great and be warm doing so. Yellow speckled wool, and a rerelease of our classic plaid.",
+            "title": "More Sashiko Slacker: Vtg Black & Slate",
+            "slide_subheading": "We're psyched to follow up last week's antler release in these vintage black and slate color ways of the Sashiko Slackers. Now available in the web shop.",
             "slide_btn_text": "Shop Now",
             "slide_btn_link": "shopify:\/\/collections\/new-arrivals",
-            "slide_btn_style": "primary",
-            "slide_btn_text_2": "",
-            "slide_btn_link_2": "",
-            "slide_btn_style_2": "secondary",
-            "video_btn_text": "",
-            "video_btn_link": ""
-          }
-        },
-        "bc72de2c-d081-4b79-919c-25658c205460": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Untitled_design_35.png",
-            "image_mobile": "shopify:\/\/shop_images\/Untitled_design_36.png",
-            "bg_position": "center-center",
-            "overlay_opacity": 20,
-            "text_color": "text-light",
-            "title": "Introducing the Standard Puffer vest",
-            "slide_subheading": "This vest features two deep front pockets, snap buttons along the front, and a mock neck collar.\nWe know we gotta get our weight up to fight the elements so this beaut weights 136 gsm. Now available in Royal blue, black, dusty pink, and hot pink.",
-            "slide_btn_text": "Shop Now",
-            "slide_btn_link": "shopify:\/\/collections\/puffer-vest",
-            "slide_btn_style": "primary",
-            "slide_btn_text_2": "",
-            "slide_btn_link_2": "shopify:\/\/collections\/new-arrivals",
-            "slide_btn_style_2": "secondary",
-            "video_btn_text": "",
-            "video_btn_link": ""
-          }
-        },
-        "6d024fb3-ec4c-4c25-9bc0-ed743d45f085": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Untitled_design_18.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/Untitled_design_23.png",
-            "bg_position": "center-center",
-            "overlay_opacity": 20,
-            "text_color": "text-light",
-            "title": "Introducing the Parka Jacket",
-            "slide_subheading": "We are excited to announce the introduction of our second offering of Standard Issue outerwear in our Parka jacket.",
-            "slide_btn_text": "Shop Now",
-            "slide_btn_link": "shopify:\/\/collections\/new-arrivals",
-            "slide_btn_style": "primary",
+            "slide_btn_style": "secondary",
             "slide_btn_text_2": "",
             "slide_btn_link_2": "",
             "slide_btn_style_2": "secondary",
@@ -215,9 +174,7 @@
         "image_DtMwyX",
         "image_aJ76gV",
         "image_GGnLRB",
-        "image_TiP6mp",
-        "bc72de2c-d081-4b79-919c-25658c205460",
-        "6d024fb3-ec4c-4c25-9bc0-ed743d45f085"
+        "image_cmLXAd"
       ],
       "settings": {
         "slide_height": "one-hundred-height-hero",
