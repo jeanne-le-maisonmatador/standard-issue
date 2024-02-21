@@ -201,19 +201,6 @@
         "enable_slider": true
       }
     },
-    "featured-collection": {
-      "type": "section-collection",
-      "settings": {
-        "collection": "shop-all",
-        "products_rows": 2,
-        "products_layout": "grid",
-        "show_title": true,
-        "show_collection_button": true,
-        "button_style": "primary",
-        "bg_color": "",
-        "enable_slider": true
-      }
-    },
     "16630869551bcc1acb": {
       "type": "section-product-feature",
       "settings": {
@@ -748,7 +735,6 @@
   "order": [
     "slideshow",
     "299cff84-654c-4452-81f9-9573a2449e03",
-    "featured-collection",
     "16630869551bcc1acb",
     "f29460d5-121b-4bcb-8d71-9e2371f32adf",
     "6dcd1e80-2b07-4941-9f18-001e4aab87d4",
