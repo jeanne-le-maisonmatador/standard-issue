@@ -11,7 +11,7 @@
         "overlay_opacity": 20,
         "bg_color": "",
         "text_color": "light",
-        "enable_slider": true
+        "enable_slider": false
       }
     }
   },
