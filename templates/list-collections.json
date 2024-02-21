@@ -1,1 +1,21 @@
-{"sections":{"main":{"type":"list-collections","settings":{}}},"order":["main"]}
+{
+  "sections": {
+    "main": {
+      "type": "list-collections",
+      "settings": {
+        "layout": "grid",
+        "columns": 2,
+        "title": "Collection List",
+        "button_text": "Shop all",
+        "button_style": "secondary",
+        "overlay_opacity": 20,
+        "bg_color": "",
+        "text_color": "light",
+        "enable_slider": true
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}
