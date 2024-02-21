@@ -1,1 +1,42 @@
-{"sections":{"hero":{"type":"collection-image-with-title","settings":{}},"subcollections":{"type":"subcollections","settings":{}},"main":{"type":"collection","settings":{}}},"order":["hero","subcollections","main"]}
+{
+  "sections": {
+    "hero": {
+      "type": "collection-image-with-title",
+      "settings": {
+        "show_image": true,
+        "banner_height": "normal",
+        "text_position": "center",
+        "text_color": "text-light",
+        "overlay_opacity": 20,
+        "banner_bg_color": "#fafafa"
+      }
+    },
+    "subcollections": {
+      "type": "subcollections",
+      "settings": {
+        "layout": "grid",
+        "image_source": "collection",
+        "image_aspect_ratio": 0.6,
+        "image_overlay_opacity": 0,
+        "image_overlay_color": "#000",
+        "bg_color": "",
+        "text_color": "text-light"
+      }
+    },
+    "main": {
+      "type": "collection",
+      "settings": {
+        "show_breadcrumbs": true,
+        "enable_sorting": true,
+        "enable_filters": false,
+        "filter_mode": "default",
+        "bg_color": ""
+      }
+    }
+  },
+  "order": [
+    "hero",
+    "subcollections",
+    "main"
+  ]
+}
