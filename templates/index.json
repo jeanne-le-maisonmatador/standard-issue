@@ -347,13 +347,14 @@
         "description": "<p>Because our unique and effortless, hefty waffle-knit thermal fabric is too good to only make sweaters. Shop our thermal collection.<\/p>",
         "button_text": "Shop Now",
         "button_link": "shopify:\/\/collections\/thermal-sweater",
-        "button_style": "secondary",
+        "button_style": "primary",
         "video_url": "",
         "bg_color": ""
       }
     },
     "f29460d5-121b-4bcb-8d71-9e2371f32adf": {
       "type": "section-product-feature",
+      "disabled": true,
       "settings": {
         "image_layout": "square",
         "image_position": "inline",
@@ -399,7 +400,7 @@
       "settings": {
         "image_layout": "square",
         "image_position": "inline",
-        "text_position": "left",
+        "text_position": "right",
         "text_alignment": "left",
         "image_1": "shopify:\/\/shop_images\/2packwhiteandblacktee.jpg",
         "image_link_1": "shopify:\/\/collections\/three-pack-tees",
