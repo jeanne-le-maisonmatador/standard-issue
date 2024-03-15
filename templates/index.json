@@ -3,19 +3,19 @@
     "slideshow": {
       "type": "section-slideshow",
       "blocks": {
-        "image_nHXnfW": {
+        "image_aJ76gV": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/2-13_Desktop_Banner_Thin_Thermal.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/2-13_Mobile_Banner_Thin_Thermal.jpg",
+            "image": "shopify:\/\/shop_images\/1-23_Sweatpant_Restock-_Desktop_Banner.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/1-23_Sweatpant_Restock-_Mobile_Banner.jpg",
             "bg_position": "center-center",
             "overlay_opacity": 20,
             "text_color": "text-light",
-            "title": "Lightweight Thermals Are Back",
-            "slide_subheading": "The perfect base layer piece has made its way back to the web shop.",
+            "title": "Sweatpants Restocked For You",
+            "slide_subheading": "Your essentials sweatpants in some of your favorite colors are back...",
             "slide_btn_text": "Shop Now",
-            "slide_btn_link": "shopify:\/\/collections\/tops",
-            "slide_btn_style": "secondary",
+            "slide_btn_link": "shopify:\/\/collections\/standard-sweatpants",
+            "slide_btn_style": "primary",
             "slide_btn_text_2": "",
             "slide_btn_link_2": "",
             "slide_btn_style_2": "secondary",
@@ -25,6 +25,7 @@
         },
         "image_cmLXAd": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/2-20_SS_VS_Desk_Banner.jpg",
             "image_mobile": "shopify:\/\/shop_images\/2-20_SS_VS_Mobile_Banner.png",
@@ -45,6 +46,7 @@
         },
         "image_cNPcMt": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/2-15_Desktop_Banner.jpg",
             "image_mobile": "shopify:\/\/shop_images\/Untitled_design_26_copy.jpg",
@@ -103,6 +105,26 @@
             "video_btn_link": ""
           }
         },
+        "image_nHXnfW": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2-13_Desktop_Banner_Thin_Thermal.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/2-13_Mobile_Banner_Thin_Thermal.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 20,
+            "text_color": "text-light",
+            "title": "Lightweight Thermals Are Back",
+            "slide_subheading": "The perfect base layer piece has made its way back to the web shop.",
+            "slide_btn_text": "Shop Now",
+            "slide_btn_link": "shopify:\/\/collections\/tops",
+            "slide_btn_style": "secondary",
+            "slide_btn_text_2": "",
+            "slide_btn_link_2": "",
+            "slide_btn_style_2": "secondary",
+            "video_btn_text": "",
+            "video_btn_link": ""
+          }
+        },
         "image_DtMwyX": {
           "type": "image",
           "disabled": true,
@@ -116,27 +138,6 @@
             "slide_subheading": "Ain't no party like a pattern slacker pant party. No need to RSVP either when you have the houndstooth and\/or striped slacker pants on. Admittance on the site right now..",
             "slide_btn_text": "Shop Now",
             "slide_btn_link": "shopify:\/\/collections\/new-arrivals",
-            "slide_btn_style": "primary",
-            "slide_btn_text_2": "",
-            "slide_btn_link_2": "",
-            "slide_btn_style_2": "secondary",
-            "video_btn_text": "",
-            "video_btn_link": ""
-          }
-        },
-        "image_aJ76gV": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "image": "shopify:\/\/shop_images\/1-23_Sweatpant_Restock-_Desktop_Banner.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/1-23_Sweatpant_Restock-_Mobile_Banner.jpg",
-            "bg_position": "center-center",
-            "overlay_opacity": 20,
-            "text_color": "text-light",
-            "title": "Sweatpants Restocked For You",
-            "slide_subheading": "Your essentials sweatpants in some of your favorite colors are back...",
-            "slide_btn_text": "Shop Now",
-            "slide_btn_link": "shopify:\/\/collections\/standard-sweatpants",
             "slide_btn_style": "primary",
             "slide_btn_text_2": "",
             "slide_btn_link_2": "",
@@ -168,13 +169,13 @@
         }
       },
       "block_order": [
-        "image_nHXnfW",
+        "image_aJ76gV",
         "image_cmLXAd",
         "image_cNPcMt",
         "image_WqLPP6",
         "0166d0c2-ed55-4ebf-bd49-ac558e543976",
+        "image_nHXnfW",
         "image_DtMwyX",
-        "image_aJ76gV",
         "image_GGnLRB"
       ],
       "settings": {
