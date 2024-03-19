@@ -3,6 +3,26 @@
     "slideshow": {
       "type": "section-slideshow",
       "blocks": {
+        "image_F67JHT": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_26.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Untitled_design_26_copy_92ca9c2c-cbc3-4924-b462-7972e860508f.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 20,
+            "text_color": "text-dark",
+            "title": "Biggest Thermal Restock Ever",
+            "slide_subheading": "15 of our most popular colors, back in stock.",
+            "slide_btn_text": "Shop Now",
+            "slide_btn_link": "shopify:\/\/collections\/standard-thermal-sweater",
+            "slide_btn_style": "primary",
+            "slide_btn_text_2": "",
+            "slide_btn_link_2": "",
+            "slide_btn_style_2": "secondary",
+            "video_btn_text": "",
+            "video_btn_link": ""
+          }
+        },
         "image_aJ76gV": {
           "type": "image",
           "settings": {
@@ -169,6 +189,7 @@
         }
       },
       "block_order": [
+        "image_F67JHT",
         "image_aJ76gV",
         "image_cmLXAd",
         "image_cNPcMt",
@@ -192,7 +213,7 @@
     "section_collection_99igWR": {
       "type": "section-collection",
       "settings": {
-        "collection": "standard-sweatpants",
+        "collection": "standard-thermal-sweater",
         "products_rows": 2,
         "products_layout": "grid",
         "show_title": false,
@@ -205,7 +226,7 @@
     "299cff84-654c-4452-81f9-9573a2449e03": {
       "type": "section-collection",
       "settings": {
-        "collection": "slacker-pant",
+        "collection": "standard-sweatpants",
         "products_rows": 2,
         "products_layout": "grid",
         "show_title": true,
