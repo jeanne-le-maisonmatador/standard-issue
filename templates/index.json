@@ -3,6 +3,26 @@
     "slideshow": {
       "type": "section-slideshow",
       "blocks": {
+        "image_WRrj7y": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Eminem_Banner.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Untitled_design_26_b8ac6029-1875-4a00-ab6c-f6eb05ceace9.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 20,
+            "text_color": "text-light",
+            "title": "Eminem x Standard Issue Kamikaze Limited Release",
+            "slide_subheading": "Available now on the web shop for a limited time only.",
+            "slide_btn_text": "Shop Now",
+            "slide_btn_link": "shopify:\/\/collections\/special-collection",
+            "slide_btn_style": "secondary",
+            "slide_btn_text_2": "",
+            "slide_btn_link_2": "",
+            "slide_btn_style_2": "secondary",
+            "video_btn_text": "",
+            "video_btn_link": ""
+          }
+        },
         "image_F67JHT": {
           "type": "image",
           "settings": {
@@ -36,26 +56,6 @@
             "slide_btn_text": "Shop Now",
             "slide_btn_link": "shopify:\/\/collections\/standard-sweatpants",
             "slide_btn_style": "primary",
-            "slide_btn_text_2": "",
-            "slide_btn_link_2": "",
-            "slide_btn_style_2": "secondary",
-            "video_btn_text": "",
-            "video_btn_link": ""
-          }
-        },
-        "image_WRrj7y": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Eminem_Banner.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/Untitled_design_26_b8ac6029-1875-4a00-ab6c-f6eb05ceace9.jpg",
-            "bg_position": "center-center",
-            "overlay_opacity": 20,
-            "text_color": "text-light",
-            "title": "Eminem x Standard Issue Kamikaze Limited Release",
-            "slide_subheading": "Available now on the web shop for a limited time only.",
-            "slide_btn_text": "Shop Now",
-            "slide_btn_link": "shopify:\/\/collections\/special-collection",
-            "slide_btn_style": "secondary",
             "slide_btn_text_2": "",
             "slide_btn_link_2": "",
             "slide_btn_style_2": "secondary",
@@ -212,9 +212,9 @@
         }
       },
       "block_order": [
+        "image_WRrj7y",
         "image_F67JHT",
         "image_aJ76gV",
-        "image_WRrj7y",
         "image_cmLXAd",
         "image_cNPcMt",
         "image_WqLPP6",
