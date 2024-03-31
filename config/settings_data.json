@@ -14,6 +14,7 @@
     "type_base_font": "sans-serif",
     "nav_caps": true,
     "button_caps": false,
+    "products_per_row_on_mobile": "2",
     "product_grid_hover_image": false,
     "product_grid_slideshow": false,
     "product_grid_slideshow_arrows": "black",
