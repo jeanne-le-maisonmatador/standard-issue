@@ -225,6 +225,8 @@
       {{- product.title | strip_html | escape -}}
     </a>
 
+    <div class="loox-rating" data-id="{{ product.id }}" data-rating="{{ product.metafields.loox.avg_rating }}" data-raters="{{ product.metafields.loox.num_reviews }}"></div>
+
     {% comment %} Price {% endcomment %}
     <a class="product-grid-item__price price" href="{{ product.url | within: collection }}">
       {%- if product.price_varies -%}
