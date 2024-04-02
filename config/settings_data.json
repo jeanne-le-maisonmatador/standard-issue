@@ -18,6 +18,7 @@
     "product_grid_hover_image": false,
     "product_grid_slideshow": false,
     "product_grid_slideshow_arrows": "black",
+    "show_rating": false,
     "product_badge_style": "circle",
     "show_quantity": true,
     "enable_variant_boxes": true,
