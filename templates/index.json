@@ -83,69 +83,6 @@
             "video_btn_link": ""
           }
         },
-        "image_cmLXAd": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "image": "shopify:\/\/shop_images\/2-20_SS_VS_Desk_Banner.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/2-20_SS_VS_Mobile_Banner.png",
-            "bg_position": "center-center",
-            "overlay_opacity": 20,
-            "text_color": "text-light",
-            "title": "More Sashiko Slacker: Vtg Black & Slate",
-            "slide_subheading": "We're psyched to follow up last week's antler release in these vintage black and slate color ways of the Sashiko Slackers. Now available in the web shop.",
-            "slide_btn_text": "Shop Now",
-            "slide_btn_link": "shopify:\/\/collections\/new-arrivals",
-            "slide_btn_style": "secondary",
-            "slide_btn_text_2": "",
-            "slide_btn_link_2": "",
-            "slide_btn_style_2": "secondary",
-            "video_btn_text": "",
-            "video_btn_link": ""
-          }
-        },
-        "image_cNPcMt": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "image": "shopify:\/\/shop_images\/2-15_Desktop_Banner.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/Untitled_design_26_copy.jpg",
-            "bg_position": "center-center",
-            "overlay_opacity": 20,
-            "text_color": "text-light",
-            "title": "Sashiko Slackers Are A Must Have",
-            "slide_subheading": "There are certainly some fabrics the slackers bring the best of out and this is one of them. Antler Sashikos. The look is one thing. Feel takes it to another level. Super comfortable. Softer soft. Super stylish.",
-            "slide_btn_text": "Shop Now",
-            "slide_btn_link": "https:\/\/standardissuetees.com\/products\/sashiko-slacker-pant-antler",
-            "slide_btn_style": "secondary",
-            "slide_btn_text_2": "",
-            "slide_btn_link_2": "",
-            "slide_btn_style_2": "secondary",
-            "video_btn_text": "",
-            "video_btn_link": ""
-          }
-        },
-        "image_nHXnfW": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "image": "shopify:\/\/shop_images\/2-13_Desktop_Banner_Thin_Thermal.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/2-13_Mobile_Banner_Thin_Thermal.jpg",
-            "bg_position": "center-center",
-            "overlay_opacity": 20,
-            "text_color": "text-light",
-            "title": "Lightweight Thermals Are Back",
-            "slide_subheading": "The perfect base layer piece has made its way back to the web shop.",
-            "slide_btn_text": "Shop Now",
-            "slide_btn_link": "shopify:\/\/collections\/tops",
-            "slide_btn_style": "secondary",
-            "slide_btn_text_2": "",
-            "slide_btn_link_2": "",
-            "slide_btn_style_2": "secondary",
-            "video_btn_text": "",
-            "video_btn_link": ""
-          }
-        },
         "image_GGnLRB": {
           "type": "image",
           "disabled": true,
@@ -173,9 +110,6 @@
         "image_WRrj7y",
         "image_F67JHT",
         "image_aJ76gV",
-        "image_cmLXAd",
-        "image_cNPcMt",
-        "image_nHXnfW",
         "image_GGnLRB"
       ],
       "settings": {
@@ -192,7 +126,7 @@
     "section_collection_99igWR": {
       "type": "section-collection",
       "settings": {
-        "collection": "jsp-x-bh-x-temple-university-cecil-collection",
+        "collection": "standard-tee",
         "products_rows": 2,
         "products_layout": "grid",
         "show_title": false,
