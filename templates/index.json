@@ -543,6 +543,15 @@
     "featured-blog": {
       "type": "section-blog",
       "blocks": {
+        "article_dQDeGi": {
+          "type": "article",
+          "settings": {
+            "article": "",
+            "product1": "",
+            "product2": "",
+            "product3": ""
+          }
+        },
         "featured-blog-3": {
           "type": "article",
           "settings": {
@@ -650,18 +659,10 @@
             "product2": "",
             "product3": ""
           }
-        },
-        "article_dQDeGi": {
-          "type": "article",
-          "settings": {
-            "article": "",
-            "product1": "",
-            "product2": "",
-            "product3": ""
-          }
         }
       },
       "block_order": [
+        "article_dQDeGi",
         "featured-blog-3",
         "2c4070ee-4082-47b4-90a7-484dfda8188f",
         "839f866e-190e-452d-b328-bec991ecaa19",
@@ -673,8 +674,7 @@
         "62fe2579-4836-4a5c-bca6-db5595700668",
         "featured-blog-0",
         "featured-blog-1",
-        "featured-blog-2",
-        "article_dQDeGi"
+        "featured-blog-2"
       ],
       "settings": {
         "title": "",
