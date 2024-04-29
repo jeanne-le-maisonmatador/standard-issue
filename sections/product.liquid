@@ -1,240 +1,295 @@
 
+{{ 'component-product-color-swatches.css' | asset_url | stylesheet_tag }}
 
+{%- comment -%} /sections/product-template {%- endcomment -%}
+{%- assign bg_color = section.settings.bg_color -%}
 
+{%- if bg_color != 'rgba(0,0,0,0)' and bg_color != '' -%}
+  {%- style -%}
+    #ProductTemplate--{{ section.id }} { background: {{ bg_color }}; }
+    .shop-pay-terms { --payment-terms-background-color: {{ bg_color }} }
+  {%- endstyle -%}
+{%- endif -%}
 
-<!-- /snippets/product-form.liquid -->
-
-{%- liquid
-  assign variants_count = product.variants.size
-  assign enable_color_swatches = settings.enable_color_swatches
-  assign enable_variant_boxes = settings.enable_variant_boxes
-  assign color_label = 'color,colour,couleur,colore,farbe,색,色,färg,farve' | split: ','
-
-  comment
-    Disable quick buy button if there are subscription options for the product
-  endcomment
-
-  if show_payment_button and product.selling_plan_groups.size < 1 and settings.enable_accept_terms == false
-    assign show_payment_button = true
-  else
-    assign show_payment_button = false
-  endif
-
-  comment
-    Check if the product is on sale and set a variable to be used below.
-  endcomment
-
-  assign on_sale = false
-  if product.compare_at_price > product.price
-    assign on_sale = true
-  endif
-
-  comment
-    Check if the product is sold out and set a variable to be used below.
-  endcomment
-
-  assign sold_out = true
-  if current_variant.available
-    assign sold_out = false
-  endif
-
-  comment
-    #addToCartForm is a selector for the Ajax Cart plugin
-  endcomment
-
-  assign product_form_id = "AddToCartForm--" | append: unique
--%}
-
-{%- form 'product', product, class: "product__form product__form--is-loading", data-product-form: '', id: product_form_id, data-enable-button: show_payment_button -%}
-
-  <div class="shop-pay-terms">{{ form | payment_terms }}</div>
-  {%- comment -%}
-    Variants
-  {%- endcomment -%}
-
-{%if enable_color_swatches %}
-  {%render 'product-color-swatches', product: product %}
-{%endif%}
-
-  
-  <div class="variants-wrapper{% unless enable_variant_boxes %} variants-wrapper--grid{% endunless %}">
-    {%- liquid
-      unless product.has_only_default_variant
-        if enable_variant_boxes
-          render 'product-variant-boxes', product: product, color_label: color_label, unique: unique
-        else
-          assign product_options = product.options.size
-
-          for option in product.options_with_values
-            assign downcased_option = option.name | downcase
-            assign is_color = false
-
-            if color_label contains downcased_option
-              assign is_color = true
-            endif
-
-            if is_color
-              capture color_variants
-                echo color_variants
-
-                if enable_color_swatches
-                  render 'product-swatch', index: forloop.index0, product_id: product.id, option: option, downcased_option: downcased_option, color_label: color_label, unique: unique
-                else
-                  render 'product-option', index: forloop.index0, product_id: product.id, option: option, unique: unique
-                endif
-              endcapture
-
-            else
-              capture non_color_variants
-                echo non_color_variants
-
-                render 'product-option', index: forloop.index0, option: option
-              endcapture
-            endif
-          endfor
-
-          echo color_variants
-          echo non_color_variants
-        endif
-      endunless
-
-      for tag in product.tags
-        if tag contains '_preorder'
-          assign preorder = true
-        endif
-      endfor
-    -%}
-
-    {%- if variants_count > 1 -%}
-      <label for="productSelect--{{ unique }}" class="visually-hidden">{{ 'general.accessibility.select_variant' | t }}</label>
-      <select
-        name="id"
-        id="productSelect--{{ unique }}"
-        class="product-single__variants"
-        data-productid="{{ product.id }}"
-        data-product-select>
-        {%- for variant in product.variants -%}
-          {%- if variant.available -%}
-            <option
-              {% if variant == current_variant %} selected="selected" {% endif %}
-              data-sku="{{ variant.sku }}"
-              value="{{ variant.id }}">{{ variant.title | strip_html | escape }} - {{ variant.price | money_with_currency }}</option>
-          {%- else -%}
-            <option disabled="disabled">{{ variant.title | strip_html | escape }} - {{ 'products.product.sold_out' | t }}</option>
-          {%- endif -%}
-        {%- endfor -%}
-      </select>
-    {%- else -%}
-      <input name="id" data-productid="{{ product.id }}" type="hidden" value="{{ current_variant.id }}" data-product-select>
-    {%- endif -%}
-
-    {%- if settings.show_quantity -%}
-      {%- comment -%}
-        Quantity Selector
-      {%- endcomment -%}
-
-    {%- comment -%}
-        Quantity Selector INPUT
-      {%- endcomment -%}
-    <div class="quantity-wrapper{% if enable_variant_boxes %} quantity-wrapper--half{% endif %}">
-  <div class="popout quantityInput" data-popout-option>
-    <label for="quantity-input" class="quantity__text quantity_input_text">{{ 'products.product.quantity' | t }}:</label>
-    <input type="number" id="quantity-input" name="quantity" value="1" min="1" max="10" pattern="[0-9]*" class="popout__toggle-value" data-popout-text data-quantity-select>
+<section id="ProductTemplate--{{ section.id }}"
+  class="product-single"
+  data-section-type="product-template"
+  data-section-id="{{ section.id }}">
+  <div class="wrapper">
+    {%- render 'product' section: section, unique: section.id -%}
   </div>
+</section>
 
-  <button type="button" class="quantity__btn visually-hidden quantity__btn--decrease" data-quantity-button>
-    <span class="visually-hidden">{{ 'general.accessibility.decrease' | t }}</span>
-    {%- render 'icon-minus' -%}
-  </button>
+{%- assign current_variant = product.selected_or_first_available_variant -%}
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org/",
+  "@type": "Product",
+  "name": {{ product.title | strip_html | json }},
+  "url": {{ shop.url | append: product.url | json }},
+  {%- if product.featured_media -%}
+    {%- assign media_size = product.featured_media.preview_image.width | append: 'x' -%}
+    "image": [
+      {{ product.featured_media | img_url: media_size | prepend: "https:" | json }}
+    ],
+  {%- endif -%}
+  "description": {{ product.description | strip_html | json }},
+  {%- if current_variant.sku != blank -%}
+    "sku": {{ current_variant.sku | json }},
+  {%- endif -%}
+  "brand": {
+    "@type": "Thing",
+    "name": {{ product.vendor | json }}
+  },
+  {%- if current_variant.barcode -%}
+    "gtin8": "{{ product.variants.first.barcode }}",
+  {%- endif -%}
+  {%- if current_variant.barcode.size == 12 -%}
+    "gtin12": "{{ product.variants.first.barcode }}",
+  {%- endif -%}
+  {%- if current_variant.barcode.size == 13 -%}
+    "gtin13": "{{ product.variants.first.barcode }}",
+  {%- endif -%}
+  {%- if current_variant.barcode.size == 14 -%}
+    "gtin14": "{{ product.variants.first.barcode }}",
+  {%- endif -%}
+  "offers": [
+    {%- for variant in product.variants -%}
+      {
+        "@type" : "Offer",
+        {%- if variant.sku != blank -%}
+          "sku": {{ variant.sku | json }},
+        {%- endif -%}
+        "availability" : "http://schema.org/{% if product.available %}InStock{% else %}OutOfStock{% endif %}",
+        "price" : {{ variant.price | divided_by: 100.00 | json }},
+        "priceCurrency" : {{ cart.currency.iso_code | json }},
+        "url" : {{ shop.url | append: variant.url | json }}
+      }{% unless forloop.last %},{% endunless %}
+    {%- endfor -%}
+  ]
+}
+</script>
 
-  <button type="button" class="quantity__btn visually-hidden quantity__btn--increase" data-quantity-button>
-    <span class="visually-hidden">{{ 'general.accessibility.increase' | t }}</span>
-    {%- render 'icon-plus' -%}
-  </button>
-</div>
-
-
- {%- comment -%}
-        Quantity Selector DROPDOWN
-
-      <div class="quantity-wrapper{% if enable_variant_boxes %} quantity-wrapper--half{% endif %}">
-        <div class="popout" data-popout-option>
-          <button type="button" class="popout__toggle popout__toggle--product option__select" aria-expanded="false" aria-controls="lang-list" aria-describedby="lang-heading" data-popout-toggle data-popout-quantity>
-            <span class="quantity__text">{{ 'products.product.quantity' | t }}: </span>
-
-            <span class="popout__toggle-value" data-popout-text data-quantity-select>1</span>
-
-            {%- render 'icon-arrow' -%}
-          </button>
-
-          <ul id="option-list" class="popout-list popout-list-option popout-list--product" data-popout-list>
-            {%- for qty_num in (1..10) -%}
-              <li class="popout-list__item" data-popout-item>
-                <a class="popout-list__option popout-list__option--product" href="#" data-value="{{ qty_num }}" data-popout-option>
-                  <span>
-                    {{- qty_num -}}
-                    {%- if forloop.last -%}+{%- endif-%}
-                  </span>
-                </a>
-              </li>
-            {%- endfor -%}
-          </ul>
-
-          <button type="button" class="quantity__btn visually-hidden quantity__btn--decrease" data-quantity-button>
-            <span class="visually-hidden">{{ 'general.accessibility.decrease' | t }}</span>
-            {%- render 'icon-minus' -%}
-          </button>
-
-          <input type="hidden" name="quantity" value="1" min="1" pattern="[0-9]*" class="quantity__selector quantity__input" data-popout-input data-quantity-input/>
-
-          <button type="button" class="quantity__btn visually-hidden quantity__btn--increase" data-quantity-button>
-            <span class="visually-hidden">{{ 'general.accessibility.increase' | t }}</span>
-            {%- render 'icon-plus' -%}
-          </button>
-
-        </div>
-
-        <noscript>
-          <label for="quantity--{{ unique }}">{{ 'products.product.quantity' | t }}</label>
-          <input type="number" name="quantity" id="quantity--{{ unique }}" value="1" min="1">
-        </noscript>
-      </div>
-
-                    {%- endcomment -%}
-
-      <div class="buttons-grid buttons-grid--half">
-      
-      <button type="submit" name="add" id="AddToCart--{{ unique }}" class="btn btn--submit"{% if sold_out %} disabled{% endif %} data-add-to-cart>
-        <span id="AddToCartText" data-add-to-cart-text>
-          {%- if sold_out -%}
-            {{- 'products.product.sold_out' | t -}}
-          {%- elsif preorder -%}
-            {{- 'products.product.preorder' | t -}}
-          {%- else -%}
-            {{- 'products.product.add_to_cart' | t -}}
-          {%- endif -%}
-        </span>
-        {%- render 'icon-loading' -%}
-      </button>
-    </div>
-  
-    {%- else -%}
-      <input type="hidden" name="quantity" value="1">
-    {%- endif -%}
-    
-  </div>
-
-  {%- comment -%}
-    Buttons
-  {%- endcomment -%}
-  {% if show_payment_button %}
-  <div class="buttons-grid ">
-   
-    {%- if show_payment_button -%}
-      <div data-payment-button="{{ section.settings.show_payment_button }}" data-quickview-payment-button="{{ settings.show_payment_button }}">
-        {{- form | payment_button -}}
-      </div>
-    {%- endif -%}
-  </div>
-{% endif %}
-{%- endform -%}
+{% schema %}
+{
+  "name": "Product pages",
+  "class": "shopify-section--product",
+  "settings": [
+    {
+      "type": "header",
+      "content": "Layout"
+    },
+    {
+      "type": "select",
+      "id": "image_gallery",
+      "label": "Image gallery",
+      "options": [
+        {
+          "value": "none",
+          "label": "None"
+        },
+        {
+          "value": "zoom",
+          "label": "Hover to zoom"
+        },
+        {
+          "value": "lightbox",
+          "label": "Lightbox"
+        }
+      ],
+      "default": "zoom"
+    },
+    {
+      "type": "header",
+      "content": "Media",
+      "info": "Learn more about [media types](https://help.shopify.com/manual/products/product-media)"
+    },
+    {
+      "type": "checkbox",
+      "id": "enable_video_looping",
+      "label": "Enable video looping",
+      "default": false
+    },
+    {
+      "type": "header",
+      "content": "Colors"
+    },
+    {
+      "type": "color",
+      "id": "bg_color",
+      "label": "Background"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "@app"
+    },
+    {
+      "type": "title",
+      "name": "Title and price",
+      "limit": 1,
+      "settings": [
+        {
+          "type": "select",
+          "id": "subheading",
+          "label": "Navigation",
+          "default": "breadcrumbs",
+          "options": [
+            { "value": "none", "label": "None" },
+            { "value": "breadcrumbs", "label": "Breadcrumbs" },
+            { "value": "collection", "label": "Collection" },
+            { "value": "vendor", "label": "Vendor" }
+          ]
+        },
+        {
+          "type": "header",
+          "content": "Star rating",
+          "info": "Requires an app to set the metafield value for reviews.rating"
+        },
+        {
+          "type": "checkbox",
+          "id": "show_rating",
+          "label": "Show star rating",
+          "default": true
+        },
+        {
+          "type": "checkbox",
+          "id": "show_rating_count",
+          "label": "Show rating count",
+          "default": false
+        }
+      ]
+    },
+    {
+      "name": "Form",
+      "type": "form",
+      "limit": 1,
+      "settings": [
+        {
+          "type": "header",
+          "content": "Form elements"
+        },
+        {
+          "type": "checkbox",
+          "id": "show_payment_button",
+          "label": "Show dynamic checkout button",
+          "info": "Lets customers check out directly using a familiar payment method. [Learn more](https://help.shopify.com/manual/using-themes/change-the-layout/dynamic-checkout)",
+          "default": true
+        },
+        {
+          "type": "header",
+          "content": "Subscriptions",
+          "info": "Learn more about [subscriptions](https://help.shopify.com/en/manual/products/subscriptions)"
+        }
+      ]
+    },
+    {
+      "name": "Product description",
+      "type": "description",
+      "settings": [
+        {
+          "type": "header",
+          "content": "Tabs"
+        },
+        {
+          "type": "paragraph",
+          "content": "You have the option to enable three extra tabs for more information on your product."
+        },
+        {
+          "type": "select",
+          "id": "tabs_style",
+          "label": "Tabs style",
+          "default": "accordions",
+          "options": [
+            { "label": "Accordions", "value": "accordions" },
+            { "label": "Disable tabs", "value": "tabs_disabled" }
+          ]
+        },
+        {
+          "type": "text",
+          "id": "tab_title_1",
+          "label": "Tab heading",
+          "default": "Tab"
+        },
+        {
+          "type": "richtext",
+          "id": "tab_content_1",
+          "label": "Tab text",
+          "default": "<p>This content type will accept <strong>rich text</strong> to help with adding styles and links to additional pages or content. Use this to add supplementary information to help your buyers.</p>"
+        },
+        {
+          "type": "text",
+          "id": "tab_title_2",
+          "label": "Tab heading",
+          "default": "Info"
+        },
+        {
+          "type": "richtext",
+          "id": "tab_content_2",
+          "label": "Tab text",
+          "default": "<p>You can use product metafields to assign content to this tab that is unique to an individual product.  Use tabs to highlight unique features, sizing information, or other sales information.</p>"
+        },
+        {
+          "type": "text",
+          "id": "tab_title_3",
+          "label": "Tab heading"
+        },
+        {
+          "type": "richtext",
+          "id": "tab_content_3",
+          "label": "Tab text"
+        },
+        {
+          "type": "text",
+          "id": "tab_title_4",
+          "label": "Tab heading"
+        },
+        {
+          "type": "richtext",
+          "id": "tab_content_4",
+          "label": "Tab text"
+        },
+        {
+          "type": "text",
+          "id": "tab_title_5",
+          "label": "Tab heading"
+        },
+        {
+          "type": "richtext",
+          "id": "tab_content_5",
+          "label": "Tab text"
+        }
+      ],
+      "limit": 1
+    },
+    {
+      "name": "Social sharing",
+      "type": "social-sharing",
+      "limit": 1
+    },
+    {
+      "name": "Pickup availability",
+      "type": "pickup-availability",
+      "limit": 1,
+      "settings": [
+        {
+          "type": "paragraph",
+          "content": "Show customers where they can pick up the product. [Learn more](https://help.shopify.com/en/manual/shipping/setting-up-and-managing-your-shipping/local-methods/local-pickup#show-pickup-availability-to-your-customers)"
+        }
+      ]
+    },
+    {
+      "name": "Custom Liquid",
+      "type": "custom_liquid",
+      "settings": [
+        {
+          "type": "liquid",
+          "id": "custom_liquid",
+          "label": "Custom liquid",
+          "info": "Add app snippets or other Liquid code to create advanced customizations."
+        }
+      ]
+    }
+  ]
+}
+{% endschema %}
