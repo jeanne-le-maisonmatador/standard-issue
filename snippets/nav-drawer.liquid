@@ -36,6 +36,33 @@
 	</div>
 
 	{%- comment -%} Mobile Navigation {%- endcomment -%}
+
+
+{%- if shop.customer_accounts_enabled or section.settings.show_search -%}
+		<ul class="mobile-nav mobile-nav--bottom login-create-account">
+			{%- if shop.customer_accounts_enabled -%}
+				{%- if customer -%}
+					<li class="mobile-nav__item"><a href="{{ routes.account_url }}" class="mobile-nav__link mobile-nav__link--small">{{ 'customer.account.title' | t }}</a></li>
+					<li class="mobile-nav__item"><a href="{{ routes.account_logout_url }}" class="mobile-nav__link mobile-nav__link--small">{{ 'layout.customer.log_out' | t }}</a></li>
+				{%- else -%}
+                     <li class="mobile-nav__item"><a href="{{ routes.account_register_url }}" class="mobile-nav__link mobile-nav__link--small" id="customer_register_link">{{ 'layout.customer.create_account' | t }}</a></li>
+					<li class="mobile-nav__item"><a href="{{ routes.account_login_url }}" class="mobile-nav__link mobile-nav__link--small" id="customer_login_link">{{ 'layout.customer.log_in' | t }}</a></li>
+				{%- endif -%}
+			{%- endif -%}
+		</ul>
+  		{%- if section.settings.show_search -%}
+			{% # <li class="mobile-nav__item"> %}
+              <a href="{{ routes.search_url }}" class="mobile-nav__link mobile-nav__link--small mobile-search-flex">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="25" height="25">
+                         <path d="M0 0h24v24H0z" fill="none"/>
+                         <path d="M15.5 14h-.79l-.28-.27a6.5 6.5 0 0 0 1.48-5.34c-.47-2.78-2.79-5-5.59-5.34a6.505 6.505 0 0 0-7.27 7.27c.34 2.8 2.56 5.12 5.34 5.59a6.5 6.5 0 0 0 5.34-1.48l.27.28v.79l4.25 4.25c.41.41 1.08.41 1.49 0 .41-.41.41-1.08 0-1.49L15.5 14zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/>
+                </svg>
+                {{ 'layout.navigation.search' | t }}
+              </a>
+            {% #</li> %}
+		{%- endif -%}
+	{%- endif -%}
+  
 	<ul class="mobile-nav">
 		{%- for link in linklists[section.settings.main-menu].links -%}
 			{%- if link.links != blank -%}
@@ -84,21 +111,4 @@
 		{%- endfor -%}
 	</ul>
 
-	{%- if shop.customer_accounts_enabled or section.settings.show_search -%}
-		<ul class="mobile-nav mobile-nav--bottom">
-			{%- if shop.customer_accounts_enabled -%}
-				{%- if customer -%}
-					<li class="mobile-nav__item"><a href="{{ routes.account_url }}" class="mobile-nav__link mobile-nav__link--small">{{ 'customer.account.title' | t }}</a></li>
-					<li class="mobile-nav__item"><a href="{{ routes.account_logout_url }}" class="mobile-nav__link mobile-nav__link--small">{{ 'layout.customer.log_out' | t }}</a></li>
-				{%- else -%}
-					<li class="mobile-nav__item"><a href="{{ routes.account_login_url }}" class="mobile-nav__link mobile-nav__link--small" id="customer_login_link">{{ 'layout.customer.log_in' | t }}</a></li>
-					<li class="mobile-nav__item"><a href="{{ routes.account_register_url }}" class="mobile-nav__link mobile-nav__link--small" id="customer_register_link">{{ 'layout.customer.create_account' | t }}</a></li>
-				{%- endif -%}
-			{%- endif -%}
-
-			{%- if section.settings.show_search -%}
-				<li class="mobile-nav__item"><a href="{{ routes.search_url }}" class="mobile-nav__link mobile-nav__link--small">{{ 'layout.navigation.search' | t }}</a></li>
-			{%- endif -%}
-		</ul>
-	{%- endif -%}
 </div>
