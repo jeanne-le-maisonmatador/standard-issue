@@ -132,6 +132,31 @@
       {%- comment -%}
         Quantity Selector
       {%- endcomment -%}
+
+    {%- comment -%}
+        Quantity Selector INPUT
+      {%- endcomment -%}
+    <div class="quantity-wrapper{% if enable_variant_boxes %} quantity-wrapper--half{% endif %}">
+  <div class="popout quantityInput" data-popout-option>
+    <label for="quantity-input" class="quantity__text quantity_input_text">{{ 'products.product.quantity' | t }}:</label>
+    <input type="number" id="quantity-input" name="quantity" value="1" min="1" max="10" pattern="[0-9]*" class="popout__toggle-value" data-popout-text data-quantity-select>
+  </div>
+
+  <button type="button" class="quantity__btn visually-hidden quantity__btn--decrease" data-quantity-button>
+    <span class="visually-hidden">{{ 'general.accessibility.decrease' | t }}</span>
+    {%- render 'icon-minus' -%}
+  </button>
+
+  <button type="button" class="quantity__btn visually-hidden quantity__btn--increase" data-quantity-button>
+    <span class="visually-hidden">{{ 'general.accessibility.increase' | t }}</span>
+    {%- render 'icon-plus' -%}
+  </button>
+</div>
+
+
+ {%- comment -%}
+        Quantity Selector DROPDOWN
+
       <div class="quantity-wrapper{% if enable_variant_boxes %} quantity-wrapper--half{% endif %}">
         <div class="popout" data-popout-option>
           <button type="button" class="popout__toggle popout__toggle--product option__select" aria-expanded="false" aria-controls="lang-list" aria-describedby="lang-heading" data-popout-toggle data-popout-quantity>
@@ -174,6 +199,8 @@
           <input type="number" name="quantity" id="quantity--{{ unique }}" value="1" min="1">
         </noscript>
       </div>
+
+                    {%- endcomment -%}
 
       <div class="buttons-grid buttons-grid--half">
       
