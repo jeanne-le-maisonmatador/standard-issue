@@ -24,6 +24,10 @@
   }
 }
 
+.nav__item--compress:not(:checked) ~ .center-item-count {
+  left: 23px;
+    top: 14px;
+}
 
 .icon-shopping-bag-with-count{
       width: 35px;
