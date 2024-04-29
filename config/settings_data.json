@@ -24,7 +24,7 @@
     "enable_variant_boxes": true,
     "enable_color_swatches": true,
     "show_payment_button": false,
-    "quick_button": "view",
+    "quick_button": "none",
     "show_newsletter": false,
     "cart_type": "drawer",
     "enable_cart_notes": false,
