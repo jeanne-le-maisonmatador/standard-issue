@@ -3,7 +3,7 @@ window.addEventListener('resize', function() {
    if (document.querySelector('#AccessibleNav').classList.contains('nav--compress')) {
      container.style.cssText = 'left: 23px; top: 14px;';
   } else {
-    container.style.cssText = ''; // Remove inline styles
+    container.style.cssText = ''; 
   }
   });
 
