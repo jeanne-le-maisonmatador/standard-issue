@@ -17,12 +17,12 @@
     top: 14px;
 }
 
-/*@media screen and (min-width: 1375px) {
+@media screen and (min-width: 1375px) {
   .center-item-count{
     left: 8px;
     top: 2px; 
   }
-} */
+} 
 
 .icon-shopping-bag-with-count{
       width: 35px;
