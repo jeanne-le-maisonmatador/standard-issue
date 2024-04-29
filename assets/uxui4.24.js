@@ -1,7 +1,6 @@
 $('.nav__item--compress').on('change', function() {
   if ($(this).is(':checked')) {
-    $('.container').removeClass('compress-hidden');
-  } else {
-    $('.container').addClass('compress-hidden');
+    $('.center-item-count').css('left', '23px !important');
+    $('.center-item-count').css('top', '14px !important');
   }
 });
