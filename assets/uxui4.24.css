@@ -1,0 +1,28 @@
+.login-create-account{
+  display: flex;
+}
+
+.quantityInput{
+  display:flex;
+  align-items: center;
+}
+
+.quantity_input_text{
+  margin-right: 10px;
+}
+
+.center-item-count{
+    position: absolute;
+    left: 23px;
+    top: 14px;
+}
+
+.icon-shopping-bag-with-count{
+      width: 35px;
+    height: 35px
+}
+
+.mobile-search-flex{
+      display: flex;
+    padding: 10px 5px 5px 0;
+}
