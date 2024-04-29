@@ -1,6 +1,11 @@
-$('.nav__item--compress').on('change', function() {
-  if ($(this).is(':checked')) {
-    $('.center-item-count').css('left', '23px !important');
-    $('.center-item-count').css('top', '14px !important');
-  }
-});
+document.querySelector('#AccessibleNav > li.nav__item.nav__item--compress').addEventListener('change', function() {
+     var accessibleNav = document.querySelector('#AccessibleNav');
+   if (accessibleNav.classList.contains('nav--compress')) {
+      container.style.left = '23px !important';
+      container.style.top = '14px !important';
+    }
+  });
+
+
+
+
