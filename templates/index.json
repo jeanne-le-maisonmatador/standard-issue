@@ -520,6 +520,15 @@
     "featured-blog": {
       "type": "section-blog",
       "blocks": {
+        "article_7HyyEd": {
+          "type": "article",
+          "settings": {
+            "article": "news\/behind-the-seams-s2-e3-greg-lucci",
+            "product1": "",
+            "product2": "",
+            "product3": ""
+          }
+        },
         "article_yekgQw": {
           "type": "article",
           "settings": {
@@ -621,6 +630,7 @@
         }
       },
       "block_order": [
+        "article_7HyyEd",
         "article_yekgQw",
         "article_dQDeGi",
         "featured-blog-3",
