@@ -135,13 +135,13 @@
             "title": "New Sueded Cargos",
             "slide_subheading": "Take our Surplus Cargo. Blend it with our Sueded Field Jacket. You get a butter soft pair of pants combing the best attributes of our cargos with the same hand field y’all know from the field jacket. This inaugural hybrid blend is now available.",
             "slide_btn_text": "Shop Now",
-            "slide_btn_link": "",
-            "slide_btn_style": "primary",
+            "slide_btn_link": "https:\/\/standardissuetees.com\/products\/sueded-cargo-pant-black",
+            "slide_btn_style": "secondary",
             "slide_btn_text_2": "",
             "slide_btn_link_2": "",
             "slide_btn_style_2": "secondary",
-            "video_btn_text": "Watch the Video",
-            "video_btn_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
+            "video_btn_text": "",
+            "video_btn_link": ""
           }
         }
       },
