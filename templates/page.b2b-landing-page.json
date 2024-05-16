@@ -13,50 +13,12 @@
         "template--19973214077209__ad7561a4-e77a-4f91-85d2-e8520e67cc29-16896565432fc637eb-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/3_12c75052-8a1c-49e3-b143-a32bf8733772.jpg",
+            "image": "shopify:\/\/shop_images\/1981_MFG_-_the_manufacturing_behind_Standard_Issue_._1.jpg",
             "bg_position": "center-center",
-            "overlay_opacity": 60,
+            "overlay_opacity": 15,
             "text_color": "text-light",
-            "title": "PRESENTING 1981 MFG: The Manufacturing Behind Standard Issue.",
-            "slide_subheading": "",
-            "slide_btn_text": "",
-            "slide_btn_link": "",
-            "slide_btn_style": "primary",
-            "slide_btn_text_2": "",
-            "slide_btn_link_2": "",
-            "slide_btn_style_2": "secondary",
-            "video_btn_text": "",
-            "video_btn_link": ""
-          }
-        },
-        "template--19973214077209__ad7561a4-e77a-4f91-85d2-e8520e67cc29-16896565432fc637eb-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/1_495dc13f-c9b1-4c07-929d-4ccc37e34830.jpg",
-            "bg_position": "center-center",
-            "overlay_opacity": 50,
-            "text_color": "text-light",
-            "title": "PRESENTING 1981 MFG: The Manufacturing Behind Standard Issue.",
-            "slide_subheading": "",
-            "slide_btn_text": "",
-            "slide_btn_link": "",
-            "slide_btn_style": "primary",
-            "slide_btn_text_2": "",
-            "slide_btn_link_2": "",
-            "slide_btn_style_2": "secondary",
-            "video_btn_text": "",
-            "video_btn_link": ""
-          }
-        },
-        "01f9c6cc-647b-45b1-b898-e502e4af4fbb": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/2_9ca93f2a-cfe6-4cce-b358-0fd2fa6c6114.jpg",
-            "bg_position": "center-center",
-            "overlay_opacity": 50,
-            "text_color": "text-light",
-            "title": "PRESENTING 1981 MFG: The Manufacturing Behind Standard Issue.",
-            "slide_subheading": "",
+            "title": "STANDARD ISSUE",
+            "slide_subheading": "Artistry In Apparel",
             "slide_btn_text": "",
             "slide_btn_link": "",
             "slide_btn_style": "primary",
@@ -69,9 +31,7 @@
         }
       },
       "block_order": [
-        "template--19973214077209__ad7561a4-e77a-4f91-85d2-e8520e67cc29-16896565432fc637eb-0",
-        "template--19973214077209__ad7561a4-e77a-4f91-85d2-e8520e67cc29-16896565432fc637eb-1",
-        "01f9c6cc-647b-45b1-b898-e502e4af4fbb"
+        "template--19973214077209__ad7561a4-e77a-4f91-85d2-e8520e67cc29-16896565432fc637eb-0"
       ],
       "settings": {
         "slide_height": "original-height",
@@ -90,15 +50,15 @@
         "text_position": "center",
         "top_image_width": 300,
         "subheading": "",
-        "heading": "Custom Garments For Your Company",
-        "text": "<p>From big corporations to small business, we can make create custom apparel for your company that looks like an actual clothing brand.<\/p><p>You don't even need to be a designer yourself. Give us your concept in mind , we can transform your ideas into reality.<\/p>",
+        "heading": "Celebrating Heritage\t\t\t\t\t\tA Callback to Classics",
+        "text": "<p>At Standard Issue, we believe that every museum has a story to tell, and we're here to help them tell it through the medium of apparel and brand-printed merchandise. Our process is steeped in artistry, from the initial design concepts to the final stitching. We work hand in hand with museum partners to ensure that every garment reflects the essence of their brand and resonates with their audience on a deeper level.<br\/><\/p>",
         "button_text": "",
         "button_url": "",
         "button_style": "primary",
         "secondary_button_text": "",
         "secondary_button_url": "",
         "secondary_button_style": "secondary",
-        "bg_color": "#efefef"
+        "bg_color": "#f3edea"
       }
     },
     "17038098192e46b1c5": {
@@ -124,15 +84,15 @@
         "text_position": "center",
         "top_image_width": 100,
         "subheading": "",
-        "heading": "CHECK OUT SOME OF OUR PAST WORK",
-        "text": "",
+        "heading": "SERVICES",
+        "text": "<p>Enter Standard Issue, a beacon of creativity and artistry in the world of<br\/>museum retail apparel. Our approach goes beyond mere garment production; it's an art form in itself. We bring together skilled artisans, designers, and craftsmen to create apparel that transcends utility, becoming a canvas for brands to express their unique identity.<br\/><\/p>",
         "button_text": "",
         "button_url": "",
         "button_style": "primary",
         "secondary_button_text": "",
         "secondary_button_url": "",
         "secondary_button_style": "secondary",
-        "bg_color": "#cccccc"
+        "bg_color": "#f3edea"
       }
     },
     "992a5599-291e-4a6b-9faf-653fbfd3500b": {
@@ -141,12 +101,12 @@
         "template--19973214077209__992a5599-291e-4a6b-9faf-653fbfd3500b-16896565432fc637eb-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/01.jpg",
+            "image": "shopify:\/\/shop_images\/1981_MFG_-_the_manufacturing_behind_Standard_Issue_._2.jpg",
             "bg_position": "center-top",
             "overlay_opacity": 20,
             "text_color": "text-light",
-            "title": "BROOKYLN MUSEUM",
-            "slide_subheading": "",
+            "title": "STASH",
+            "slide_subheading": "Canvas to Print",
             "slide_btn_text": "",
             "slide_btn_link": "",
             "slide_btn_style": "primary",
@@ -160,12 +120,12 @@
         "template--19973214077209__992a5599-291e-4a6b-9faf-653fbfd3500b-16896565432fc637eb-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Amoroso_Collab_-_B2B_Landing_Page.jpg",
+            "image": "shopify:\/\/shop_images\/1981_MFG_-_the_manufacturing_behind_Standard_Issue_._3.jpg",
             "bg_position": "center-center",
             "overlay_opacity": 20,
             "text_color": "text-light",
-            "title": "AMOROSO",
-            "slide_subheading": "",
+            "title": "BROOKLYN MUESUM",
+            "slide_subheading": "Comfort in Quality",
             "slide_btn_text": "",
             "slide_btn_link": "",
             "slide_btn_style": "primary",
@@ -179,12 +139,12 @@
         "201969ac-e564-4816-bff3-fc9a3e7cc2d7": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/House_of_Blue_Collab_-_B2B_Landing_Page_2.jpg",
+            "image": "shopify:\/\/shop_images\/1981_MFG_-_the_manufacturing_behind_Standard_Issue_._5.jpg",
             "bg_position": "center-top",
-            "overlay_opacity": 20,
+            "overlay_opacity": 30,
             "text_color": "text-light",
-            "title": "HOUSE OF BLUES",
-            "slide_subheading": "",
+            "title": "KIM JUNG G",
+            "slide_subheading": "Detailed Excellence",
             "slide_btn_text": "",
             "slide_btn_link": "",
             "slide_btn_style": "primary",
@@ -217,9 +177,9 @@
       "settings": {
         "text_position": "center",
         "top_image_width": 100,
-        "subheading": "HOW WE'RE ABLE TO DO IT",
-        "heading": "The Start of 1981 MFG",
-        "text": "<p>Standard Issue is created and developed by 1981 MFG, a vertically owned manufacturing facility based out of Vernon, CA. From design to production to packaging, 1981 MFG is a full service solution to wholesaling and custom apparel design. Upgrade your merch and get the same quality garments and innovative designs from Standard Issue - customized to your needs. <\/p><p>The benefit of working with 1981 MFG doesn’t stop at quality apparel - because we have an established brand in the apparel space, we can also cross promote any projects that will be sold to the masses.<\/p>",
+        "subheading": "",
+        "heading": "RESULTS",
+        "text": "<p>Once the parameters are established, our team of experienced designers and<br\/>artisans collaborates closely with museum stakeholders to bring the vision to life. We engage in a creative dialogue, exploring concepts and ideas that capture the essence of the museum's brand and resonate with its audience.<br\/><\/p><p>The benefit of working with 1981 MFG doesn’t stop at quality apparel - because we have an established brand in the apparel space, we can also cross promote any projects that will be sold to the masses.<\/p><p>With the design approved, we move on to production, leveraging our network<br\/>of trusted partners and suppliers to bring the vision to fruition. Our state-of-the-art facilities and stringent quality control measures ensure that every garment meets our exacting standards of excellence.<br\/><\/p>",
         "button_text": "",
         "button_url": "",
         "button_style": "primary",
@@ -231,6 +191,7 @@
     },
     "a7550ab0-75a5-4916-bd8a-4937b7e7f0c7": {
       "type": "section-rich-text",
+      "disabled": true,
       "settings": {
         "text_position": "center",
         "top_image_width": 100,
@@ -306,6 +267,7 @@
         "0df12e80-9627-48ac-ad71-7713c7f3f6de",
         "091a1afb-a15b-43ea-a1b7-09d5c4a300a8"
       ],
+      "disabled": true,
       "settings": {
         "alignment": "center",
         "icons_width": 45,
