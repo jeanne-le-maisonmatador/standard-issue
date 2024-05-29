@@ -5,6 +5,7 @@
       "blocks": {
         "image_HdK94Q": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/SIT_Homepage_Banners_Desktop.png",
             "image_mobile": "shopify:\/\/shop_images\/USE_CODE_MEMDY25.jpg",
