@@ -24,6 +24,26 @@
             "video_btn_link": ""
           }
         },
+        "image_birKx7": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/SIT_Homepage_Banners_Desktop_6.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/SIT_Homepage_Banners_Mobile_7.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 20,
+            "text_color": "text-light",
+            "title": "Big Slacker Restock",
+            "slide_subheading": "Cop them in Black, Espresso, Suede, Ace Grey, Antler, Bungee, Vintage Black, Cream, Slate &  Concrete - now on the webshop.",
+            "slide_btn_text": "Shop Now",
+            "slide_btn_link": "shopify:\/\/collections\/standard-slacker-pant",
+            "slide_btn_style": "secondary",
+            "slide_btn_text_2": "",
+            "slide_btn_link_2": "",
+            "slide_btn_style_2": "secondary",
+            "video_btn_text": "",
+            "video_btn_link": ""
+          }
+        },
         "image_XwprAh": {
           "type": "image",
           "settings": {
@@ -171,6 +191,7 @@
       },
       "block_order": [
         "image_HdK94Q",
+        "image_birKx7",
         "image_XwprAh",
         "image_9GMBkN",
         "image_cmN7bY",
