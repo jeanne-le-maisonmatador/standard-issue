@@ -14,6 +14,7 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/1981_MFG_-_the_manufacturing_behind_Standard_Issue_._1.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Untitled_design_39.jpg",
             "bg_position": "center-center",
             "overlay_opacity": 15,
             "text_color": "text-light",
