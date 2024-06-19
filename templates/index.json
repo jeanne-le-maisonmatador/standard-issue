@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "slideshow": {
@@ -33,7 +42,7 @@
             "overlay_opacity": 20,
             "text_color": "text-light",
             "title": "Big Slacker Restock",
-            "slide_subheading": "Cop them in Black, Espresso, Suede, Ace Grey, Antler, Bungee, Vintage Black, Cream, Slate &  Concrete - now on the webshop.",
+            "slide_subheading": "Concrete, Burnt Olive, Slate and Antler, now available on the webshop",
             "slide_btn_text": "Shop Now",
             "slide_btn_link": "shopify:\/\/collections\/standard-slacker-pant",
             "slide_btn_style": "secondary",
