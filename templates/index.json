@@ -242,6 +242,19 @@
         "transition": "slide"
       }
     },
+    "299cff84-654c-4452-81f9-9573a2449e03": {
+      "type": "section-collection",
+      "settings": {
+        "collection": "the-trail-collection",
+        "products_rows": 2,
+        "products_layout": "grid",
+        "show_title": true,
+        "show_collection_button": true,
+        "button_style": "primary",
+        "bg_color": "",
+        "enable_slider": true
+      }
+    },
     "section_collection_99igWR": {
       "type": "section-collection",
       "settings": {
@@ -249,19 +262,6 @@
         "products_rows": 2,
         "products_layout": "grid",
         "show_title": false,
-        "show_collection_button": true,
-        "button_style": "primary",
-        "bg_color": "",
-        "enable_slider": true
-      }
-    },
-    "299cff84-654c-4452-81f9-9573a2449e03": {
-      "type": "section-collection",
-      "settings": {
-        "collection": "standard-tee",
-        "products_rows": 2,
-        "products_layout": "grid",
-        "show_title": true,
         "show_collection_button": true,
         "button_style": "primary",
         "bg_color": "",
@@ -791,8 +791,8 @@
   },
   "order": [
     "slideshow",
-    "section_collection_99igWR",
     "299cff84-654c-4452-81f9-9573a2449e03",
+    "section_collection_99igWR",
     "logo-list",
     "collection-list",
     "16630869551bcc1acb",
