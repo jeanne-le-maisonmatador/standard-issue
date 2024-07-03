@@ -35,7 +35,6 @@
         },
         "image_Hrd3aA": {
           "type": "image",
-          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/SIT_Homepage_Banners_Desktop_7.jpg",
             "image_mobile": "shopify:\/\/shop_images\/SIT_Homepage_Banners_Mobile_8.jpg",
