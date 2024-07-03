@@ -351,19 +351,6 @@
             "custom_collection_image": "shopify:\/\/shop_images\/SIT_3503.jpg"
           }
         },
-        "collection_mUEbda": {
-          "type": "collection",
-          "settings": {
-            "collection": "shorts",
-            "custom_collection_image": "shopify:\/\/shop_images\/437356982_18259981291174234_6626225860464734367_n.jpg"
-          }
-        },
-        "collection-list-3": {
-          "type": "collection",
-          "settings": {
-            "collection": "tees-slackers"
-          }
-        },
         "collection-list-2": {
           "type": "collection",
           "settings": {
@@ -377,14 +364,19 @@
             "collection": "thermal-sweater",
             "custom_collection_image": "shopify:\/\/shop_images\/MG_0042.jpg"
           }
+        },
+        "collection-list-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "tees-slackers"
+          }
         }
       },
       "block_order": [
         "collection-list-0",
-        "collection_mUEbda",
-        "collection-list-3",
         "collection-list-2",
-        "collection-list-1"
+        "collection-list-1",
+        "collection-list-3"
       ],
       "settings": {
         "layout": "carousel",
