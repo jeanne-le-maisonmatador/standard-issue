@@ -406,6 +406,7 @@
         "button_text": "Shop Now",
         "button_link": "shopify:\/\/collections\/waffle-tee",
         "button_style": "primary",
+        "video_url": "",
         "bg_color": ""
       }
     },
@@ -417,7 +418,7 @@
         "text_position": "left",
         "text_alignment": "left",
         "image_1": "shopify:\/\/shop_images\/SIT_Waffel_Tee_Product_Feature_1.jpg",
-        "image_link_1": "shopify:\/\/collections\/three-pack-tees",
+        "image_link_1": "shopify:\/\/collections\/multi-packs",
         "image_link_2": "",
         "hide_image_2": false,
         "heading": "BUNDLE AND SAVE: Tee Mulit-Packs",
