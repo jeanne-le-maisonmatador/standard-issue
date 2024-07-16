@@ -351,6 +351,13 @@
             "custom_collection_image": "shopify:\/\/shop_images\/SIT_3503.jpg"
           }
         },
+        "collection-list-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "thermal-sweater",
+            "custom_collection_image": "shopify:\/\/shop_images\/MG_0042.jpg"
+          }
+        },
         "collection-list-2": {
           "type": "collection",
           "settings": {
@@ -358,11 +365,11 @@
             "custom_collection_image": "shopify:\/\/shop_images\/9Q7A2111.jpg"
           }
         },
-        "collection-list-1": {
+        "collection_UEmQpA": {
           "type": "collection",
           "settings": {
-            "collection": "thermal-sweater",
-            "custom_collection_image": "shopify:\/\/shop_images\/MG_0042.jpg"
+            "collection": "hoody",
+            "custom_collection_image": "shopify:\/\/shop_images\/Screenshot_2024-07-15_at_11.40.59_PM.png"
           }
         },
         "collection-list-3": {
@@ -374,8 +381,9 @@
       },
       "block_order": [
         "collection-list-0",
-        "collection-list-2",
         "collection-list-1",
+        "collection-list-2",
+        "collection_UEmQpA",
         "collection-list-3"
       ],
       "settings": {
