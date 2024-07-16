@@ -372,10 +372,11 @@
             "custom_collection_image": "shopify:\/\/shop_images\/Screenshot_2024-07-15_at_11.40.59_PM.png"
           }
         },
-        "collection-list-3": {
+        "collection_9rGe3i": {
           "type": "collection",
           "settings": {
-            "collection": "tees-slackers"
+            "collection": "crewneck-sweater",
+            "custom_collection_image": "shopify:\/\/shop_images\/446346425_1103793547366585_5306632686661950436_n_1.jpg"
           }
         }
       },
@@ -384,7 +385,7 @@
         "collection-list-1",
         "collection-list-2",
         "collection_UEmQpA",
-        "collection-list-3"
+        "collection_9rGe3i"
       ],
       "settings": {
         "layout": "carousel",
