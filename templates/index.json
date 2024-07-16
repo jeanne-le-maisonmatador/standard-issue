@@ -12,20 +12,19 @@
     "slideshow": {
       "type": "section-slideshow",
       "blocks": {
-        "image_HdK94Q": {
+        "image_rnAq9B": {
           "type": "image",
-          "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/SIT_Homepage_Banners_Desktop.png",
-            "image_mobile": "shopify:\/\/shop_images\/USE_CODE_MEMDY25.jpg",
+            "image": "shopify:\/\/shop_images\/SIT_Homepage_Banners_Desktop_8.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/SIT_Homepage_Banners_Mobile_9.jpg",
             "bg_position": "center-center",
             "overlay_opacity": 20,
             "text_color": "text-light",
-            "title": "",
-            "slide_subheading": "",
-            "slide_btn_text": "",
-            "slide_btn_link": "",
-            "slide_btn_style": "primary",
+            "title": "Standard Long Sleeve Multi-Three Packs",
+            "slide_subheading": "Your favorite long sleeve now in a three pack. Shop Long Sleeve Multi-Three Packs - stock up and save.",
+            "slide_btn_text": "Shop Now",
+            "slide_btn_link": "shopify:\/\/collections\/multi-packs",
+            "slide_btn_style": "secondary",
             "slide_btn_text_2": "",
             "slide_btn_link_2": "",
             "slide_btn_style_2": "secondary",
@@ -175,38 +174,17 @@
             "video_btn_text": "",
             "video_btn_link": ""
           }
-        },
-        "image_rnAq9B": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/SIT_Homepage_Banners_Desktop_8.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/SIT_Homepage_Banners_Mobile_9.jpg",
-            "bg_position": "center-center",
-            "overlay_opacity": 20,
-            "text_color": "text-light",
-            "title": "Standard Long Sleeve Multi-Three Packs",
-            "slide_subheading": "Your favorite long sleeve now in a three pack. Shop Long Sleeve Multi-Three Packs - stock up and save.",
-            "slide_btn_text": "Shop Now",
-            "slide_btn_link": "shopify:\/\/collections\/multi-packs",
-            "slide_btn_style": "secondary",
-            "slide_btn_text_2": "",
-            "slide_btn_link_2": "",
-            "slide_btn_style_2": "secondary",
-            "video_btn_text": "",
-            "video_btn_link": ""
-          }
         }
       },
       "block_order": [
-        "image_HdK94Q",
+        "image_rnAq9B",
         "image_Hrd3aA",
         "image_birKx7",
         "image_XwprAh",
         "image_9GMBkN",
         "image_WRrj7y",
         "image_F67JHT",
-        "image_aJ76gV",
-        "image_rnAq9B"
+        "image_aJ76gV"
       ],
       "settings": {
         "slide_height": "one-hundred-height-hero",
