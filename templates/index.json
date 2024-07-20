@@ -72,18 +72,18 @@
             "video_btn_link": ""
           }
         },
-        "image_birKx7": {
+        "image_9GMBkN": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/SIT_Homepage_Banners_Desktop_6.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/SIT_Homepage_Banners_Mobile_7.jpg",
+            "image": "shopify:\/\/shop_images\/SIT_Homepage_Banners_Desktop_2.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/SIT_Homepage_Banners_Mobile_2.jpg",
             "bg_position": "center-center",
             "overlay_opacity": 20,
             "text_color": "text-light",
-            "title": "Big Slacker Restock",
-            "slide_subheading": "Concrete, Burnt Olive, Slate and Antler, now available on the webshop",
+            "title": "Our Fitted Tees Are Back",
+            "slide_subheading": "Lightweight. Breathable. Tighter sleeves. Perfect for the hotter weather.",
             "slide_btn_text": "Shop Now",
-            "slide_btn_link": "shopify:\/\/collections\/standard-slacker-pant",
+            "slide_btn_link": "shopify:\/\/collections\/fitted-tee",
             "slide_btn_style": "secondary",
             "slide_btn_text_2": "",
             "slide_btn_link_2": "",
@@ -105,46 +105,6 @@
             "slide_subheading": "Take our Surplus Cargo. Blend it with our Sueded Field Jacket. You get a butter soft pair of pants combing the best attributes of our cargos with the same hand field y’all know from the field jacket. This inaugural hybrid blend is now available.",
             "slide_btn_text": "Shop Now",
             "slide_btn_link": "https:\/\/standardissuetees.com\/products\/sueded-cargo-pant-black",
-            "slide_btn_style": "secondary",
-            "slide_btn_text_2": "",
-            "slide_btn_link_2": "",
-            "slide_btn_style_2": "secondary",
-            "video_btn_text": "",
-            "video_btn_link": ""
-          }
-        },
-        "image_9GMBkN": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/SIT_Homepage_Banners_Desktop_2.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/SIT_Homepage_Banners_Mobile_2.jpg",
-            "bg_position": "center-center",
-            "overlay_opacity": 20,
-            "text_color": "text-light",
-            "title": "Our Fitted Tees Are Back",
-            "slide_subheading": "Lightweight. Breathable. Tighter sleeves. Perfect for the hotter weather.",
-            "slide_btn_text": "Shop Now",
-            "slide_btn_link": "shopify:\/\/collections\/fitted-tee",
-            "slide_btn_style": "secondary",
-            "slide_btn_text_2": "",
-            "slide_btn_link_2": "",
-            "slide_btn_style_2": "secondary",
-            "video_btn_text": "",
-            "video_btn_link": ""
-          }
-        },
-        "image_WRrj7y": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Eminem_Banner.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/Untitled_design_26_b8ac6029-1875-4a00-ab6c-f6eb05ceace9.jpg",
-            "bg_position": "center-center",
-            "overlay_opacity": 20,
-            "text_color": "text-light",
-            "title": "Eminem x Standard Issue Kamikaze Limited Release",
-            "slide_subheading": "Available now on the web shop for a limited time only.",
-            "slide_btn_text": "Shop Now",
-            "slide_btn_link": "shopify:\/\/collections\/special-collection",
             "slide_btn_style": "secondary",
             "slide_btn_text_2": "",
             "slide_btn_link_2": "",
@@ -194,18 +154,37 @@
             "video_btn_text": "",
             "video_btn_link": ""
           }
+        },
+        "image_GnxPgt": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/SIT_Homepage_Banners_Desktop_10_9a355832-2cbb-453b-b3b3-6ed73e1f9d70.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/SIT_Homepage_Banners_Mobile_11.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 20,
+            "text_color": "text-light",
+            "title": "Standard Tanks Are Back",
+            "slide_subheading": "The same comfort as our Standard Tee in now in a Tank. Restocked in Black, White and Slate on the web shop.",
+            "slide_btn_text": "Shop Now",
+            "slide_btn_link": "shopify:\/\/collections\/new-arrivals",
+            "slide_btn_style": "secondary",
+            "slide_btn_text_2": "",
+            "slide_btn_link_2": "",
+            "slide_btn_style_2": "secondary",
+            "video_btn_text": "",
+            "video_btn_link": ""
+          }
         }
       },
       "block_order": [
         "image_HnraWH",
         "image_rnAq9B",
         "image_Hrd3aA",
-        "image_birKx7",
-        "image_XwprAh",
         "image_9GMBkN",
-        "image_WRrj7y",
+        "image_XwprAh",
         "image_F67JHT",
-        "image_aJ76gV"
+        "image_aJ76gV",
+        "image_GnxPgt"
       ],
       "settings": {
         "slide_height": "one-hundred-height-hero",
