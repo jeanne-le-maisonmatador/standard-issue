@@ -95,6 +95,7 @@
         },
         "image_9GMBkN": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/SIT_Homepage_Banners_Desktop_2.jpg",
             "image_mobile": "shopify:\/\/shop_images\/SIT_Homepage_Banners_Mobile_2.jpg",
