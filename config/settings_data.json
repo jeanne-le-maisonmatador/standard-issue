@@ -161,6 +161,7 @@
         "blocks": {
           "announcement_WjWy3f": {
             "type": "announcement",
+            "disabled": true,
             "settings": {
               "text": "7 Year Anniversary Sale! 25% off sitewide. Use code   YR7ANI24",
               "link": ""
