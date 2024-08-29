@@ -74,26 +74,6 @@
             "video_btn_link": ""
           }
         },
-        "image_BdUJRY": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/SIT_Homepage_Banners_Desktop_12.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/SIT_Homepage_Banners_Mobile_13.jpg",
-            "bg_position": "center-center",
-            "overlay_opacity": 20,
-            "text_color": "text-light",
-            "title": "New Checkered Denim Cargos Out Now",
-            "slide_subheading": "Our Surplus Cargo pants with little bit of denim, little bit of checkered print and little bit of distressing.",
-            "slide_btn_text": "Shop Now",
-            "slide_btn_link": "https:\/\/standardissuetees.com\/products\/checkered-denim-cargo-pant",
-            "slide_btn_style": "secondary",
-            "slide_btn_text_2": "",
-            "slide_btn_link_2": "",
-            "slide_btn_style_2": "secondary",
-            "video_btn_text": "",
-            "video_btn_link": ""
-          }
-        },
         "image_Hrd3aA": {
           "type": "image",
           "settings": {
@@ -202,7 +182,6 @@
         "image_BPmAab",
         "image_tYxKYk",
         "image_ybNP8x",
-        "image_BdUJRY",
         "image_Hrd3aA",
         "image_GnxPgt",
         "image_HnraWH",
