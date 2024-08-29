@@ -35,7 +35,6 @@
         },
         "image_tYxKYk": {
           "type": "image",
-          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/Team_Toyo_Desktop_Banner_1.gif",
             "image_mobile": "shopify:\/\/shop_images\/Team_Toyo_Desktop_Banner_2048_x_2200_px.gif",
