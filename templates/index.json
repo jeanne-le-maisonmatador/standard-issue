@@ -576,6 +576,15 @@
     "featured-blog": {
       "type": "section-blog",
       "blocks": {
+        "article_tyAJjp": {
+          "type": "article",
+          "settings": {
+            "article": "news\/standard-issue-x-team-toyo-maximum-traction-collection",
+            "product1": "",
+            "product2": "",
+            "product3": ""
+          }
+        },
         "article_7HyyEd": {
           "type": "article",
           "settings": {
@@ -589,15 +598,6 @@
           "type": "article",
           "settings": {
             "article": "news\/behind-the-seams-s2-e2-besidone-amoruw",
-            "product1": "",
-            "product2": "",
-            "product3": ""
-          }
-        },
-        "article_dQDeGi": {
-          "type": "article",
-          "settings": {
-            "article": "news\/4-19-podcast-episode-brocky-marciano",
             "product1": "",
             "product2": "",
             "product3": ""
@@ -686,9 +686,9 @@
         }
       },
       "block_order": [
+        "article_tyAJjp",
         "article_7HyyEd",
         "article_yekgQw",
-        "article_dQDeGi",
         "featured-blog-3",
         "2c4070ee-4082-47b4-90a7-484dfda8188f",
         "839f866e-190e-452d-b328-bec991ecaa19",
