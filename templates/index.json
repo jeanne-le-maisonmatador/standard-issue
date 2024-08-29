@@ -223,7 +223,7 @@
     "299cff84-654c-4452-81f9-9573a2449e03": {
       "type": "section-collection",
       "settings": {
-        "collection": "shop-all",
+        "collection": "new-arrivals",
         "products_rows": 2,
         "products_layout": "grid",
         "show_title": true,
