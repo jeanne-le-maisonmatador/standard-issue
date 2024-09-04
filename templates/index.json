@@ -113,6 +113,27 @@
             "video_btn_link": ""
           }
         },
+        "image_CFwrWh": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/SIT_Homepage_Banners_Desktop_15.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/SIT_Homepage_Banners_Mobile_16.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 20,
+            "text_color": "text-light",
+            "title": "Introducing The Standard Work Button Down",
+            "slide_subheading": "Heavy weight woven fabric made up of 100 % twill cotton 384 gsm. A bit cropped. Collared and buttoned to get under the hood or into the google data doc in. Now available in dusty grey and orange in the web shop.",
+            "slide_btn_text": "Shop Now",
+            "slide_btn_link": "",
+            "slide_btn_style": "secondary",
+            "slide_btn_text_2": "",
+            "slide_btn_link_2": "",
+            "slide_btn_style_2": "secondary",
+            "video_btn_text": "",
+            "video_btn_link": ""
+          }
+        },
         "image_HnraWH": {
           "type": "image",
           "disabled": true,
@@ -162,6 +183,7 @@
         "image_ybNP8x",
         "image_Hrd3aA",
         "image_rnAq9B",
+        "image_CFwrWh",
         "image_HnraWH",
         "image_9GMBkN"
       ],
