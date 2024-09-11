@@ -176,6 +176,27 @@
             "video_btn_text": "",
             "video_btn_link": ""
           }
+        },
+        "image_PGMjQN": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/SIT_Homepage_Banners_Desktop_15_636adc97-c785-4361-b8b0-732985167bf0.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/SIT_Homepage_Banners_Mobile_16_89586876-3014-4ec3-ae01-79adae4658fa.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 20,
+            "text_color": "text-light",
+            "title": "Concrete Sashikos Slackers Out Now",
+            "slide_subheading": "Beautiful fabric. Beautiful pant. Beautiful color. Now available on the web shop.",
+            "slide_btn_text": "Shop Now",
+            "slide_btn_link": "https:\/\/standardissuetees.com\/products\/sashiko-slacker-pant-concrete",
+            "slide_btn_style": "primary",
+            "slide_btn_text_2": "",
+            "slide_btn_link_2": "",
+            "slide_btn_style_2": "secondary",
+            "video_btn_text": "",
+            "video_btn_link": ""
+          }
         }
       },
       "block_order": [
@@ -186,7 +207,8 @@
         "image_Hrd3aA",
         "image_rnAq9B",
         "image_HnraWH",
-        "image_9GMBkN"
+        "image_9GMBkN",
+        "image_PGMjQN"
       ],
       "settings": {
         "slide_height": "one-hundred-height-hero",
