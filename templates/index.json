@@ -12,18 +12,39 @@
     "slideshow": {
       "type": "section-slideshow",
       "blocks": {
+        "image_Hrd3aA": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/SIT_Homepage_Banners_Desktop_17.jpg",
+            "image_mobile": "shopify://shop_images/SIT_Homepage_Banners_Mobile_18.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 20,
+            "text_color": "text-light",
+            "title": "Introducing the Indigo Sashiko Slackers",
+            "slide_subheading": "It’s a great week for a new shade of sashiko. Something dark. Denim feels.",
+            "slide_btn_text": "Shop Now",
+            "slide_btn_link": "https://standardissuetees.com/products/sashiko-slacker-pant-indigo",
+            "slide_btn_style": "secondary",
+            "slide_btn_text_2": "",
+            "slide_btn_link_2": "",
+            "slide_btn_style_2": "secondary",
+            "video_btn_text": "",
+            "video_btn_link": ""
+          }
+        },
         "image_UNQApn": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/SIT_Homepage_Banners_Desktop_16.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/SIT_Homepage_Banners_Mobile_17.jpg",
+            "image": "shopify://shop_images/SIT_Homepage_Banners_Desktop_16.jpg",
+            "image_mobile": "shopify://shop_images/SIT_Homepage_Banners_Mobile_17.jpg",
             "bg_position": "center-center",
             "overlay_opacity": 20,
             "text_color": "text-light",
             "title": "Mid Weight Fleece Is Back",
             "slide_subheading": "Same fit you know from Standard sweatsuits but a whole different feel with the fleece. Now available in black, antler, bungee, slate and vintage black.",
             "slide_btn_text": "Shop Now",
-            "slide_btn_link": "shopify:\/\/collections\/new-arrivals",
+            "slide_btn_link": "shopify://collections/new-arrivals",
             "slide_btn_style": "secondary",
             "slide_btn_text_2": "",
             "slide_btn_link_2": "",
@@ -35,15 +56,15 @@
         "image_PGMjQN": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/SIT_Homepage_Banners_Desktop_15_636adc97-c785-4361-b8b0-732985167bf0.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/SIT_Homepage_Banners_Mobile_16_89586876-3014-4ec3-ae01-79adae4658fa.jpg",
+            "image": "shopify://shop_images/SIT_Homepage_Banners_Desktop_15_636adc97-c785-4361-b8b0-732985167bf0.jpg",
+            "image_mobile": "shopify://shop_images/SIT_Homepage_Banners_Mobile_16_89586876-3014-4ec3-ae01-79adae4658fa.jpg",
             "bg_position": "center-center",
             "overlay_opacity": 20,
             "text_color": "text-light",
             "title": "Concrete Sashikos Slackers Out Now",
             "slide_subheading": "Beautiful fabric. Beautiful pant. Beautiful color. Now available on the web shop.",
             "slide_btn_text": "Shop Now",
-            "slide_btn_link": "https:\/\/standardissuetees.com\/products\/sashiko-slacker-pant-concrete",
+            "slide_btn_link": "https://standardissuetees.com/products/sashiko-slacker-pant-concrete",
             "slide_btn_style": "primary",
             "slide_btn_text_2": "",
             "slide_btn_link_2": "",
@@ -55,15 +76,15 @@
         "image_CFwrWh": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/SIT_Homepage_Banners_Desktop_15.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/SIT_Homepage_Banners_Mobile_16.jpg",
+            "image": "shopify://shop_images/SIT_Homepage_Banners_Desktop_15.jpg",
+            "image_mobile": "shopify://shop_images/SIT_Homepage_Banners_Mobile_16.jpg",
             "bg_position": "center-center",
             "overlay_opacity": 20,
             "text_color": "text-light",
             "title": "Introducing The Standard Work Button Down",
             "slide_subheading": "Heavy weight woven fabric made up of 100 % twill cotton 384 gsm. A bit cropped. Collared and buttoned to get under the hood or into the google data doc in. Now available in dusty grey and orange in the web shop.",
             "slide_btn_text": "Shop Now",
-            "slide_btn_link": "https:\/\/standardissuetees.com\/collections\/button-down-work-shirt",
+            "slide_btn_link": "https://standardissuetees.com/collections/button-down-work-shirt",
             "slide_btn_style": "secondary",
             "slide_btn_text_2": "",
             "slide_btn_link_2": "",
@@ -75,15 +96,15 @@
         "image_tYxKYk": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Team_Toyo_Desktop_Banner_1.gif",
-            "image_mobile": "shopify:\/\/shop_images\/Team_Toyo_Desktop_Banner_2048_x_2200_px.gif",
+            "image": "shopify://shop_images/Team_Toyo_Desktop_Banner_1.gif",
+            "image_mobile": "shopify://shop_images/Team_Toyo_Desktop_Banner_2048_x_2200_px.gif",
             "bg_position": "center-center",
             "overlay_opacity": 20,
             "text_color": "text-light",
             "title": "Standard Issue x Team Toyo Maximum Traction Collection",
             "slide_subheading": "Trophy trucking. Maximum Traction tires and Standard Issue high quality garments",
             "slide_btn_text": "Shop Now",
-            "slide_btn_link": "shopify:\/\/collections\/toyo-tires",
+            "slide_btn_link": "shopify://collections/toyo-tires",
             "slide_btn_style": "primary",
             "slide_btn_text_2": "",
             "slide_btn_link_2": "",
@@ -96,35 +117,15 @@
           "type": "image",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/SIT_Homepage_Banners_Desktop_13.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/SIT_Homepage_Banners_Mobile_14.jpg",
+            "image": "shopify://shop_images/SIT_Homepage_Banners_Desktop_13.jpg",
+            "image_mobile": "shopify://shop_images/SIT_Homepage_Banners_Mobile_14.jpg",
             "bg_position": "center-center",
             "overlay_opacity": 20,
             "text_color": "text-light",
             "title": "Sashiko Slacker Restock",
             "slide_subheading": "We had to bring back some classic colors in the vintage black and slate offerings. Restock now available in our web shop. Enjoy...",
             "slide_btn_text": "Shop Now",
-            "slide_btn_link": "shopify:\/\/collections\/sashiko-slacker-pant",
-            "slide_btn_style": "secondary",
-            "slide_btn_text_2": "",
-            "slide_btn_link_2": "",
-            "slide_btn_style_2": "secondary",
-            "video_btn_text": "",
-            "video_btn_link": ""
-          }
-        },
-        "image_Hrd3aA": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/SIT_Homepage_Banners_Desktop_11.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/SIT_Homepage_Banners_Mobile_12.jpg",
-            "bg_position": "center-center",
-            "overlay_opacity": 20,
-            "text_color": "text-light",
-            "title": "Trail Collection Part 2 Now Available",
-            "slide_subheading": "All of our favorite things. More pantones we love. Indoors. Outdoors. Trails. In the City. Wherever. New short sleeve thermal, Anorak, Surplus Cargos, and AT shorts out now as part of our trail collection...",
-            "slide_btn_text": "Shop Now",
-            "slide_btn_link": "shopify:\/\/collections\/the-trail-collection",
+            "slide_btn_link": "shopify://collections/sashiko-slacker-pant",
             "slide_btn_style": "secondary",
             "slide_btn_text_2": "",
             "slide_btn_link_2": "",
@@ -137,15 +138,15 @@
           "type": "image",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/SIT_Homepage_Banners_Desktop_8.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/SIT_Homepage_Banners_Mobile_9.jpg",
+            "image": "shopify://shop_images/SIT_Homepage_Banners_Desktop_8.jpg",
+            "image_mobile": "shopify://shop_images/SIT_Homepage_Banners_Mobile_9.jpg",
             "bg_position": "center-center",
             "overlay_opacity": 20,
             "text_color": "text-light",
             "title": "Standard Long Sleeve Multi-Three Packs",
             "slide_subheading": "Your favorite long sleeve now in a three pack. Shop Long Sleeve Multi-Three Packs - stock up and save.",
             "slide_btn_text": "Shop Now",
-            "slide_btn_link": "shopify:\/\/collections\/multi-packs",
+            "slide_btn_link": "shopify://collections/multi-packs",
             "slide_btn_style": "secondary",
             "slide_btn_text_2": "",
             "slide_btn_link_2": "",
@@ -158,8 +159,8 @@
           "type": "image",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/SIT_Homepage_Banners_Desktop_14_5a5dc67d-6e7a-4e51-9efe-f210fccb0ba8.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/SIT_Homepage_Banners_Mobile_15.jpg",
+            "image": "shopify://shop_images/SIT_Homepage_Banners_Desktop_14_5a5dc67d-6e7a-4e51-9efe-f210fccb0ba8.jpg",
+            "image_mobile": "shopify://shop_images/SIT_Homepage_Banners_Mobile_15.jpg",
             "bg_position": "center-center",
             "overlay_opacity": 20,
             "text_color": "text-light",
@@ -179,15 +180,15 @@
           "type": "image",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/SIT_Homepage_Banners_Desktop_9.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/SIT_Homepage_Banners_Mobile_10.jpg",
+            "image": "shopify://shop_images/SIT_Homepage_Banners_Desktop_9.jpg",
+            "image_mobile": "shopify://shop_images/SIT_Homepage_Banners_Mobile_10.jpg",
             "bg_position": "center-center",
             "overlay_opacity": 20,
             "text_color": "text-light",
             "title": "Antler Sashiko Slackers Are Back",
             "slide_subheading": "The most beautiful, softest, unique slacker fabric to date in the softest of antler pantones has been restocked in the web shop. Antler Sashikos now available...",
             "slide_btn_text": "Shop Now",
-            "slide_btn_link": "https:\/\/standardissuetees.com\/products\/sashiko-slacker-pant-antler",
+            "slide_btn_link": "https://standardissuetees.com/products/sashiko-slacker-pant-antler",
             "slide_btn_style": "secondary",
             "slide_btn_text_2": "",
             "slide_btn_link_2": "",
@@ -200,15 +201,15 @@
           "type": "image",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/SIT_Homepage_Banners_Desktop_2.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/SIT_Homepage_Banners_Mobile_2.jpg",
+            "image": "shopify://shop_images/SIT_Homepage_Banners_Desktop_2.jpg",
+            "image_mobile": "shopify://shop_images/SIT_Homepage_Banners_Mobile_2.jpg",
             "bg_position": "center-center",
             "overlay_opacity": 20,
             "text_color": "text-light",
             "title": "Our Fitted Tees Are Back",
             "slide_subheading": "Lightweight. Breathable. Tighter sleeves. Perfect for the hotter weather.",
             "slide_btn_text": "Shop Now",
-            "slide_btn_link": "shopify:\/\/collections\/fitted-tee",
+            "slide_btn_link": "shopify://collections/fitted-tee",
             "slide_btn_style": "secondary",
             "slide_btn_text_2": "",
             "slide_btn_link_2": "",
@@ -219,12 +220,12 @@
         }
       },
       "block_order": [
+        "image_Hrd3aA",
         "image_UNQApn",
         "image_PGMjQN",
         "image_CFwrWh",
         "image_tYxKYk",
         "image_ybNP8x",
-        "image_Hrd3aA",
         "image_rnAq9B",
         "image_BPmAab",
         "image_HnraWH",
@@ -273,7 +274,7 @@
         "logo-list-0": {
           "type": "item_logo",
           "settings": {
-            "image": "shopify:\/\/shop_images\/New_York_Magazine_Logo.svg_e96f3f84-1dda-454f-9562-2ab1e1fc8b82.png",
+            "image": "shopify://shop_images/New_York_Magazine_Logo.svg_e96f3f84-1dda-454f-9562-2ab1e1fc8b82.png",
             "logos_width": 120,
             "url": ""
           }
@@ -281,7 +282,7 @@
         "logo-list-1": {
           "type": "item_logo",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Esquire_logo.png",
+            "image": "shopify://shop_images/Esquire_logo.png",
             "logos_width": 120,
             "url": ""
           }
@@ -289,7 +290,7 @@
         "logo-list-2": {
           "type": "item_logo",
           "settings": {
-            "image": "shopify:\/\/shop_images\/1942px-COMPLEX_Magazine_Logo.svg_51dc0c00-2746-495c-a63d-0f4cb178065a.png",
+            "image": "shopify://shop_images/1942px-COMPLEX_Magazine_Logo.svg_51dc0c00-2746-495c-a63d-0f4cb178065a.png",
             "logos_width": 120,
             "url": ""
           }
@@ -297,7 +298,7 @@
         "logo-list-3": {
           "type": "item_logo",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Hypebeast_Logo_2.png",
+            "image": "shopify://shop_images/Hypebeast_Logo_2.png",
             "logos_width": 150,
             "url": ""
           }
@@ -305,7 +306,7 @@
         "logo-list-4": {
           "type": "item_logo",
           "settings": {
-            "image": "shopify:\/\/shop_images\/2560px-GQ_logo.svg_7f776473-7a05-4f39-87d5-03e7916a2ef9.png",
+            "image": "shopify://shop_images/2560px-GQ_logo.svg_7f776473-7a05-4f39-87d5-03e7916a2ef9.png",
             "logos_width": 110,
             "url": ""
           }
@@ -313,7 +314,7 @@
         "46283a10-09f2-4d2c-ba7f-99bb28f81c77": {
           "type": "item_logo",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Cov-Portfolio-1_33eab6da-6f11-4233-9879-8d0afa13e889.png",
+            "image": "shopify://shop_images/Cov-Portfolio-1_33eab6da-6f11-4233-9879-8d0afa13e889.png",
             "logos_width": 140,
             "url": ""
           }
@@ -321,7 +322,7 @@
         "74284525-9859-43e6-b7ae-aa42e6338065": {
           "type": "item_logo",
           "settings": {
-            "image": "shopify:\/\/shop_images\/download_865e8132-bc24-4de8-8846-8e9122a662f7.png",
+            "image": "shopify://shop_images/download_865e8132-bc24-4de8-8846-8e9122a662f7.png",
             "logos_width": 140,
             "url": ""
           }
@@ -347,35 +348,35 @@
           "type": "collection",
           "settings": {
             "collection": "tees",
-            "custom_collection_image": "shopify:\/\/shop_images\/SIT_3503.jpg"
+            "custom_collection_image": "shopify://shop_images/SIT_3503.jpg"
           }
         },
         "collection-list-1": {
           "type": "collection",
           "settings": {
             "collection": "thermal-sweater",
-            "custom_collection_image": "shopify:\/\/shop_images\/MG_0042.jpg"
+            "custom_collection_image": "shopify://shop_images/MG_0042.jpg"
           }
         },
         "collection-list-2": {
           "type": "collection",
           "settings": {
             "collection": "slacker-pant",
-            "custom_collection_image": "shopify:\/\/shop_images\/9Q7A2111.jpg"
+            "custom_collection_image": "shopify://shop_images/9Q7A2111.jpg"
           }
         },
         "collection_UEmQpA": {
           "type": "collection",
           "settings": {
             "collection": "hoody",
-            "custom_collection_image": "shopify:\/\/shop_images\/Screenshot_2024-07-15_at_11.40.59_PM.png"
+            "custom_collection_image": "shopify://shop_images/Screenshot_2024-07-15_at_11.40.59_PM.png"
           }
         },
         "collection_9rGe3i": {
           "type": "collection",
           "settings": {
             "collection": "crewneck-sweater",
-            "custom_collection_image": "shopify:\/\/shop_images\/446346425_1103793547366585_5306632686661950436_n_1.jpg"
+            "custom_collection_image": "shopify://shop_images/446346425_1103793547366585_5306632686661950436_n_1.jpg"
           }
         }
       },
@@ -405,14 +406,14 @@
         "image_position": "overlapping",
         "text_position": "right",
         "text_alignment": "center",
-        "image_1": "shopify:\/\/shop_images\/SIT_Waffel_Tee_Product_Feature_4b65ad8a-1b52-4f86-91c2-c4736ec7022d.jpg",
-        "image_link_1": "shopify:\/\/collections\/waffle-tee",
+        "image_1": "shopify://shop_images/SIT_Waffel_Tee_Product_Feature_4b65ad8a-1b52-4f86-91c2-c4736ec7022d.jpg",
+        "image_link_1": "shopify://collections/waffle-tee",
         "image_link_2": "",
         "hide_image_2": false,
         "heading": "Short Sleeve Thermal",
-        "description": "<p>Our thermal sweater reengineered for a whole new twist.<\/p>",
+        "description": "<p>Our thermal sweater reengineered for a whole new twist.</p>",
         "button_text": "Shop Now",
-        "button_link": "shopify:\/\/collections\/waffle-tee",
+        "button_link": "shopify://collections/waffle-tee",
         "button_style": "primary",
         "video_url": "",
         "bg_color": ""
@@ -425,14 +426,14 @@
         "image_position": "inline",
         "text_position": "left",
         "text_alignment": "left",
-        "image_1": "shopify:\/\/shop_images\/Standard_Long_Sleeve_Tee_Bundle.jpg",
-        "image_link_1": "shopify:\/\/collections\/multi-packs",
+        "image_1": "shopify://shop_images/Standard_Long_Sleeve_Tee_Bundle.jpg",
+        "image_link_1": "shopify://collections/multi-packs",
         "image_link_2": "",
         "hide_image_2": false,
         "heading": "BUNDLE AND SAVE: Tee Mulit-Packs",
-        "description": "<p>It pays to bundle your favorite tees. Shop Tee Multi-Packs and save.<\/p>",
+        "description": "<p>It pays to bundle your favorite tees. Shop Tee Multi-Packs and save.</p>",
         "button_text": "SHOP NOW",
-        "button_link": "shopify:\/\/collections\/multi-packs",
+        "button_link": "shopify://collections/multi-packs",
         "button_style": "primary",
         "video_url": "",
         "bg_color": ""
@@ -446,15 +447,15 @@
         "image_position": "inline",
         "text_position": "right",
         "text_alignment": "center",
-        "image_1": "shopify:\/\/shop_images\/Untitled_design_16.jpg",
-        "image_link_1": "shopify:\/\/pages\/sign-up-for-the-standard-issue-newsletter-and-get-10-off-your-first-purchase",
-        "image_2": "shopify:\/\/shop_images\/qr.png",
+        "image_1": "shopify://shop_images/Untitled_design_16.jpg",
+        "image_link_1": "shopify://pages/sign-up-for-the-standard-issue-newsletter-and-get-10-off-your-first-purchase",
+        "image_2": "shopify://shop_images/qr.png",
         "image_link_2": "",
         "hide_image_2": true,
         "heading": "Download the Standard Issue App",
-        "description": "<p>From late night discount codes to new drop notifications the moment our garments hit the web shop, make sure you have those push notification on to get the full app experience and perks.<\/p>",
+        "description": "<p>From late night discount codes to new drop notifications the moment our garments hit the web shop, make sure you have those push notification on to get the full app experience and perks.</p>",
         "button_text": "Download the App",
-        "button_link": "shopify:\/\/pages\/standard-issue-app",
+        "button_link": "shopify://pages/standard-issue-app",
         "button_style": "secondary",
         "video_url": "",
         "bg_color": ""
@@ -468,14 +469,14 @@
         "image_position": "inline",
         "text_position": "left",
         "text_alignment": "center",
-        "image_1": "shopify:\/\/shop_images\/SIT_Gift_Card_GIf.jpg",
+        "image_1": "shopify://shop_images/SIT_Gift_Card_GIf.jpg",
         "image_link_1": "",
         "image_link_2": "",
         "hide_image_2": false,
         "heading": "Looking for the perfect last minute gift? We got you..",
-        "description": "<p>If your looking to give the gift of Standard Issue this holiday season, our gift cards got you covered. Our digital gifts are available for purchase in the webshop at the following quantities: $25, $50, $100, and $200.  <\/p>",
+        "description": "<p>If your looking to give the gift of Standard Issue this holiday season, our gift cards got you covered. Our digital gifts are available for purchase in the webshop at the following quantities: $25, $50, $100, and $200.  </p>",
         "button_text": "Shop Now",
-        "button_link": "shopify:\/\/products\/gift-card",
+        "button_link": "shopify://products/gift-card",
         "button_style": "secondary",
         "video_url": "",
         "bg_color": ""
@@ -503,9 +504,9 @@
           "settings": {
             "tabs_style": "accordions",
             "tab_title_1": "Tab",
-            "tab_content_1": "<p>This content type will accept <strong>rich text<\/strong> to help with adding styles and links to additional pages or content. Use this to add supplementary information to help your buyers.<\/p>",
+            "tab_content_1": "<p>This content type will accept <strong>rich text</strong> to help with adding styles and links to additional pages or content. Use this to add supplementary information to help your buyers.</p>",
             "tab_title_2": "Info",
-            "tab_content_2": "<p>You can use product metafields to assign content to this tab that is unique to an individual product.  Use tabs to highlight unique features, sizing information, or other sales information.<\/p>",
+            "tab_content_2": "<p>You can use product metafields to assign content to this tab that is unique to an individual product.  Use tabs to highlight unique features, sizing information, or other sales information.</p>",
             "tab_title_3": "",
             "tab_content_3": "",
             "tab_title_4": "",
@@ -622,7 +623,7 @@
         "article_tyAJjp": {
           "type": "article",
           "settings": {
-            "article": "news\/standard-issue-x-team-toyo-maximum-traction-collection",
+            "article": "news/standard-issue-x-team-toyo-maximum-traction-collection",
             "product1": "",
             "product2": "",
             "product3": ""
@@ -631,7 +632,7 @@
         "article_7HyyEd": {
           "type": "article",
           "settings": {
-            "article": "news\/behind-the-seams-s2-e3-greg-lucci",
+            "article": "news/behind-the-seams-s2-e3-greg-lucci",
             "product1": "",
             "product2": "",
             "product3": ""
@@ -640,7 +641,7 @@
         "article_yekgQw": {
           "type": "article",
           "settings": {
-            "article": "news\/behind-the-seams-s2-e2-besidone-amoruw",
+            "article": "news/behind-the-seams-s2-e2-besidone-amoruw",
             "product1": "",
             "product2": "",
             "product3": ""
@@ -649,7 +650,7 @@
         "featured-blog-3": {
           "type": "article",
           "settings": {
-            "article": "news\/lapstone-indigo-24-c-o-standard-issue",
+            "article": "news/lapstone-indigo-24-c-o-standard-issue",
             "product1": "full-zip-jacket-cotton-shearling-olive",
             "product2": "",
             "product3": ""
@@ -658,7 +659,7 @@
         "2c4070ee-4082-47b4-90a7-484dfda8188f": {
           "type": "article",
           "settings": {
-            "article": "news\/2023-standard-issue-gift-guide",
+            "article": "news/2023-standard-issue-gift-guide",
             "product1": "",
             "product2": "",
             "product3": ""
@@ -667,7 +668,7 @@
         "839f866e-190e-452d-b328-bec991ecaa19": {
           "type": "article",
           "settings": {
-            "article": "news\/philadelphia-eagles-standard-issue",
+            "article": "news/philadelphia-eagles-standard-issue",
             "product1": "",
             "product2": "",
             "product3": ""
@@ -676,7 +677,7 @@
         "d99a3b00-f418-45ea-b644-5506a12f6957": {
           "type": "article",
           "settings": {
-            "article": "news\/jsphiladelphia-union-keeper-collection",
+            "article": "news/jsphiladelphia-union-keeper-collection",
             "product1": "",
             "product2": "",
             "product3": ""
@@ -685,7 +686,7 @@
         "1b4e7de1-6f64-4649-a802-8b08e52d3880": {
           "type": "article",
           "settings": {
-            "article": "news\/eminems-kamikaze-5-year-anniversary-merch-capsule-collection-by-standard-issue",
+            "article": "news/eminems-kamikaze-5-year-anniversary-merch-capsule-collection-by-standard-issue",
             "product1": "",
             "product2": "",
             "product3": ""
@@ -694,7 +695,7 @@
         "16e32a28-936d-42ef-b5c7-70ffb75d0505": {
           "type": "article",
           "settings": {
-            "article": "news\/the-team-toyo-tires-world-class-collection",
+            "article": "news/the-team-toyo-tires-world-class-collection",
             "product1": "",
             "product2": "",
             "product3": ""
@@ -703,7 +704,7 @@
         "1f084ad8-be84-4a84-b5ce-d9aed8b9d922": {
           "type": "article",
           "settings": {
-            "article": "news\/jsp-teams-up-with-vault-by-vans-for-third-footwear-installment",
+            "article": "news/jsp-teams-up-with-vault-by-vans-for-third-footwear-installment",
             "product1": "",
             "product2": "",
             "product3": ""
@@ -712,7 +713,7 @@
         "featured-blog-1": {
           "type": "article",
           "settings": {
-            "article": "news\/jay-z-sighting-in-standard-issue-tees-for-the-brooklyn-museum",
+            "article": "news/jay-z-sighting-in-standard-issue-tees-for-the-brooklyn-museum",
             "product1": "",
             "product2": "",
             "product3": ""
@@ -721,7 +722,7 @@
         "featured-blog-2": {
           "type": "article",
           "settings": {
-            "article": "news\/new-york-magazine-features-standard-issue-tees-standard-sweatpants-in-suede-in-what-s-the-best-men-s-loungewear",
+            "article": "news/new-york-magazine-features-standard-issue-tees-standard-sweatpants-in-suede-in-what-s-the-best-men-s-loungewear",
             "product1": "mid-weight-organic-fleece-sweatpants-moonscape",
             "product2": "",
             "product3": ""
@@ -751,7 +752,7 @@
       "type": "apps",
       "blocks": {
         "instafeed_app_block_n7CKCz": {
-          "type": "shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "type": "shopify://apps/instafeed/blocks/app-block/c447db20-095d-4a10-9725-b5977662c9d5",
           "settings": {
             "title": "",
             "title_color": "",
