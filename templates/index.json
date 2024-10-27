@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "slideshow": {
@@ -113,27 +113,6 @@
             "video_btn_link": ""
           }
         },
-        "image_ybNP8x": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/SIT_Homepage_Banners_Desktop_13.jpg",
-            "image_mobile": "shopify://shop_images/SIT_Homepage_Banners_Mobile_14.jpg",
-            "bg_position": "center-center",
-            "overlay_opacity": 20,
-            "text_color": "text-light",
-            "title": "Sashiko Slacker Restock",
-            "slide_subheading": "We had to bring back some classic colors in the vintage black and slate offerings. Restock now available in our web shop. Enjoy...",
-            "slide_btn_text": "Shop Now",
-            "slide_btn_link": "shopify://collections/sashiko-slacker-pant",
-            "slide_btn_style": "secondary",
-            "slide_btn_text_2": "",
-            "slide_btn_link_2": "",
-            "slide_btn_style_2": "secondary",
-            "video_btn_text": "",
-            "video_btn_link": ""
-          }
-        },
         "image_rnAq9B": {
           "type": "image",
           "disabled": true,
@@ -162,7 +141,6 @@
         "image_UNQApn",
         "image_CFwrWh",
         "image_tYxKYk",
-        "image_ybNP8x",
         "image_rnAq9B"
       ],
       "settings": {
@@ -176,6 +154,19 @@
         "transition": "slide"
       }
     },
+    "section_collection_99igWR": {
+      "type": "section-collection",
+      "settings": {
+        "collection": "standard-hoody",
+        "products_rows": 2,
+        "products_layout": "grid",
+        "show_title": false,
+        "show_collection_button": true,
+        "button_style": "primary",
+        "bg_color": "",
+        "enable_slider": true
+      }
+    },
     "299cff84-654c-4452-81f9-9573a2449e03": {
       "type": "section-collection",
       "settings": {
@@ -183,19 +174,6 @@
         "products_rows": 2,
         "products_layout": "grid",
         "show_title": true,
-        "show_collection_button": true,
-        "button_style": "primary",
-        "bg_color": "",
-        "enable_slider": true
-      }
-    },
-    "section_collection_99igWR": {
-      "type": "section-collection",
-      "settings": {
-        "collection": "standard-slacker-pant",
-        "products_rows": 2,
-        "products_layout": "grid",
-        "show_title": false,
         "show_collection_button": true,
         "button_style": "primary",
         "bg_color": "",
@@ -706,8 +684,8 @@
   },
   "order": [
     "slideshow",
-    "299cff84-654c-4452-81f9-9573a2449e03",
     "section_collection_99igWR",
+    "299cff84-654c-4452-81f9-9573a2449e03",
     "logo-list",
     "collection-list",
     "section_product_feature_9mYqF9",
