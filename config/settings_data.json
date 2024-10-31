@@ -1,17 +1,17 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "current": {
     "show_spacer_lines": false,
     "button_style": "square",
-    "favicon": "shopify:\/\/shop_images\/logo_for_shipstation.jpg",
+    "favicon": "shopify://shop_images/logo_for_shipstation.jpg",
     "color_body_bg": "#ffffff",
     "color_headings": "#333333",
     "color_body_text": "#333333",
@@ -38,10 +38,10 @@
     "cart_type": "drawer",
     "enable_cart_notes": false,
     "show_free_shipping_message": false,
-    "social_facebook_link": "https:\/\/www.facebook.com\/standardissueteesla\/",
+    "social_facebook_link": "https://www.facebook.com/standardissueteesla/",
     "social_twitter_link": "",
     "social_pinterest_link": "",
-    "social_instagram_link": "https:\/\/www.instagram.com\/standardissue\/",
+    "social_instagram_link": "https://www.instagram.com/standardissue/",
     "share_facebook": false,
     "share_twitter": false,
     "share_pinterest": false,
@@ -74,7 +74,7 @@
             "disabled": true,
             "settings": {
               "title": "NBA Collection",
-              "image": "shopify:\/\/shop_images\/img_2207.jpg",
+              "image": "shopify://shop_images/img_2207.jpg",
               "image_aspect_ratio": 1,
               "image_position": "left",
               "link": ""
@@ -88,7 +88,7 @@
           "header_position": "fixed",
           "header_transparent": false,
           "header_text_color": "black",
-          "logo": "shopify:\/\/shop_images\/SI-Black-Badge-Logo.png",
+          "logo": "shopify://shop_images/SI-Black-Badge-Logo.png",
           "logo_max_width": 50,
           "show_shop_name": false,
           "main-menu": "main-menu",
@@ -112,13 +112,13 @@
             "type": "text",
             "settings": {
               "title": "ABOUT US",
-              "footer_text": "<p>We believe that the highest quality should be the Standard. We use premium fabrics to create innovative and timeless silhouettes that you will want to wear time and time again.<\/p>"
+              "footer_text": "<p>We believe that the highest quality should be the Standard. We use premium fabrics to create innovative and timeless silhouettes that you will want to wear time and time again.</p>"
             }
           },
           "footer-block-2": {
             "type": "newsletter",
             "settings": {
-              "title": "<p>EMAIL SIGN UP HERE<\/p><p>10% OFF YOUR FIRST ORDER<\/p>"
+              "title": "<p>EMAIL SIGN UP HERE</p><p>10% OFF YOUR FIRST ORDER</p>"
             }
           }
         },
@@ -128,7 +128,7 @@
           "footer-block-2"
         ],
         "settings": {
-          "image": "shopify:\/\/shop_images\/stdiss-logo-blk.png",
+          "image": "shopify://shop_images/stdiss-logo-blk.png",
           "logo_width": 100,
           "show_shop_name": false,
           "show_social_links": true,
@@ -149,7 +149,7 @@
           "overlay_color": "#ffffff",
           "overlay_opacity": 100,
           "popup_header": "Popup",
-          "popup_content": "<p>Use it to catch emails and showcase promotions.<\/p>",
+          "popup_content": "<p>Use it to catch emails and showcase promotions.</p>",
           "text_color": "dark",
           "show_popup_newsletter": false,
           "popup_delay": "0",
@@ -171,7 +171,7 @@
             "type": "announcement",
             "settings": {
               "text": "SIGN UP FOR OUR EMAIL AND TEXT TO RECEIVE 10% OFF YOUR FIRST ORDER",
-              "link": "https:\/\/standardissuetees.com\/pages\/sign-up-for-the-standard-issue-newsletter-and-get-10-off-your-first-purchase"
+              "link": "https://standardissuetees.com/pages/sign-up-for-the-standard-issue-newsletter-and-get-10-off-your-first-purchase"
             }
           },
           "c5bcb79f-5eeb-4fc7-a931-7d140c155ac2": {
@@ -198,43 +198,49 @@
     ],
     "blocks": {
       "855628211100114053": {
-        "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/klaviyo-onsite-embed\/2632fe16-c075-4321-a88b-50b567f42507",
+        "type": "shopify://apps/klaviyo-email-marketing-sms/blocks/klaviyo-onsite-embed/2632fe16-c075-4321-a88b-50b567f42507",
         "disabled": false,
         "settings": {
         }
       },
       "11349500561483629931": {
-        "type": "shopify:\/\/apps\/restock-back-in-stock-alerts\/blocks\/app-embed\/b399b727-6c85-44fc-9e21-63114bd72054",
+        "type": "shopify://apps/restock-back-in-stock-alerts/blocks/app-embed/b399b727-6c85-44fc-9e21-63114bd72054",
         "disabled": false,
         "settings": {
         }
       },
       "6279071938380501511": {
-        "type": "shopify:\/\/apps\/powerful-form-builder\/blocks\/app-embed\/e4bcb1eb-35b2-42e6-bc37-bfe0e1542c9d",
+        "type": "shopify://apps/powerful-form-builder/blocks/app-embed/e4bcb1eb-35b2-42e6-bc37-bfe0e1542c9d",
         "disabled": false,
         "settings": {
         }
       },
       "15685250022964305326": {
-        "type": "shopify:\/\/apps\/elevar-conversion-tracking\/blocks\/dataLayerEmbed\/bc30ab68-b15c-4311-811f-8ef485877ad6",
+        "type": "shopify://apps/elevar-conversion-tracking/blocks/dataLayerEmbed/bc30ab68-b15c-4311-811f-8ef485877ad6",
         "disabled": false,
         "settings": {
         }
       },
       "11532412952436166569": {
-        "type": "shopify:\/\/apps\/loox-reviews\/blocks\/loox-inject\/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+        "type": "shopify://apps/loox-reviews/blocks/loox-inject/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
         "disabled": false,
         "settings": {
         }
       },
       "21474836472147483647": {
-        "type": "shopify:\/\/apps\/ecomposer-landing-page-builder\/blocks\/app-embed\/a0fc26e1-7741-4773-8b27-39389b4fb4a0",
+        "type": "shopify://apps/ecomposer-landing-page-builder/blocks/app-embed/a0fc26e1-7741-4773-8b27-39389b4fb4a0",
         "disabled": false,
         "settings": {
         }
       },
       "17428600031447253342": {
-        "type": "shopify:\/\/apps\/attentive\/blocks\/attn-tag\/8df62c72-8fe4-407e-a5b3-72132be30a0d",
+        "type": "shopify://apps/attentive/blocks/attn-tag/8df62c72-8fe4-407e-a5b3-72132be30a0d",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "4252583770683550135": {
+        "type": "shopify://apps/redo-free-return-automation/blocks/redo_app_embed/c613644b-6df4-4d11-b336-43a5c06745a1",
         "disabled": false,
         "settings": {
         }
@@ -320,13 +326,13 @@
               "type": "text",
               "settings": {
                 "title": "About us",
-                "footer_text": "<p>Leave your customers with a final message about your brand in this rich text block.<\/p>"
+                "footer_text": "<p>Leave your customers with a final message about your brand in this rich text block.</p>"
               }
             },
             "footer-block-2": {
               "type": "newsletter",
               "settings": {
-                "title": "<p>Newsletter<\/p>"
+                "title": "<p>Newsletter</p>"
               }
             }
           },
@@ -356,7 +362,7 @@
             "overlay_color": "#fff",
             "overlay_opacity": 100,
             "popup_header": "Popup",
-            "popup_content": "<p>Use it to catch emails and showcase promotions.<\/p>",
+            "popup_content": "<p>Use it to catch emails and showcase promotions.</p>",
             "text_color": "dark",
             "show_popup_newsletter": false,
             "popup_delay": "0",
@@ -450,13 +456,13 @@
               "type": "text",
               "settings": {
                 "title": "About us",
-                "footer_text": "<p>Leave your customers with a final message about your brand in this rich text block.<\/p>"
+                "footer_text": "<p>Leave your customers with a final message about your brand in this rich text block.</p>"
               }
             },
             "footer-block-2": {
               "type": "newsletter",
               "settings": {
-                "title": "<p>Newsletter<\/p>"
+                "title": "<p>Newsletter</p>"
               }
             }
           },
@@ -486,7 +492,7 @@
             "overlay_color": "#fff",
             "overlay_opacity": 100,
             "popup_header": "Popup",
-            "popup_content": "<p>Use it to catch emails and showcase promotions.<\/p>",
+            "popup_content": "<p>Use it to catch emails and showcase promotions.</p>",
             "text_color": "dark",
             "show_popup_newsletter": false,
             "popup_delay": "0",
@@ -580,13 +586,13 @@
               "type": "text",
               "settings": {
                 "title": "About us",
-                "footer_text": "<p>Leave your customers with a final message about your brand in this rich text block.<\/p>"
+                "footer_text": "<p>Leave your customers with a final message about your brand in this rich text block.</p>"
               }
             },
             "footer-block-2": {
               "type": "newsletter",
               "settings": {
-                "title": "<p>Newsletter<\/p>"
+                "title": "<p>Newsletter</p>"
               }
             }
           },
@@ -616,7 +622,7 @@
             "overlay_color": "#fff",
             "overlay_opacity": 100,
             "popup_header": "Popup",
-            "popup_content": "<p>Use it to catch emails and showcase promotions.<\/p>",
+            "popup_content": "<p>Use it to catch emails and showcase promotions.</p>",
             "text_color": "dark",
             "show_popup_newsletter": false,
             "popup_delay": "0",
