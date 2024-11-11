@@ -161,9 +161,8 @@
         "blocks": {
           "announcement_WjWy3f": {
             "type": "announcement",
-            "disabled": true,
             "settings": {
-              "text": "7 Year Anniversary Sale! 25% off sitewide. Use code   YR7ANI24",
+              "text": "EARLY BLACK FRIDAY DEAL! ONLY 2 DAYS!  USE CODE RD-EARLY30 for 30% OFF YOUR ORDER",
               "link": ""
             }
           },
@@ -193,57 +192,47 @@
         }
       }
     },
-    "content_for_index": [
-
-    ],
+    "content_for_index": [],
     "blocks": {
       "855628211100114053": {
         "type": "shopify://apps/klaviyo-email-marketing-sms/blocks/klaviyo-onsite-embed/2632fe16-c075-4321-a88b-50b567f42507",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       },
       "11349500561483629931": {
         "type": "shopify://apps/restock-back-in-stock-alerts/blocks/app-embed/b399b727-6c85-44fc-9e21-63114bd72054",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       },
       "6279071938380501511": {
         "type": "shopify://apps/powerful-form-builder/blocks/app-embed/e4bcb1eb-35b2-42e6-bc37-bfe0e1542c9d",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       },
       "15685250022964305326": {
         "type": "shopify://apps/elevar-conversion-tracking/blocks/dataLayerEmbed/bc30ab68-b15c-4311-811f-8ef485877ad6",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       },
       "11532412952436166569": {
         "type": "shopify://apps/loox-reviews/blocks/loox-inject/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       },
       "21474836472147483647": {
         "type": "shopify://apps/ecomposer-landing-page-builder/blocks/app-embed/a0fc26e1-7741-4773-8b27-39389b4fb4a0",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       },
       "17428600031447253342": {
         "type": "shopify://apps/attentive/blocks/attn-tag/8df62c72-8fe4-407e-a5b3-72132be30a0d",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       },
       "4252583770683550135": {
         "type": "shopify://apps/redo-free-return-automation/blocks/redo_app_embed/c613644b-6df4-4d11-b336-43a5c06745a1",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       }
     }
   },
