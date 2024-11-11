@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "faq": {
@@ -7,49 +16,49 @@
           "type": "item",
           "settings": {
             "title": "What size should I get?",
-            "answer": "<p>We recommend you look at our height and weight sizing guide for your ideal size. Please note that our products are configured with a relaxed fit in mind. <a href=\"https:\/\/standardissuetees.com\/pages\/sizing-guide\"><span style=\"text-decoration:underline\">https:\/\/standardissuetees.com\/pages\/sizing-guide<\/span><\/a><\/p>"
+            "answer": "<p>We recommend you look at our height and weight sizing guide for your ideal size. Please note that our products are configured with a relaxed fit in mind. <a href=\"https://standardissuetees.com/pages/sizing-guide\"><span style=\"text-decoration:underline\">https://standardissuetees.com/pages/sizing-guide</span></a></p>"
           }
         },
         "faq-1": {
           "type": "item",
           "settings": {
             "title": "What do I do if I input the wrong address?",
-            "answer": "<p>Please reach out to us through our contact form with your order number. If we catch your shipment before it gets out we’ll update the correct address on our end. If your shipment leaves before you contact us we will need to start a return process. <a href=\"https:\/\/standardissuetees.com\/pages\/contact\"><span style=\"text-decoration:underline\">https:\/\/standardissuetees.com\/pages\/contact<\/span><\/a><\/p>"
+            "answer": "<p>Please reach out to us through our contact form with your order number. If we catch your shipment before it gets out we’ll update the correct address on our end. If your shipment leaves before you contact us we will need to start a return process. <a href=\"https://standardissuetees.com/pages/contact\"><span style=\"text-decoration:underline\">https://standardissuetees.com/pages/contact</span></a></p>"
           }
         },
         "faq-2": {
           "type": "item",
           "settings": {
             "title": "When are you restocking?",
-            "answer": "<p>Sign up for our email and text notifications to get the latest on restocks and new releases. <\/p>"
+            "answer": "<p>Sign up for our email and text notifications to get the latest on restocks and new releases. </p>"
           }
         },
         "item_jVfn7j": {
           "type": "item",
           "settings": {
             "title": "I forgot to add my discount code, what should I do?",
-            "answer": "<p>Please reach out to us through our contact form with your order number. <a href=\"https:\/\/standardissuetees.com\/pages\/contact\"><span style=\"text-decoration:underline\">https:\/\/standardissuetees.com\/pages\/contact<\/span><\/a><\/p>"
+            "answer": "<p>Please reach out to us through our contact form with your order number. <a href=\"https://standardissuetees.com/pages/contact\"><span style=\"text-decoration:underline\">https://standardissuetees.com/pages/contact</span></a></p>"
           }
         },
         "item_3WNTBq": {
           "type": "item",
           "settings": {
             "title": "What is your return policy?",
-            "answer": "<p>Please visit our shipping\/ returns\/ exchanges page for more details: <a href=\"https:\/\/standardissuetees.com\/pages\/returns-exchanges-2\"><span style=\"text-decoration:underline\">https:\/\/standardissuetees.com\/pages\/returns-exchanges-2<\/span><\/a><\/p>"
+            "answer": "<p>Please visit our shipping/ returns/ exchanges page for more details: <a href=\"https://standardissuetees.com/pages/returns-exchanges-2\"><span style=\"text-decoration:underline\">https://standardissuetees.com/pages/returns-exchanges-2</span></a></p>"
           }
         },
         "item_cXpYWP": {
           "type": "item",
           "settings": {
             "title": "How much does shipping cost?",
-            "answer": "<ul><li>Economy ground shipping is free on orders over $250 (US Only) and $5 flat rate economy ground on all orders under $250 (US Only). <\/li><li>International shipping rates are based on location and vary. Taxes and duties are the customer's responsibility. <\/li><\/ul>"
+            "answer": "<ul><li>Economy ground shipping is free on orders over $250 (US Only) and $5 flat rate economy ground on all orders under $250 (US Only). </li><li>International shipping rates are based on location and vary. Taxes and duties are the customer's responsibility. </li></ul>"
           }
         },
         "item_BtAT9e": {
           "type": "item",
           "settings": {
-            "title": "Frequently Asked Questions",
-            "answer": "<p>Yes - only selected countries. If we don’t pop on the checkout, unfortunately we do not ship to your location. <\/p>"
+            "title": "Do you ship internationally?",
+            "answer": "<p>Yes - only selected countries. If we don’t pop on the checkout, unfortunately we do not ship to your location. </p>"
           }
         }
       },
