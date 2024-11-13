@@ -161,6 +161,7 @@
         "blocks": {
           "announcement_WjWy3f": {
             "type": "announcement",
+            "disabled": true,
             "settings": {
               "text": "EARLY BLACK FRIDAY DEAL! ONLY 2 DAYS!  USE CODE RD-EARLY30 for 30% OFF YOUR ORDER",
               "link": ""
