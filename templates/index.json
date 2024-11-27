@@ -16,8 +16,8 @@
           "type": "image",
           "disabled": true,
           "settings": {
-            "image": "shopify://shop_images/SIT_Homepage_Banners_Desktop_20.jpg",
-            "image_mobile": "shopify://shop_images/SI_BFCM_FLYER_UPDATED.jpg",
+            "image": "shopify://shop_images/SIT_Homepage_Banners_Desktop_21.jpg",
+            "image_mobile": "shopify://shop_images/SIT_Homepage_Banners_Mobile_21.jpg",
             "bg_position": "center-center",
             "overlay_opacity": 20,
             "text_color": "text-light",
