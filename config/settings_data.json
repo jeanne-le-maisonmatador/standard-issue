@@ -161,6 +161,7 @@
         "blocks": {
           "announcement_WjWy3f": {
             "type": "announcement",
+            "disabled": true,
             "settings": {
               "text": "OUR BLACK FRIDAY SALE IS HERE! USE CODE RD-BFCM30 AT CHECK OUT!",
               "link": ""
