@@ -1,1 +1,113 @@
-{"sections":{"featured-image":{"type":"section-featured-image","settings":{"image_height":"five-fifty-height-hero"}},"product-feature":{"type":"section-product-feature","settings":{}},"main":{"type":"main-page","settings":{}}},"order":["featured-image","product-feature","main"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "featured-image": {
+      "type": "section-featured-image",
+      "settings": {
+        "image_height": "five-fifty-height-hero",
+        "text_position": "center-center",
+        "enable_parallax": false,
+        "image": "shopify://shop_images/Copy_of_SIT_Homepage_Banner.jpg",
+        "image_position": "center-center",
+        "overlay_opacity": 20,
+        "text_color": "text-light",
+        "title": "Standard Issue",
+        "subheading": "Uniform for the People",
+        "button_text": "",
+        "button_link": "",
+        "button_style": "primary"
+      }
+    },
+    "section_image_with_text_m8TRkE": {
+      "type": "section-image-with-text",
+      "settings": {
+        "section_height": "sixty-fifty-height-hero",
+        "text_position": "right",
+        "image": "shopify://shop_images/Untitled_design_37.jpg",
+        "image_background": false,
+        "bg_position": "center-center",
+        "subheading": "",
+        "heading": "Our Philosophy",
+        "text": "<p>At Standard Issue, we believe in the power of simplicity. We’ve taken the classic American silhouette and elevated it for the modern man—creating pieces that feel effortless but never ordinary. It’s all about the details: clean lines, perfect fits, and quality you can feel.</p>",
+        "button_text": "",
+        "button_url": "",
+        "button_style": "primary",
+        "bg_color": ""
+      }
+    },
+    "section_image_with_text_fqQzW3": {
+      "type": "section-image-with-text",
+      "settings": {
+        "section_height": "sixty-fifty-height-hero",
+        "text_position": "left",
+        "image": "shopify://shop_images/Untitled_design_40.jpg",
+        "image_background": false,
+        "bg_position": "center-center",
+        "subheading": "",
+        "heading": "The Journey",
+        "text": "<p>Our journey started in 2017 with one goal: to craft the perfect tee. Founder Jarod Lee set out to design pieces on his own terms—rejecting fast trends and focusing on timeless essentials. From that first tee, we’ve expanded our philosophy across a full range of garments that fit seamlessly into your life.</p>",
+        "button_text": "Learn More",
+        "button_url": "",
+        "button_style": "primary",
+        "bg_color": ""
+      }
+    },
+    "section_image_with_text_9yhbPr": {
+      "type": "section-image-with-text",
+      "settings": {
+        "section_height": "sixty-fifty-height-hero",
+        "text_position": "right",
+        "image": "shopify://shop_images/290688127_580288893758303_3012099918932805853_n.jpg",
+        "image_background": false,
+        "bg_position": "center-center",
+        "subheading": "Jimmy Gorecki",
+        "heading": "The JSP Collection",
+        "text": "<p>Jimmy Sweat Pants or JSP for short</p>",
+        "button_text": "Learn More",
+        "button_url": "",
+        "button_style": "primary",
+        "bg_color": ""
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_page_title": true
+      }
+    },
+    "section_rich_text_mHQwir": {
+      "type": "section-rich-text",
+      "settings": {
+        "text_position": "center",
+        "top_image_width": 100,
+        "subheading": "your everyday uniform",
+        "heading": "Welcome to the Rotation",
+        "text": "<p>We don’t just want to be another brand in your closet; we want to be the brand. The one you reach for every day. The one you trust for its comfort, durability, and understated style — your daily uniform.</p>",
+        "button_text": "",
+        "button_url": "",
+        "button_style": "primary",
+        "secondary_button_text": "",
+        "secondary_button_url": "",
+        "secondary_button_style": "secondary",
+        "bg_color": ""
+      }
+    }
+  },
+  "order": [
+    "featured-image",
+    "section_image_with_text_m8TRkE",
+    "section_image_with_text_fqQzW3",
+    "section_image_with_text_9yhbPr",
+    "main",
+    "section_rich_text_mHQwir"
+  ]
+}
