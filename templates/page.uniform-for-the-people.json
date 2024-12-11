@@ -15,11 +15,12 @@
         "image_height": "one-hundred-height-hero",
         "text_position": "center-center",
         "enable_parallax": false,
+        "image": "shopify://shop_images/Copy_of_SIT_Homepage_Banner.jpg",
         "image_position": "center-center",
         "overlay_opacity": 20,
         "text_color": "text-light",
-        "title": "Welcome to Palo Alto",
-        "subheading": "Describe in a few words your special products, collection, or brand.",
+        "title": "Standard Issue",
+        "subheading": "A Uniform for the People",
         "button_text": "",
         "button_link": "",
         "button_style": "primary"
@@ -47,8 +48,8 @@
         "button_text": "",
         "button_url": "",
         "button_style": "primary",
-        "text_color": "#000",
-        "bg_color": "#fff"
+        "text_color": "#000000",
+        "bg_color": "#ffffff"
       }
     },
     "main": {
