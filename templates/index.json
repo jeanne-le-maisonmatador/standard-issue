@@ -56,7 +56,6 @@
         },
         "image_cyXDwe": {
           "type": "image",
-          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/Houndstooth_Desk_Banner.jpg",
             "image_mobile": "shopify://shop_images/SIT_Mobile_Banner_Houndstooth.jpg",
