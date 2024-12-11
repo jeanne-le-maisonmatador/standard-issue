@@ -57,11 +57,29 @@
       "settings": {
         "show_page_title": true
       }
+    },
+    "section_image_with_text_xMWX3Y": {
+      "type": "section-image-with-text",
+      "settings": {
+        "section_height": "sixty-fifty-height-hero",
+        "text_position": "left",
+        "image": "shopify://shop_images/290688127_580288893758303_3012099918932805853_n.jpg",
+        "image_background": false,
+        "bg_position": "center-center",
+        "subheading": "Jimmy Gorecki",
+        "heading": "The JSP Collection",
+        "text": "<p>In 2014, Jarod and Jimmy started JSP, which is now one of Standard Issue’s in house brands. And after picking up where they left off, in 2016 along with the help of Jimmy, Jarod shifted direction once again to focus on their brands, Standard Issue and JSP. Together they bring attention to detail and the focus of comfort and quality for everyone to experience with their range of apparel.</p>",
+        "button_text": "",
+        "button_url": "",
+        "button_style": "primary",
+        "bg_color": ""
+      }
     }
   },
   "order": [
     "section_featured_image_dLNcME",
     "section_image_columns_tzNdiF",
-    "main"
+    "main",
+    "section_image_with_text_xMWX3Y"
   ]
 }
