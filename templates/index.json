@@ -12,6 +12,26 @@
     "slideshow": {
       "type": "section-slideshow",
       "blocks": {
+        "image_VUTf7r": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Copy_of_SIT_Homepage_Banner_3000_x_1200_px.jpg",
+            "image_mobile": "shopify://shop_images/SI_HOLIDAY_GIFT_GUIDE-01.png",
+            "bg_position": "center-center",
+            "overlay_opacity": 20,
+            "text_color": "text-light",
+            "title": "",
+            "slide_subheading": "",
+            "slide_btn_text": "Shop Now",
+            "slide_btn_link": "shopify://collections/holiday-22-gift-guide-collection",
+            "slide_btn_style": "primary",
+            "slide_btn_text_2": "",
+            "slide_btn_link_2": "",
+            "slide_btn_style_2": "secondary",
+            "video_btn_text": "",
+            "video_btn_link": ""
+          }
+        },
         "image_cyXDwe": {
           "type": "image",
           "settings": {
@@ -112,35 +132,15 @@
             "video_btn_text": "",
             "video_btn_link": ""
           }
-        },
-        "image_VUTf7r": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Copy_of_SIT_Homepage_Banner_1.jpg",
-            "image_mobile": "shopify://shop_images/SI_HOLIDAY_GIFT_GUIDE-01.png",
-            "bg_position": "center-center",
-            "overlay_opacity": 20,
-            "text_color": "text-light",
-            "title": "",
-            "slide_subheading": "",
-            "slide_btn_text": "",
-            "slide_btn_link": "shopify://collections/holiday-22-gift-guide-collection",
-            "slide_btn_style": "primary",
-            "slide_btn_text_2": "",
-            "slide_btn_link_2": "",
-            "slide_btn_style_2": "secondary",
-            "video_btn_text": "",
-            "video_btn_link": ""
-          }
         }
       },
       "block_order": [
+        "image_VUTf7r",
         "image_cyXDwe",
         "image_JbycmH",
         "image_UNQApn",
         "image_CFwrWh",
-        "image_tYxKYk",
-        "image_VUTf7r"
+        "image_tYxKYk"
       ],
       "settings": {
         "slide_height": "one-hundred-height-hero",
