@@ -16,7 +16,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Copy_of_SIT_Homepage_Banner_3000_x_1200_px.jpg",
-            "image_mobile": "shopify://shop_images/SI_HOLIDAY_GIFT_GUIDE-01.png",
+            "image_mobile": "shopify://shop_images/HOLIDAY_GIFT_GUIDE.jpg",
             "bg_position": "center-bottom",
             "overlay_opacity": 20,
             "text_color": "text-light",
