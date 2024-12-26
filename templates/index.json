@@ -552,6 +552,15 @@
     "featured-blog": {
       "type": "section-blog",
       "blocks": {
+        "article_Fd33yt": {
+          "type": "article",
+          "settings": {
+            "article": "news/standard-issue-for-nordstrom",
+            "product1": "",
+            "product2": "",
+            "product3": ""
+          }
+        },
         "article_yFe98q": {
           "type": "article",
           "settings": {
@@ -644,6 +653,7 @@
         }
       },
       "block_order": [
+        "article_Fd33yt",
         "article_yFe98q",
         "article_tyAJjp",
         "article_7HyyEd",
