@@ -12,6 +12,27 @@
     "slideshow": {
       "type": "section-slideshow",
       "blocks": {
+        "image_7TWeTf": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/5_ee7cb13e-958b-4a3c-b18f-812dbd09d56c.jpg",
+            "image_mobile": "shopify://shop_images/SIT_Mobile_Banner.jpg",
+            "bg_position": "center-center",
+            "overlay_opacity": 20,
+            "text_color": "text-light",
+            "title": "",
+            "slide_subheading": "",
+            "slide_btn_text": "",
+            "slide_btn_link": "",
+            "slide_btn_style": "primary",
+            "slide_btn_text_2": "",
+            "slide_btn_link_2": "",
+            "slide_btn_style_2": "secondary",
+            "video_btn_text": "",
+            "video_btn_link": ""
+          }
+        },
         "image_VUTf7r": {
           "type": "image",
           "settings": {
@@ -135,6 +156,7 @@
         }
       },
       "block_order": [
+        "image_7TWeTf",
         "image_VUTf7r",
         "image_cyXDwe",
         "image_JbycmH",
