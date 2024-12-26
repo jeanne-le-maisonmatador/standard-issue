@@ -552,6 +552,15 @@
     "featured-blog": {
       "type": "section-blog",
       "blocks": {
+        "article_yFe98q": {
+          "type": "article",
+          "settings": {
+            "article": "news/jones-sports-co-x-standard-issue-collab",
+            "product1": "",
+            "product2": "",
+            "product3": ""
+          }
+        },
         "article_tyAJjp": {
           "type": "article",
           "settings": {
@@ -570,29 +579,11 @@
             "product3": ""
           }
         },
-        "article_yekgQw": {
-          "type": "article",
-          "settings": {
-            "article": "news/behind-the-seams-s2-e2-besidone-amoruw",
-            "product1": "",
-            "product2": "",
-            "product3": ""
-          }
-        },
         "featured-blog-3": {
           "type": "article",
           "settings": {
             "article": "news/lapstone-indigo-24-c-o-standard-issue",
             "product1": "full-zip-jacket-cotton-shearling-olive",
-            "product2": "",
-            "product3": ""
-          }
-        },
-        "2c4070ee-4082-47b4-90a7-484dfda8188f": {
-          "type": "article",
-          "settings": {
-            "article": "news/2023-standard-issue-gift-guide",
-            "product1": "",
             "product2": "",
             "product3": ""
           }
@@ -633,15 +624,6 @@
             "product3": ""
           }
         },
-        "1f084ad8-be84-4a84-b5ce-d9aed8b9d922": {
-          "type": "article",
-          "settings": {
-            "article": "news/jsp-teams-up-with-vault-by-vans-for-third-footwear-installment",
-            "product1": "",
-            "product2": "",
-            "product3": ""
-          }
-        },
         "featured-blog-1": {
           "type": "article",
           "settings": {
@@ -662,16 +644,14 @@
         }
       },
       "block_order": [
+        "article_yFe98q",
         "article_tyAJjp",
         "article_7HyyEd",
-        "article_yekgQw",
         "featured-blog-3",
-        "2c4070ee-4082-47b4-90a7-484dfda8188f",
         "839f866e-190e-452d-b328-bec991ecaa19",
         "d99a3b00-f418-45ea-b644-5506a12f6957",
         "1b4e7de1-6f64-4649-a802-8b08e52d3880",
         "16e32a28-936d-42ef-b5c7-70ffb75d0505",
-        "1f084ad8-be84-4a84-b5ce-d9aed8b9d922",
         "featured-blog-1",
         "featured-blog-2"
       ],
