@@ -159,13 +159,6 @@
       "announcement-bar": {
         "type": "announcement-bar",
         "blocks": {
-          "announcement_WjWy3f": {
-            "type": "announcement",
-            "settings": {
-              "text": "END OF YEAR SALE 25% OFF SITEWIDE USE CODE END25",
-              "link": ""
-            }
-          },
           "0144ea24-7006-40b7-8b41-6695729a4524": {
             "type": "announcement",
             "settings": {
@@ -182,7 +175,6 @@
           }
         },
         "block_order": [
-          "announcement_WjWy3f",
           "0144ea24-7006-40b7-8b41-6695729a4524",
           "c5bcb79f-5eeb-4fc7-a931-7d140c155ac2"
         ],
