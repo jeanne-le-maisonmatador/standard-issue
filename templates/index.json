@@ -14,7 +14,6 @@
       "blocks": {
         "image_AMh9pm": {
           "type": "image",
-          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/SIT_Homepage_Banner_2025_OLD_SITE_3000_x_1200_px_4.jpg",
             "image_mobile": "shopify://shop_images/SIT_Mobile_Banner_Template_4.jpg",
@@ -153,10 +152,10 @@
         "transition": "slide"
       }
     },
-    "section_collection_99igWR": {
+    "section_collection_pWjj8E": {
       "type": "section-collection",
       "settings": {
-        "collection": "outerwear-1",
+        "collection": "standard-thermal-sweater",
         "products_rows": 2,
         "products_layout": "grid",
         "show_title": false,
@@ -166,10 +165,10 @@
         "enable_slider": true
       }
     },
-    "section_collection_pWjj8E": {
+    "section_collection_99igWR": {
       "type": "section-collection",
       "settings": {
-        "collection": "standard-thermal-sweater",
+        "collection": "outerwear-1",
         "products_rows": 2,
         "products_layout": "grid",
         "show_title": false,
