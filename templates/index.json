@@ -265,6 +265,46 @@
         "bg_color": ""
       }
     },
+    "section_product_feature_9mYqF9": {
+      "type": "section-product-feature",
+      "settings": {
+        "image_layout": "square",
+        "image_position": "overlapping",
+        "text_position": "right",
+        "text_alignment": "center",
+        "image_1": "shopify://shop_images/newwww0415.jpg",
+        "image_link_1": "shopify://collections/winter-essentials",
+        "image_link_2": "",
+        "hide_image_2": false,
+        "heading": "Cold Weather Essentials",
+        "description": "<p>Your must-have pieces for the cold winter months.</p>",
+        "button_text": "Shop Now",
+        "button_link": "shopify://collections/winter-essentials",
+        "button_style": "primary",
+        "video_url": "",
+        "bg_color": ""
+      }
+    },
+    "product-feature": {
+      "type": "section-product-feature",
+      "settings": {
+        "image_layout": "square",
+        "image_position": "inline",
+        "text_position": "left",
+        "text_alignment": "left",
+        "image_1": "shopify://shop_images/Standard_Long_Sleeve_Tee_Bundle.jpg",
+        "image_link_1": "shopify://collections/multi-packs",
+        "image_link_2": "",
+        "hide_image_2": false,
+        "heading": "BUNDLE AND SAVE: Tee Multi-Packs",
+        "description": "<p>It pays to bundle your favorite tees. Shop Tee Multi-Packs and save.</p>",
+        "button_text": "SHOP NOW",
+        "button_link": "shopify://collections/multi-packs",
+        "button_style": "primary",
+        "video_url": "",
+        "bg_color": ""
+      }
+    },
     "collection-list": {
       "type": "section-list-collection",
       "blocks": {
@@ -321,46 +361,6 @@
         "bg_color": "#ffffff",
         "text_color": "light",
         "enable_slider": true
-      }
-    },
-    "section_product_feature_9mYqF9": {
-      "type": "section-product-feature",
-      "settings": {
-        "image_layout": "square",
-        "image_position": "overlapping",
-        "text_position": "right",
-        "text_alignment": "center",
-        "image_1": "shopify://shop_images/newwww0415.jpg",
-        "image_link_1": "shopify://collections/winter-essentials",
-        "image_link_2": "",
-        "hide_image_2": false,
-        "heading": "Cold Weather Essentials",
-        "description": "<p>Your must-have pieces for the cold winter months.</p>",
-        "button_text": "Shop Now",
-        "button_link": "shopify://collections/winter-essentials",
-        "button_style": "primary",
-        "video_url": "",
-        "bg_color": ""
-      }
-    },
-    "product-feature": {
-      "type": "section-product-feature",
-      "settings": {
-        "image_layout": "square",
-        "image_position": "inline",
-        "text_position": "left",
-        "text_alignment": "left",
-        "image_1": "shopify://shop_images/Standard_Long_Sleeve_Tee_Bundle.jpg",
-        "image_link_1": "shopify://collections/multi-packs",
-        "image_link_2": "",
-        "hide_image_2": false,
-        "heading": "BUNDLE AND SAVE: Tee Multi-Packs",
-        "description": "<p>It pays to bundle your favorite tees. Shop Tee Multi-Packs and save.</p>",
-        "button_text": "SHOP NOW",
-        "button_link": "shopify://collections/multi-packs",
-        "button_style": "primary",
-        "video_url": "",
-        "bg_color": ""
       }
     },
     "f29460d5-121b-4bcb-8d71-9e2371f32adf": {
@@ -690,9 +690,9 @@
     "section_collection_pWjj8E",
     "299cff84-654c-4452-81f9-9573a2449e03",
     "logo-list",
-    "collection-list",
     "section_product_feature_9mYqF9",
     "product-feature",
+    "collection-list",
     "f29460d5-121b-4bcb-8d71-9e2371f32adf",
     "6dcd1e80-2b07-4941-9f18-001e4aab87d4",
     "892dd121-cafb-4a74-b9fa-754385282356",
