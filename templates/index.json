@@ -543,6 +543,24 @@
     "featured-blog": {
       "type": "section-blog",
       "blocks": {
+        "article_8zBKad": {
+          "type": "article",
+          "settings": {
+            "article": "news/jones-sports-co-x-standard-issue-collab-3",
+            "product1": "",
+            "product2": "",
+            "product3": ""
+          }
+        },
+        "article_hwRMVG": {
+          "type": "article",
+          "settings": {
+            "article": "news/gq-names-the-standard-thermal-in-their-latest-article-the-best-waffle-thermal-layer-is-your-heartthrob-style-hack",
+            "product1": "",
+            "product2": "",
+            "product3": ""
+          }
+        },
         "article_Fd33yt": {
           "type": "article",
           "settings": {
@@ -565,15 +583,6 @@
           "type": "article",
           "settings": {
             "article": "news/standard-issue-x-team-toyo-maximum-traction-collection",
-            "product1": "",
-            "product2": "",
-            "product3": ""
-          }
-        },
-        "article_7HyyEd": {
-          "type": "article",
-          "settings": {
-            "article": "news/behind-the-seams-s2-e3-greg-lucci",
             "product1": "",
             "product2": "",
             "product3": ""
@@ -632,29 +641,20 @@
             "product2": "",
             "product3": ""
           }
-        },
-        "featured-blog-2": {
-          "type": "article",
-          "settings": {
-            "article": "news/new-york-magazine-features-standard-issue-tees-standard-sweatpants-in-suede-in-what-s-the-best-men-s-loungewear",
-            "product1": "mid-weight-organic-fleece-sweatpants-moonscape",
-            "product2": "",
-            "product3": ""
-          }
         }
       },
       "block_order": [
+        "article_8zBKad",
+        "article_hwRMVG",
         "article_Fd33yt",
         "article_yFe98q",
         "article_tyAJjp",
-        "article_7HyyEd",
         "featured-blog-3",
         "839f866e-190e-452d-b328-bec991ecaa19",
         "d99a3b00-f418-45ea-b644-5506a12f6957",
         "1b4e7de1-6f64-4649-a802-8b08e52d3880",
         "16e32a28-936d-42ef-b5c7-70ffb75d0505",
-        "featured-blog-1",
-        "featured-blog-2"
+        "featured-blog-1"
       ],
       "settings": {
         "title": "",
