@@ -112,26 +112,6 @@
             "video_btn_link": ""
           }
         },
-        "image_VUTf7r": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Copy_of_SIT_Homepage_Banner_3000_x_1200_px_1.jpg",
-            "image_mobile": "shopify://shop_images/HOLIDAY_GIFT_GUIDE_1.jpg",
-            "bg_position": "center-bottom",
-            "overlay_opacity": 20,
-            "text_color": "text-light",
-            "title": "It’s Getting Cold—Stay Warm with Standard Issue",
-            "slide_subheading": "From jackets to hoodies to long sleeve shirts - we got you covered all season long",
-            "slide_btn_text": "Shop Now",
-            "slide_btn_link": "shopify://collections/outerwear",
-            "slide_btn_style": "secondary",
-            "slide_btn_text_2": "",
-            "slide_btn_link_2": "",
-            "slide_btn_style_2": "secondary",
-            "video_btn_text": "",
-            "video_btn_link": ""
-          }
-        },
         "image_cyXDwe": {
           "type": "image",
           "settings": {
@@ -159,7 +139,6 @@
         "image_UNNJdy",
         "image_AGghqg",
         "image_EwJYQj",
-        "image_VUTf7r",
         "image_cyXDwe"
       ],
       "settings": {
@@ -173,8 +152,22 @@
         "transition": "slide"
       }
     },
+    "299cff84-654c-4452-81f9-9573a2449e03": {
+      "type": "section-collection",
+      "settings": {
+        "collection": "new-arrivals",
+        "products_rows": 2,
+        "products_layout": "grid",
+        "show_title": true,
+        "show_collection_button": true,
+        "button_style": "primary",
+        "bg_color": "",
+        "enable_slider": true
+      }
+    },
     "section_collection_99igWR": {
       "type": "section-collection",
+      "disabled": true,
       "settings": {
         "collection": "standard-issue-x-megadeth",
         "products_rows": 2,
@@ -192,19 +185,6 @@
         "collection": "standard-thermal-sweater",
         "products_rows": 2,
         "products_layout": "carousel",
-        "show_title": true,
-        "show_collection_button": true,
-        "button_style": "primary",
-        "bg_color": "",
-        "enable_slider": true
-      }
-    },
-    "299cff84-654c-4452-81f9-9573a2449e03": {
-      "type": "section-collection",
-      "settings": {
-        "collection": "new-arrivals",
-        "products_rows": 2,
-        "products_layout": "grid",
         "show_title": true,
         "show_collection_button": true,
         "button_style": "primary",
@@ -292,14 +272,14 @@
         "image_position": "overlapping",
         "text_position": "right",
         "text_alignment": "center",
-        "image_1": "shopify://shop_images/newwww0415.jpg",
-        "image_link_1": "shopify://collections/winter-essentials",
+        "image_1": "shopify://shop_images/446346425_1103793547366585_5306632686661950436_n_1.jpg",
+        "image_link_1": "shopify://collections/uniform",
         "image_link_2": "",
         "hide_image_2": false,
-        "heading": "Cold Weather Essentials",
-        "description": "<p>Your must-have pieces for the cold winter months.</p>",
-        "button_text": "Shop Now",
-        "button_link": "shopify://collections/winter-essentials",
+        "heading": "Staples for Every Season",
+        "description": "<p>No matter the season, these are the pieces you’ll keep reaching for.</p>",
+        "button_text": "Shop Uniform",
+        "button_link": "shopify://collections/uniform",
         "button_style": "primary",
         "video_url": "",
         "bg_color": ""
