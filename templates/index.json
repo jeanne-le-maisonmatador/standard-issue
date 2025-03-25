@@ -21,7 +21,7 @@
             "overlay_opacity": 20,
             "text_color": "text-light",
             "title": "Introducing the PD Cargos",
-            "slide_subheading": "This subheading helps you provide some more detail to the title above.",
+            "slide_subheading": "",
             "slide_btn_text": "Shop Now",
             "slide_btn_link": "shopify://collections/pd-cargo-pant",
             "slide_btn_style": "primary",
