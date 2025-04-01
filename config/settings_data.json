@@ -175,6 +175,7 @@
           },
           "announcement_JAzrec": {
             "type": "announcement",
+            "disabled": true,
             "settings": {
               "text": "SPRING CLEANING SALE! Limted time! Use Code SPRING25",
               "link": ""
